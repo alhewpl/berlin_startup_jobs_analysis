@@ -1,0 +1,22 @@
+According to the Trello Card, SQL queires match the questions:
+
+1. What are the TOP 10 skills required by companies?
+
+ SELECT skill_name, COUNT(*) FROM Skills_12_june
+GROUP BY skill_name
+ORDER BY COUNT(*) DESC
+LIMIT 10;
+
+2. How often the level of experience is required in job description?
+
+SELECT Company_name, Jobtitle FROM Stackoverflow_jobs_12_june
+WHERE Description LIKE('%experience%') AND Description LIKE('%years%');
+
+3. How many technical skills are required (distribution)?
+
+SELECT nb_of_skills, COUNT(*) as counts_per_cat FROM 
+(SELECT Jobtitle, COUNT(skill_name) AS nb_of_skills FROM Stackoverflow_jobs_12_june
+JOIN Skills_12_june ON ID = job_id
+GROUP BY Jobtitle) AS Counts
+GROUP BY nb_of_skills
+ORDER BY counts_per_cat DESC ; 
