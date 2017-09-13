@@ -27,53 +27,46 @@ for i in range(1,20):
         
 
 #Grab full content from the links 
-    for link in allJobLink:
-        response =  requests.get(link, headers = user_agent)
-        jobSoup = BeautifulSoup(response.content, 'html.parser')
+for link in allJobLink:
+    response =  requests.get(link, headers = user_agent)
+    jobSoup = BeautifulSoup(response.content, 'html.parser')
 
-        allJobsListeach = jobSoup.find_all("div", class_="w-col w-col-8")
+    allJobsListeach = jobSoup.find_all("div", class_="w-col w-col-8")
 
 
 
 #Get company name, Job Title, Small Description and Long Description 
         
 
-        for job in allJobsListeach:
-            companyName = job.find('span', class_='title-company-name')
-            anchor= companyName.text.split("// ")[1]
+    for job in allJobsListeach:
+        companyName = job.find('span', class_='title-company-name')
+        anchor= companyName.text.split("// ")[1]
 
-            jobTitle = job.find("h1", class_="bsj-h1").get_text()
-            justIt = jobTitle.split("//")[0]
+        jobTitle = job.find("h1", class_="bsj-h1").get_text()
+        justIt = jobTitle.split("//")[0]
 
-            job_small_description_tag = job.find('div', class_= 'paragraph')
-            job_small_description = job_small_description_tag.get_text()
+        job_small_description_tag = job.find('div', class_= 'paragraph')
+        job_small_description = job_small_description_tag.get_text()
 
-            job_long_description_tag = job.find('div', class_= 'white-bg')
-            job_long_description = job_long_description_tag.get_text()
+        job_long_description_tag = job.find('div', class_= 'white-bg')
+        job_long_description = job_long_description_tag.get_text()
 
 #Create the dictionnary
 
-            jobAd = { 'companyName': anchor, 'jobTitle': justIt, 'jobDescriptipnShort': job_small_description, 
-            'jobDescriptipnLong': job_long_description}
+        jobAd = { 'companyName': anchor, 'jobTitle': justIt, 'jobDescriptionShort': job_small_description, 
+        'jobDescriptionLong': job_long_description}
 
-            allJobsAd.append(jobAd)
-
-   
+        allJobsAd.append(jobAd)
 
 
 #Move content to database            
-conn = sqlite3.connect('/Users/ograndberry/documents/frauenloop/Data_science_project_1/berlin_startup_jobs_analysis/sof_db')
+conn = sqlite3.connect('/Users/alina/Desktop/webscraping/berlinstartupjob/BSJ')
 
 
 for jobAd in allJobsAd:
-    
     c = conn.cursor()
-    qu = "('{0}','{1}','{2}','{3}','{4}')".format(jobAd['companyName'], jobAd['jobTitle'],jobAd['jobDescriptipnLong'].strip(), datetime.date.today() ,'Berlin Startup Jobs')
-    c.execute("INSERT INTO raw_data_bsj(Company_name,Jobtitle,Description,Date,Source) VALUES {0}".format(qu))
+    c.execute("INSERT INTO raw_data_bsj(Company_name, Jobtitle, Description, Date, Source) VALUES (?, ?, ?, ?, ?)",(anchor, justIt, job_long_description, datetime.date.today() ,'Berlin Startup Jobs'))
 
     
 conn.commit()
 conn.close()
-
-
-
