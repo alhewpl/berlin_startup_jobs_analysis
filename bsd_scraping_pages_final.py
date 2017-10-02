@@ -10,7 +10,7 @@ user_agent = {'User-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) App
 allJobLink = []
 allJobsAd = []
 
-for i in range(1,20):
+for i in range(1,21):
     page = "http://berlinstartupjobs.com/engineering/page/{0}".format(i)
     response  = requests.get(page, headers = user_agent)
 
@@ -69,7 +69,7 @@ conn = sqlite3.connect('/Users/alina/Desktop/webscraping/berlinstartupjob/anothe
 for jobAd in allJobsAd:
     c = conn.cursor()
     qu ="('{0}','{1}','{2}','{3}','{4}')".format(jobAd['companyName'], jobAd['jobTitle'],jobAd['jobDescriptionLong'].strip(), datetime.date.today() ,'Berlin Startup Jobs')
-    c.execute("INSERT INTO raw_bsj_data(company_name, jobtitle, description, Date, source) VALUES {0}".format(qu))
+    c.execute("INSERT INTO final_bsj_long(company_name, jobtitle, description, Date, source) VALUES {0}".format(qu))
     
 conn.commit()
 conn.close()
