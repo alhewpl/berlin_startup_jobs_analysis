@@ -1,0 +1,4730 @@
+,job_id,skill
+0,553,r
+1,553,python
+2,553,sql
+3,554,python
+4,554,sql
+5,554,r
+6,555,python
+7,555,django
+8,555,aws
+9,555,sql
+10,555,scrum
+11,556,linux
+12,556,postgresql
+13,556,ceph
+14,556,python
+15,557,continuous-integration
+16,557,qa
+17,557,automated-tests
+18,557,sql
+19,557,python
+20,558,python
+21,558,sql
+22,558,deep-learning
+23,559,ruby
+24,559,sql
+25,559,python
+26,560,python
+27,560,django
+28,560,postgresql
+29,561,python
+30,561,django
+31,561,mysql
+32,561,docker
+33,561,git
+34,562,django
+35,562,reactjs
+36,563,java
+37,563,python
+38,563,mysql
+39,563,engineer
+40,563,backend
+41,564,java
+42,564,scala
+43,564,apache
+44,565,javascript
+45,565,python
+46,565,reactjs
+47,565,angularjs
+48,565,django
+49,566,python
+50,566,mongodb
+51,566,mysql
+52,566,postgresql
+53,566,etl
+54,567,devops
+55,567,python
+56,567,bash
+57,567,opennebula
+58,567,continuous-deployment
+59,568,aws
+60,568,python
+61,568,sql
+62,568,etl
+63,568,amazon-redshift
+64,569,sysadmin
+65,569,aws
+66,569,linux
+67,570,python
+68,570,mysql
+69,570,postgresql
+70,570,c++
+71,571,python
+72,571,linux
+73,571,scrum
+74,571,rest
+75,572,python
+76,572,http
+77,572,nosql
+78,572,mongodb
+79,572,zeromq
+80,573,amazon-redshift
+81,573,amazon-lambda
+82,573,amazon-kinesis
+83,573,ruby-on-rails
+84,573,python
+85,574,java
+86,574,hadoop
+87,574,python
+88,574,hive
+89,574,dijkstra
+90,575,c#
+91,575,.net
+92,575,java
+93,575,python
+94,575,data-science
+95,576,docker
+96,576,cloud
+97,576,jenkins
+98,576,websphere
+99,576,python
+100,576,sysadmin
+101,577,ruby-on-rails
+102,577,python
+103,577,ruby
+104,578,java
+105,578,scala
+106,578,go
+107,578,aws
+108,578,microservices
+109,579,java
+110,579,css
+111,579,user-experience
+112,579,python
+113,579,ruby
+114,579,sysadmin
+115,580,php
+116,580,java
+117,580,python
+118,580,postgresql
+119,580,mondrian
+120,581,html
+121,581,css
+122,581,javascript
+123,582,postgresql
+124,582,cassandra
+125,582,python
+126,582,go
+127,582,sysadmin
+128,583,linux
+129,583,aws
+130,583,routing
+131,583,mesos
+132,583,sysadmin
+133,584,python
+134,584,restful-web-services
+135,584,http
+136,584,javascript
+137,584,c++
+138,584,sysadmin
+139,585,machine-learning
+140,585,python
+141,585,c++14
+142,585,tensorflow
+143,585,pandas
+144,586,aws
+145,586,python
+146,586,go
+147,586,amazon-ecs
+148,586,aws-lambda
+149,587,sql
+150,587,cassandra
+151,587,columnstore
+152,587,tableau-server
+153,587,devops
+154,587,sysadmin
+155,588,java
+156,588,python
+157,588,c++
+158,588,aws
+159,588,azure
+160,589,xhtml
+161,589,css
+162,589,less
+163,589,sass
+164,589,javascript
+165,590,sql
+166,590,tableau
+167,590,pentaho
+168,590,qlikview
+169,591,java
+170,591,solr
+171,591,machine-learning
+172,591,full-text-search
+173,591,agile
+174,592,php
+175,592,go
+176,592,nosql
+177,592,docker
+178,592,high-traffic
+179,593,java
+180,593,python
+181,593,ruby
+182,593,cloud
+183,593,devops
+184,593,sysadmin
+185,594,python
+186,594,c++
+187,594,javascript
+188,594,algorithm
+189,594,performance
+190,595,python
+191,595,c++
+192,595,javascript
+193,595,algorithm
+194,595,performance
+195,596,python
+196,596,aws
+197,596,redis
+198,596,bigdata
+199,596,machine-learning
+200,597,java
+201,597,hadoop
+202,597,apache-spark
+203,597,apache-storm
+204,597,hive
+205,598,java
+206,598,cloud
+207,598,ruby
+208,598,microservices
+209,598,python
+210,599,php
+211,599,html5
+212,600,ruby-on-rails
+213,600,rest
+214,600,sql
+215,600,api
+216,601,reactjs
+217,601,javascript
+218,601,node.js
+219,601,aws
+220,601,mysql
+221,602,angularjs
+222,602,html5
+223,602,css
+224,602,vue.js
+225,602,reactjs
+226,603,sql
+227,603,javascript
+228,603,google-analytics
+229,603,piwik
+230,603,microstrategy
+231,604,content-management-system
+232,604,qa
+233,604,user-experience
+234,604,testing
+235,604,sysadmin
+236,605,aws
+237,605,nosql
+238,605,python
+239,605,ruby
+240,605,api
+241,606,c#
+242,606,java
+243,606,scala
+244,606,python
+245,606,nosql
+246,607,combinatorics
+247,607,java
+248,607,algorithm
+249,607,scala
+250,607,agile
+251,608,python
+252,608,ruby
+253,608,go
+254,608,aws
+255,608,devops
+256,608,sysadmin
+257,609,javascript
+258,609,reactjs
+259,609,angularjs
+260,609,html5
+261,609,css3
+262,610,docker
+263,610,kubernetes
+264,610,apache-kafka
+265,610,deis
+266,611,css
+267,611,html
+268,611,html5
+269,611,javascript
+270,611,jquery
+271,612,ansible
+272,612,aws
+273,612,sysadmin
+274,612,docker
+275,612,terraform
+276,612,mysql
+277,613,c++14
+278,613,python
+279,613,javascript
+280,613,http
+281,613,c++
+282,614,asp.net-mvc
+283,614,mvvm
+284,614,symfony
+285,614,ruby-on-rails
+286,614,django
+287,615,php
+288,615,sql
+289,615,javascript
+290,615,css
+291,615,html
+292,616,devops
+293,616,cloud
+294,616,infrastructure
+295,616,sysadmin
+296,616,linux
+297,616,python
+298,617,html
+299,617,css
+300,617,javascript
+301,617,php
+302,617,jquery
+303,618,reactjs
+304,618,javascript
+305,618,graphql
+306,618,ecmascript-6
+307,618,webpack
+308,619,testing
+309,619,c++
+310,619,python
+311,620,php
+312,620,mysql
+313,620,sql
+314,620,nosql
+315,620,git
+316,621,java
+317,621,c#
+318,621,sql
+319,621,shell
+320,621,testing
+321,622,symfony2
+322,622,event-sourcing
+323,622,apache-kafka
+324,622,tdd
+325,622,cqrs
+326,623,c++
+327,623,qt
+328,623,linux
+329,623,qml
+330,623,embedded
+331,624,aws
+332,624,sysadmin
+333,624,docker
+334,624,devops
+335,624,continuous-integration
+336,625,testing
+337,625,web
+338,625,automated-tests
+339,625,java
+340,625,c++
+341,626,php
+342,626,javascript
+343,626,microservices
+344,627,php
+345,627,go
+346,627,oop
+347,627,design-patterns
+348,627,javascript
+349,628,html
+350,628,css
+351,628,javascript
+352,628,angular
+353,628,scala
+354,629,business-intelligence
+355,629,bigdata
+356,629,interface
+357,629,mysql
+358,629,rabbitmq
+359,630,react-native
+360,630,react-redux
+361,630,reactjs
+362,630,mockups
+363,630,jquery
+364,631,.net
+365,631,node.js
+366,631,c#
+367,631,scala
+368,631,python
+369,632,java
+370,632,scala
+371,632,hadoop
+372,632,cassandra
+373,632,apache-kafka
+374,633,php
+375,633,symfony2
+376,633,mysql
+377,633,javascript
+378,634,javascript
+379,634,css
+380,634,reactjs
+381,634,relayjs
+382,634,graphql
+383,635,c#
+384,635,.net
+385,635,html
+386,635,css
+387,635,asp.net-mvc
+388,636,java
+389,636,web
+390,636,cc++
+391,637,php
+392,637,mysql
+393,637,mongodb
+394,638,php
+395,638,symfony-2.1
+396,638,mongodb
+397,638,javascript
+398,638,mysql
+399,639,javascript
+400,639,reactjs
+401,639,angularjs
+402,639,ruby
+403,640,php
+404,640,postgresql
+405,640,symfony2
+406,640,laravel
+407,640,docker
+408,641,reactjs
+409,641,javascript
+410,641,redux
+411,641,sass
+412,641,webpack
+413,642,docker
+414,642,mysql
+415,642,continuous-integration
+416,642,continuous-delivery
+417,642,devops
+418,643,c#
+419,643,asp.net
+420,643,html5
+421,643,javascript
+422,643,tsql
+423,644,javascript
+424,644,reactjs
+425,644,single-page-application
+426,644,css
+427,644,html
+428,645,javascript
+429,645,reactjs
+430,645,redux
+431,645,html5
+432,645,css3
+433,646,javascript
+434,646,stylus
+435,646,twig
+436,646,wordpress
+437,646,gulp
+438,647,node.js
+439,647,javascript
+440,647,mocha
+441,647,gruntjs
+442,647,browserify
+443,648,java
+444,648,spring
+445,648,microservices
+446,648,hibernate
+447,648,aws
+448,649,java
+449,649,kubernetes
+450,650,javascript
+451,650,reactjs
+452,650,css
+453,650,angular
+454,650,jquery
+455,651,java
+456,651,mysql
+457,652,php
+458,652,mysql
+459,652,javascript
+460,652,html5
+461,652,symfony
+462,653,angularjs
+463,653,javascript
+464,653,node.js
+465,653,html5
+466,653,jquery
+467,654,html
+468,654,css
+469,654,javascript
+470,654,angularjs
+471,654,sketchapp
+472,655,react
+473,655,bootstrap
+474,655,backbone
+475,655,babel
+476,655,javascript
+477,656,data-warehouse
+478,656,database
+479,656,plsql
+480,656,oracle
+481,656,sql
+482,657,javascript
+483,657,node.js
+484,657,ecmascript-6
+485,657,reactjs
+486,657,netsuite
+487,658,php
+488,658,lavarel
+489,658,mysql
+490,658,oop
+491,658,postgresql
+492,659,java
+493,659,agile
+494,659,api
+495,660,php
+496,660,symfony2
+497,660,solid-principles
+498,660,design-patterns
+499,660,mysql
+500,661,docker
+501,661,node.js
+502,661,javascript
+503,662,javascript
+504,662,node.js
+505,662,netsuite
+506,662,ecmascript-6
+507,662,continuous-integration
+508,663,php
+509,663,microservices
+510,663,restful-architecture
+511,663,composer-php
+512,663,tdd
+513,664,ruby
+514,664,ruby-on-rails-4
+515,664,javascript
+516,664,node.js
+517,665,php
+518,665,mysql
+519,665,git
+520,665,laravel
+521,665,typescript
+522,666,reactjs
+523,666,sass
+524,666,less
+525,666,css
+526,666,user-interface
+527,667,devops
+528,667,ruby
+529,667,graphite
+530,667,ansible
+531,668,javascript
+532,668,ruby-on-rails
+533,668,angularjs
+534,669,reactjs
+535,669,javascript
+536,669,html5
+537,669,css3
+538,670,php
+539,670,laravel
+540,670,mysql
+541,670,redis
+542,670,elasticsearch
+543,671,agile
+544,671,reactjs
+545,671,ruby-on-rails
+546,671,node.js
+547,672,reactjs
+548,672,javascript
+549,672,css
+550,673,android
+551,673,java
+552,673,mobile
+553,674,javascript
+554,674,html
+555,674,css
+556,674,reactjs
+557,674,angularjs
+558,675,java
+559,675,sql
+560,675,payment-gateway
+561,675,payment
+562,675,payment-processing
+563,676,puppet
+564,676,ansible
+565,676,virtuozzo
+566,676,linux
+567,676,openvz
+568,677,android
+569,678,reactjs
+570,678,javascript
+571,678,react-native
+572,678,tdd
+573,678,frontend
+574,679,ruby-on-rails
+575,679,node.js
+576,679,gis
+577,679,docker
+578,679,go
+579,680,html
+580,680,css
+581,680,javascript
+582,680,angular
+583,680,reactjs
+584,681,java
+585,681,scala
+586,681,cassandra
+587,681,mongodb
+588,681,sql
+589,682,puppet
+590,682,chef
+591,682,apache
+592,682,haproxy
+593,682,scripting
+594,683,javascript
+595,683,reactjs
+596,683,single-page-application
+597,683,css
+598,683,html
+599,684,html5
+600,684,css3
+601,684,javascript
+602,684,jquery
+603,684,angular-ui-bootstrap
+604,685,html5
+605,685,css
+606,685,javascript
+607,685,angularjs
+608,685,foundation
+609,686,php
+610,686,mysql
+611,686,html5
+612,686,scrum
+613,686,symfony
+614,687,angularjs
+615,687,javascript
+616,687,css
+617,687,bigdata
+618,688,angularjs
+619,688,javascript
+620,688,typescript
+621,688,html5
+622,688,video.js
+623,689,mysql
+624,689,html5
+625,689,css
+626,689,javascript
+627,690,apache-spark
+628,690,sql
+629,690,hadoop
+630,690,nosql
+631,691,java
+632,691,github
+633,691,vmware
+634,691,spring
+635,691,maven
+636,692,ruby-on-rails
+637,692,javascript
+638,692,coffeescript
+639,692,angularjs
+640,692,node.js
+641,693,java
+642,693,linux
+643,693,css
+644,693,tomcat
+645,693,jquery
+646,693,sysadmin
+647,694,java
+648,694,frontend
+649,694,html
+650,694,scrum
+651,695,javascript
+652,695,java
+653,695,css
+654,696,javascript
+655,696,node.js
+656,696,angularjs
+657,696,rest
+658,696,java
+659,697,java
+660,697,mariadb
+661,697,mysql
+662,697,mongodb
+663,698,node.js
+664,698,reactjs
+665,698,mongodb
+666,698,bitcoin
+667,698,docker
+668,699,css
+669,699,javascript
+670,699,jquery
+671,700,php
+672,700,oop
+673,700,mysql
+674,701,javascript
+675,701,reactjs
+676,701,react-redux
+677,701,jquery
+678,701,aws
+679,702,javascript
+680,702,oop
+681,702,angularjs
+682,702,scrum
+683,703,oracle
+684,703,sql
+685,703,java
+686,703,jms
+687,703,xml
+688,704,cloudfoundry
+689,704,ruby
+690,704,cloud
+691,704,microservices
+692,705,r
+693,705,java
+694,706,scala
+695,706,java
+696,706,aws
+697,707,linux
+698,707,database
+699,707,networking
+700,707,distributed-system
+701,707,sysadmin
+702,708,reactjs
+703,708,node.js
+704,708,ansible
+705,708,aws
+706,708,javascript
+707,709,java
+708,709,node.js
+709,709,scala
+710,710,php
+711,710,cucumber
+712,710,selenium
+713,710,behat
+714,710,codeception
+715,711,ruby-on-rails
+716,711,git
+717,711,html
+718,711,web-services
+719,712,elasticsearch
+720,712,solr
+721,712,scala
+722,712,search
+723,712,lucene
+724,713,javascript
+725,713,reactjs
+726,713,node.js
+727,713,express
+728,713,angularjs
+729,714,salesforce
+730,714,end-to-end-delivery
+731,714,scrum
+732,714,project-management
+733,714,backlog
+734,715,spring
+735,715,spring-mvc
+736,715,mysql
+737,716,java
+738,716,kotlin
+739,716,android
+740,717,frontend
+741,717,javascript
+742,717,angularjs
+743,717,backbone.js
+744,718,html5
+745,718,qunit
+746,718,javascript
+747,718,backbone.js
+748,719,java
+749,719,spring
+750,719,aws
+751,719,go
+752,719,git
+753,720,oracle
+754,720,sql
+755,720,vba
+756,720,access
+757,720,apex
+758,721,ruby
+759,721,ruby-on-rails
+760,721,sinatra
+761,721,software
+762,721,agile
+763,722,java
+764,722,c#
+765,722,sql
+766,722,performance-testing
+767,722,mobile
+768,723,mysql
+769,723,apache
+770,723,postgresql
+771,723,proxy
+772,724,java
+773,724,ruby
+774,724,python
+775,724,sql
+776,724,nosql
+777,725,salesforce
+778,725,crm
+779,725,apex
+780,725,visualforce
+781,726,postgresql
+782,726,pgtap
+783,726,liquibase
+784,726,postgresql-9.6
+785,726,sysadmin
+786,727,linux
+787,727,docker
+788,727,php
+789,727,go
+790,728,react-native
+791,728,redux
+792,728,realm
+793,728,webpack
+794,728,angularjs
+795,729,aws
+796,729,devops
+797,730,html5
+798,730,css3
+799,730,angularjs
+800,730,sass
+801,730,scrum
+802,731,3d
+803,731,vr
+804,731,augmented-reality
+805,731,c++
+806,732,jvm
+807,732,aws
+808,732,java
+809,732,scala
+810,732,spring
+811,733,testing
+812,733,agile
+813,733,qa
+814,733,jenkins
+815,733,selenium
+816,734,java
+817,734,scala
+818,734,akka
+819,734,apache-kafka
+820,735,java
+821,735,spring
+822,735,linux
+823,735,docker
+824,735,rest
+825,736,java
+826,736,selenium
+827,736,junit
+828,736,continuous-integration
+829,736,continuous-delivery
+830,737,reactjs
+831,737,node.js
+832,737,backbone.js
+833,737,angularjs
+834,737,javascript
+835,738,mongodb
+836,738,typescript
+837,738,docker
+838,738,node.js
+839,739,java
+840,739,postgresql
+841,739,spring
+842,739,jarkata
+843,740,java
+844,740,selenium
+845,740,mocking
+846,740,sql
+847,740,tdd
+848,741,ruby-on-rails
+849,741,ruby
+850,741,rubygems
+851,741,dry
+852,741,deployment
+853,742,c++
+854,742,multithreading
+855,742,aws
+856,742,java
+857,742,matlab
+858,743,hadoop
+859,743,hbase
+860,743,cassandra
+861,743,java
+862,743,scala
+863,744,docker
+864,744,aws
+865,744,puppet
+866,744,chef
+867,744,ansible
+868,744,sysadmin
+869,745,java
+870,745,backend
+871,745,scala
+872,746,java
+873,746,spring
+874,746,javascript
+875,746,java-ee
+876,747,java
+877,747,groovy
+878,747,grails
+879,747,spring
+880,748,java
+881,748,groovy
+882,748,grails
+883,748,spring
+884,749,selenium
+885,749,java
+886,749,junit
+887,749,mockito
+888,749,reactjs
+889,750,machine-learning
+890,750,statistics
+891,750,fraud-prevention
+892,750,algorithm
+893,751,apache
+894,751,bash
+895,751,linux
+896,752,javascript
+897,752,reactjs
+898,752,git
+899,752,unix
+900,752,ruby-on-rails
+901,753,java
+902,753,backend
+903,753,cloud
+904,754,ruby-on-rails
+905,754,cqrs
+906,754,javascript
+907,754,event-sourcing
+908,755,java
+909,755,angular
+910,755,gwt
+911,755,vaadin
+912,755,zend-framework
+913,756,security
+914,756,infosec
+915,756,mri
+916,756,ror
+917,756,rails
+918,757,php
+919,757,symfony2
+920,757,java
+921,757,spring
+922,758,c
+923,758,assembly
+924,758,embedded
+925,758,debugging
+926,758,hardware-programming
+927,759,cloud
+928,759,aws
+929,759,iaas
+930,759,jenkins
+931,759,sysadmin
+932,760,java
+933,760,continuous-integration
+934,760,jvm
+935,760,spring
+936,760,maven
+937,761,javascript
+938,761,frontend
+939,761,node
+940,761,reactjs
+941,761,angularjs
+942,762,kubernetes
+943,762,docker
+944,762,mesos
+945,762,google-cloud-platform
+946,762,google-container-engine
+947,763,salt
+948,763,docker
+949,763,cloud
+950,763,php
+951,763,jenkins
+952,764,networking
+953,764,cisco
+954,764,infrastructure
+955,764,vpn
+956,765,java
+957,765,spring-boot
+958,765,cloud
+959,765,postgresql
+960,766,html5
+961,766,css3
+962,766,javascript
+963,766,typescript
+964,766,angular2
+965,767,java
+966,767,spring
+967,767,java-ee
+968,767,maven
+969,767,git
+970,768,ios
+971,768,objective-c
+972,768,swift
+973,768,java
+974,768,android
+975,769,ruby-on-rails
+976,769,scala
+977,769,bigdata
+978,769,go
+979,769,hadoop
+980,770,cloud
+981,770,devops
+982,770,scrum
+983,770,agile
+984,771,android
+985,771,ios
+986,771,react-native
+987,771,json
+988,771,gis
+989,772,scrum
+990,772,kanban
+991,772,lean
+992,773,java
+993,773,c++
+994,773,openstreetmap
+995,774,nagios
+996,774,puppet
+997,774,elasticsearch
+998,774,mysql
+999,774,mariadb
+1000,775,oracle
+1001,775,java
+1002,775,sql
+1003,775,plsql
+1004,776,aws
+1005,776,docker
+1006,776,jenkins
+1007,776,terraform
+1008,777,java
+1009,777,c++
+1010,777,openstreetmap
+1011,778,hadoop
+1012,778,enterprise-architect
+1013,778,architecture
+1014,779,objective-c
+1015,779,swift
+1016,779,json
+1017,779,javascript
+1018,779,html5
+1019,780,java
+1020,780,scala
+1021,780,hadoop
+1022,780,mapreduce
+1023,780,nosql
+1024,781,ruby
+1025,781,ruby-on-rails
+1026,781,docker
+1027,781,go
+1028,781,aws
+1029,782,java
+1030,783,java
+1031,783,linux
+1032,783,android
+1033,783,apis
+1034,784,c++
+1035,785,java
+1036,785,jvm
+1037,785,continuous-integration
+1038,785,spring
+1039,785,maven
+1040,786,ruby-on-rails
+1041,786,aws
+1042,786,docker
+1043,786,puppet
+1044,786,linux
+1045,787,java
+1046,787,design
+1047,788,haskell
+1048,788,erlang
+1049,788,c#
+1050,788,java
+1051,788,clojure
+1052,789,distributed-system
+1053,789,security
+1054,789,cyber
+1055,789,software-design
+1056,789,reverse-engineering
+1057,790,java
+1058,790,scala
+1059,790,agile
+1060,791,java
+1061,791,scala
+1062,791,angular-fullstack
+1063,791,aws
+1064,791,nosql
+1065,792,java
+1066,792,scala
+1067,792,http
+1068,792,rest
+1069,792,spring
+1070,793,ios
+1071,793,iphone
+1072,793,ios-frameworks
+1073,793,objective-c
+1074,793,android
+1075,794,objective-c
+1076,794,swift
+1077,795,windows
+1078,795,watchguard
+1079,795,ocs
+1080,795,linux
+1081,795,encryption
+1082,795,sysadmin
+1083,796,ruby-on-rails
+1084,796,ruby
+1085,797,java
+1086,797,windows
+1087,797,assembly
+1088,797,ide
+1089,797,architecture
+1090,798,tomcat
+1091,798,java
+1092,798,jpa
+1093,798,spring
+1094,798,maven
+1095,799,ios
+1096,799,swift
+1097,799,objective-c
+1098,799,native
+1099,800,oracle
+1100,800,postgresql
+1101,800,backup
+1102,800,database
+1103,800,linux
+1104,800,sysadmin
+1105,801,ruby-on-rails
+1106,801,ruby
+1107,801,rest
+1108,801,tdd
+1109,801,soap
+1110,802,selenium-webdriver
+1111,802,jira
+1112,802,testlink
+1113,802,appium
+1114,802,testng
+1115,803,android
+1116,803,mobile
+1117,803,sdk
+1118,803,java
+1119,804,agile
+1120,804,java
+1121,804,scala
+1122,804,javascript
+1123,805,.net
+1124,805,sql-server
+1125,805,c#
+1126,805,domain-driven-design
+1127,805,microservices
+1128,806,informix
+1129,806,sysadmin
+1130,807,java
+1131,807,scala
+1132,807,javascript
+1133,807,node.js
+1134,807,rabbitmq
+1135,808,android
+1136,808,java
+1137,808,javascript
+1138,809,aws
+1139,809,ansible
+1140,809,postgresql
+1141,809,cloudwatch
+1142,809,aws-code-deploy
+1143,809,sysadmin
+1144,810,atlassian
+1145,810,jira
+1146,810,confluence
+1147,810,plugins
+1148,810,add-on
+1149,811,ios
+1150,811,development
+1151,812,domain-driven-design
+1152,812,microservices
+1153,812,machine-learning
+1154,812,bigdata
+1155,812,rest
+1156,813,programmin
+1157,814,java
+1158,814,javascript
+1159,814,typescript
+1160,814,objective-c
+1161,814,android
+1162,815,qa
+1163,815,selenium
+1164,815,appium
+1165,815,calabash
+1166,815,mobile-testing
+1167,816,cloudfoundry
+1168,816,openstack
+1169,816,chef
+1170,816,ansible
+1171,816,spring-boot
+1172,817,scala
+1173,817,java
+1174,817,aws
+1175,817,linux
+1176,817,kubernetes
+1177,818,html5
+1178,818,css3
+1179,818,javascript
+1180,818,frontend
+1181,819,c++
+1182,819,c
+1183,819,qt
+1184,820,ruby-on-rails
+1185,820,ruby
+1186,820,automated-tests
+1187,820,elasticsearch
+1188,820,redis
+1189,821,swift
+1190,821,xcode
+1191,821,objective-c
+1192,821,ios
+1193,822,java
+1194,822,java-ee
+1195,822,spring
+1196,822,rest
+1197,822,xml
+1198,823,objective-c
+1199,823,swift
+1200,823,iphone
+1201,823,core-bluetooth
+1202,823,ibeacon
+1203,824,java
+1204,824,rest
+1205,824,javascript
+1206,824,c
+1207,824,c++
+1208,825,android
+1209,825,java
+1210,825,mobile
+1211,825,css
+1212,825,http
+1213,826,c++
+1214,826,c++11
+1215,826,data-structures
+1216,826,algorithm
+1217,826,linear-programming
+1218,827,selenium
+1219,827,cucumber
+1220,827,behat
+1221,827,codeception
+1222,827,scrum
+1223,828,swift
+1224,828,ios
+1225,828,objective-c
+0,1,backend API’s
+1,1, JSON
+2,1, React Native
+3,1, GIS
+4,2,Python
+5,2, Java
+6,2, Machine Learning
+7,2,  C++
+8,2, Matlab
+9,2, R
+10,2, Scala
+11,3,PHP
+12,3, Laravel
+13,3, Wordpress
+14,3, HTML
+15,3, CSS
+16,3, JavaScript
+17,4,HTML
+18,4, CSS
+19,4, Javascript
+20,5,Machine Learning
+21,5, Python
+22,6,JavaScript
+23,6, Express
+24,6, RxJS
+25,6, Angular
+26,6, AWS
+27,6, Azure
+28,6, GCP
+29,6, CloudFoundry
+30,6, CouchDB
+31,6, Memcached
+32,6, MongoDB
+33,6, PostgreSQL
+34,6, Nginx
+35,6, Varnish
+36,6, HAProxy
+37,6, Redis
+38,6, RabbitMQ
+39,7,Java
+40,7, Restful APIs
+41,7, modern JVM
+42,8,Java
+43,8, Python
+44,9,Ansible
+45,9, Chef
+46,9, Puppet
+47,9, BASH
+48,9, Python
+49,9, Docker
+50,9, Kubernetes
+51,9, AWS
+52,10,Spark
+53,10, Scala
+54,10, Python
+55,10, scikit-learn
+56,10, MLlib
+57,10, Presto
+58,10, Impala
+59,10, Hive 
+60,11,Scala
+61,11, Java
+62,11, Machine Learning
+63,11,  Golang
+64,11, Spark
+65,11, Hadoop
+66,11, Kafka
+67,11, SQS
+68,11, NoSQL
+69,12,C++
+70,12, Python
+71,12, Go
+72,12, Javascript
+73,12, CAD
+74,13,Ruby on Rails
+75,13, ECMAScript 6
+76,13, React
+77,13, Redux
+78,13, Redux Thunk
+79,13, Bower
+80,13, Babel
+81,13, Webpack
+82,14,AWS
+83,14, Linux
+84,14, Ruby on Rails
+85,15,JIRA
+86,15, Confluence
+87,15, F2P
+88,15, HTML 5
+89,16, Java
+90,16, Rest APIs
+91,16, agile
+92,17,Javascript
+93,17, HTML5
+94,17, CSS3 
+95,17,JS
+96,17, AJAX
+97,17, JQuery
+98,17, Bootstrap
+99,17, D3.js
+100,17, Jasmine
+101,17, Selenium
+102,18,RabbitMQ
+103,18, ZeroMQ
+104,18, Kafka
+105,18, Apache Storm
+106,19,R
+107,19, Python
+108,19, SQL
+109,19, Google Cloud Platform
+110,20,Python
+111,20, SQL
+112,20, BigQuery
+113,20, ElasticSearch
+114,20, Python Celery
+115,20, Airflow
+116,20, Datadog
+117,20, R
+118,20, Google Cloud Platform
+119,20, Spark
+120,20, Hadoop
+121,21,Java
+122,21, Python
+123,21, Golang
+124,21, Linux
+125,21, TCP/IP stack
+126,22,
+127,23,Java
+128,23, Scala
+129,23, Python
+130,23, Play
+131,23, Go
+132,23, Kafka
+133,23, ActiveMQ
+134,23, MySQL
+135,23, Cassandra
+136,23, Linux
+137,23, Docker
+138,23, Spinnaker
+139,23, Ansible
+140,23, Kubernetes
+141,24,HTML
+142,24, CSS
+143,24, JavaScript
+144,25,Angular.js
+145,25, Backbone.js
+146,25, React
+147,25, Ionic
+148,25, Apache Cordova 
+149,26,HTML
+150,26, CSS
+151,26, JavaScript
+152,27,Javascript
+153,27, TypeScript
+154,27, Angular.js
+155,27, Backbone.js
+156,27, React
+157,27, Ionic
+158,27, Apache Cordova
+159,27, BubbleSort 
+160,28,UX
+161,28, interaction design
+162,28, Wordpress
+163,29,Elixir
+164,29, Ruby
+165,29, Go
+166,29, Scala
+167,30,JS Web Components
+168,30, Angular
+169,30, React.js
+170,30, React Native
+171,30, Ruby on Rails
+172,30, D3
+173,30, Highcharts
+174,30, RESTful API
+175,31,HTML
+176,31, CSS
+177,31, JavaScript
+178,31, TypeScript
+179,31, Angular
+180,31, node.js
+181,31, Express
+182,31, PHP
+183,31, MySQL
+184,31, REST API
+185,31, npm
+186,31, Webpack
+187,31, AWS
+188,31, EC2
+189,31, ECS
+190,31, S3
+191,31, RDS
+192,31, CloudFormation
+193,31, CloudWatch
+194,31, Docker
+195,31, Linux
+196,31, CAD
+197,32,Python
+198,32, Django
+199,32, JavaScript 
+200,33,Javascript
+201,33, React
+202,33, Angular
+203,33, CSS
+204,33, Sass
+205,33, ES6
+206,33, CoffeeScript
+207,33, HAML
+208,33, Browserify
+209,33, BEM
+210,33, TDD/testing
+211,33, Jest
+212,33, Jasmine
+213,33, Mocha
+214,35,Python
+215,35, SQL
+216,35, ETL framework
+217,35, PostgreSQL
+218,35, Google Analytics
+219,35, Snowplow
+220,35, Looker
+221,35, Tableau
+222,35, Sisense
+223,37,REST API
+224,37, Java
+225,37, Kotlin
+226,37, Agile
+227,37, Unix
+228,38,RESTful API
+229,38, OOP
+230,38, Objective C
+231,38, Swift
+232,38, HTML5
+233,38, CSS3
+234,38, JavaScript
+235,39,Angular2
+236,39, Ruby on Rails
+237,39, agile
+238,39, Jira
+239,39, nosql
+240,39, MongoDB
+241,39, Redis
+242,39, HTML5
+243,39, CSS3
+244,39, JS
+245,39, Webpack/Require.js
+246,39, Jasmine
+247,39, Protractor
+248,39, Grunt.js 
+249,39, Gulp.js 
+250,39, Bower
+251,39, Npm
+252,39, Yarn
+253,40,Redis
+254,40, PostgreSQL
+255,40, Python
+256,40, Ruby
+257,40, Docker
+258,40, Orchestration
+259,40, CI server
+260,40, AWS
+261,40, GCE
+262,40, C#
+263,40, Java
+264,40, Golang
+265,41,Ruby on Rails
+266,41, MySQL
+267,41, PostgreSQL
+268,41, NoSQL
+269,41, Redis
+270,41, Riak
+271,41, Cassandra
+272,41, Elastic Search
+273,41, AWS
+274,41, Agile
+275,41, React
+276,41, Vue
+277,41, Angular 
+278,42,Python
+279,42, Ruby
+280,42, Java
+281,42, Objective C
+282,42, JavaScript
+283,42, C++
+284,42, Docker
+285,42, Kubernetes
+286,42, AWS
+287,42, Azure
+288,44,Ruby on Rails
+289,44, NoSQL
+290,44, AWS
+291,44, Angular2
+292,44, Angular 4
+293,44, HTML5
+294,44, CSS3
+295,44, Webpack
+296,44, Require.js
+297,44, JavaScript
+298,44, AngularJS
+299,44, Jasmine
+300,44, Protractor
+301,44, Grunt.js
+302,44, Gulp.js
+303,44, Bower
+304,44, Npm
+305,44, Yarn
+306,44, Post.css
+307,45,JavaScript
+308,45, ReactJS
+309,45, Node.js
+310,45, Flux-architecture
+311,45, Promises/Q
+312,45, Underscore
+313,45, HTML
+314,45, CSS
+315,45, Gulp
+316,45, Grunt
+317,45, ES6
+318,46,Scala
+319,46, JVM
+320,46, AWS
+321,47,Laravel
+322,47, Symfony
+323,47, MySQL
+324,47, PostgreSQL
+325,47, MongoDB
+326,47, PHP
+327,47, AWS
+328,47, Azure
+329,47, Vue
+330,47, AngularJS Angular
+331,47, React
+332,47, Git
+333,47, Rest
+334,49,Python
+335,49, Machine Learning
+336,49, scikit-learn
+337,50,Tableau
+338,50, QuickSight
+339,50, GA
+340,50, GTM
+341,50, Snowplow
+342,50, Python
+343,50, R
+344,50, Pandas
+345,50, Scikit-learn
+346,50, SciPy
+347,50, Amazon Redshift
+348,50, AWS stack
+349,51,android
+350,51, agile
+351,52,
+352,53,Ruby
+353,53, Rails
+354,53, Erlang
+355,53, C
+356,53, iOS
+357,53, Objective-C
+358,53, Swift
+359,53, Android
+360,53, Java
+361,53, Kotlin
+362,53, Javascript
+363,53, Node
+364,53, React
+365,53, Postgres
+366,53, Redis
+367,53, Elasticsearch
+368,53, RabbitMQ
+369,53, Elm
+370,53, Kafka and Docker
+371,53, AWS
+372,53, Github
+373,53, Jenkins
+374,53, Graylog
+375,53, Kibana
+376,53, Consu
+377,54,
+378,55,Python
+379,55, Apache Spark
+380,55, SQL
+381,55, NoSQL
+382,55, Machine Learning
+383,55, PostgreSQL
+384,55, MongoDB
+385,55, Redis
+386,55, Hadoop
+387,55, Apache Spark
+388,56,Scala
+389,56, Java
+390,56, Ruby
+391,56, Python
+392,56, Apache Spark
+393,56, Cassandra
+394,56, KAFKA
+395,56, Airflow
+396,56, Docker
+397,56, Ansible
+398,56, Jenkins
+399,57,Perl
+400,57, Mysql
+401,57, OTRS
+402,57, Linux 
+403,59,JavaScript
+404,59, React
+405,59, Angular
+406,59, jQuery
+407,59, HTML5
+408,59, CSS3
+409,59, Gulp
+410,59, Webpack
+411,59, Grunt
+412,60,PHP7
+413,60, Symfony3
+414,60, MySQL
+415,60, MongoDB
+416,60, RabbitMQ
+417,60, Elasticsearch
+418,60, Redis
+419,60, Docker
+420,61,JavaScript
+421,61, SQL
+422,61, restful APIs
+423,61, Node.js
+424,61, grunt
+425,61, gulp
+426,62,Ruby-on-Rails
+427,62, git
+428,62, Python
+429,62, AWS
+430,63,JavaScript
+431,63, MongoDB
+432,63, React
+433,63, Meteor
+434,63, Express.js
+435,63, Python
+436,63, Go
+437,64,Git
+438,64, Maven
+439,64, Spring
+440,64, Solr
+441,65,Java
+442,65, REST APIs
+443,65, UNIX/Linux
+444,66,HTTP
+445,66, REST
+446,66, JSON
+447,66, Android
+448,66, OOP
+449,66, MVC
+450,66, MVP
+451,66, MVVM
+452,67,Google Analytics
+453,67, Google Tag Manager
+454,67, localytics
+455,67, HTML
+456,67, Javascript
+457,67, Google Apps script
+458,67, VWO
+459,67, Optimizely
+460,67, Angular
+461,67, React
+462,68,JavaScript
+463,68, Node.js
+464,68, Cucumber
+465,68, Gherkin
+466,68, Selenium
+467,68, Nightwatch
+468,68, Mocha
+469,68, Chai
+470,68, JUnit
+471,68, SQL
+472,68, Linux
+473,68, AWS
+474,69,agile
+475,69, XP
+476,69, Kanban 
+477,70,HTML5
+478,70, CSS
+479,70, REST
+480,70, Websocket
+481,70, UI/UX
+482,70, Elm
+483,71,GIS
+484,71, Java
+485,71, Android
+486,71, Swift
+487,72,ElasticSearch
+488,72, Mysql
+489,72, Grails
+490,72, Spring
+491,72, Spring-Boot
+492,72, Hibernate
+493,72, Apache Tomcat
+494,72, AWS
+495,72, RestAPI
+496,72, agile
+497,72, Scrum
+498,72, Kanban
+499,73,ERP-systems
+500,73, SAP
+501,73, SQL
+502,74,Scrum
+503,74, Kanban
+504,74, Waterfall
+505,74, UML modeling
+506,75,Excel
+507,75, SQL
+508,75, Pentaho
+509,75, Talend
+510,75, A/B testing
+511,76,python
+512,76, Linux/Unix
+513,76, scikit-learn
+514,76, TensorFlow
+515,77,Javascript
+516,77, Angular
+517,77, Redux
+518,77, React
+519,77, UX/UI
+520,77, RxJava
+521,77, NoSQL
+522,77, Couchbase
+523,78,Java
+524,78, Node.js
+525,78, JavaScript
+526,78, React.js
+527,78, ES6
+528,78, SQL
+529,78, NoSQL
+530,79,Server administration
+531,80,Javascript
+532,80, Angular
+533,80, React.js
+534,80, Gulp
+535,80, SASS/LESS
+536,80, Browserify
+537,82,PHP5/OOP
+538,82, MySQL
+539,82, REST/SOAP
+540,82, Elasticsearch
+541,82, Magento
+542,83,PHP
+543,83, Javascript
+544,83, Magento
+545,84,Java8
+546,84, Spring (DI
+547,84, Security
+548,84, Scheduling
+549,84, Tx
+550,84, Spring REST
+551,84, Spring WS)
+552,84, Spring Cloud Netflix (Eureka
+553,84, Ribbon)
+554,84, Messaging JMS / AMQP
+555,84, Maven
+556,84, PostgreSQL
+557,84, Dynamo DB
+558,84, Redis
+559,84, Hybrid Cloud Technologies
+560,85,Angular
+561,85, Backbone
+562,85, react
+563,85, Redux
+564,85, Webpack
+565,85, Universal rendering
+566,85, Marionette
+567,85, SCSS
+568,85, Node
+569,86,Linux/UNIX
+570,86, nginx
+571,86, php-fpm
+572,86, memcached
+573,86, redis
+574,86, MySQL
+575,86, JVM
+576,86, node.js
+577,86, Ansible
+578,86, CloudFormation
+579,86, EC2
+580,86, Route 53
+581,86, Elasticache
+582,86, RDS
+583,86, Redshift
+584,86, Elasticsearch
+585,86, AWS
+586,86, Bash
+587,86, Python
+588,86, Ruby
+589,86, PHP
+590,87,Jira
+591,87, Confluence
+592,87, GIT
+593,87, SQL
+594,87, NoSQL
+595,87, 
+596,88,HTML5
+597,88, CSS
+598,88, REST
+599,88, Websocket
+600,88, UI/UX
+601,89,CSS
+602,89, HTML
+603,89, Javascript
+604,89, Node.js
+605,90,Spring Boot
+606,90, Node.js
+607,90, TypeScript
+608,90, Python
+609,90, NLP
+610,90, REST APIs
+611,90, AWS SQS
+612,90, AWS Kinesis
+613,90, AWS RDS
+614,90, NoSQL
+615,90, AWS DynamoDB
+616,90, AWS ElasticCache
+617,90, AWS Redshift
+618,91,HTTP Protocol
+619,91, Selenium
+620,91, SQL
+621,91, Ready API
+622,92,ReactJS
+623,92, HTTP Protocol
+624,93,IoT
+625,93, Cloud Technology
+626,94,Blockchain
+627,94, Bots
+628,94, BigData
+629,94, IoT
+630,94, SQL
+631,94, PHP
+632,94, JS
+633,94, Python
+634,94, Symfony
+635,94, Silex
+636,94, NodeJS
+637,94, AWS-Cloud
+638,94, Hybrid Cloud
+639,94, Private Cloud
+640,94, On-Premise
+641,94, Unix/Linux
+642,94, Spryker 
+643,95,HTML5
+644,95, CSS3
+645,95, JavaScript
+646,95, jQuery
+647,95, AngularJS
+648,95, Bootstrap
+649,95, React
+650,95, Webpack
+651,95, Redux
+652,95, Twig
+653,95, Scss
+654,95, Foundation
+655,95, Photoshop
+656,96,Bash
+657,96, Python
+658,96, Ruby
+659,96, TCP/IP
+660,96, HTTP
+661,96, Puppet
+662,96, Chef
+663,97,Kanban
+664,97, Scrum
+665,98,VLAN
+666,98, VPN
+667,98, IT administration
+668,99,Yarn
+669,99, HDFS
+670,99, Hive
+671,99, Flink
+672,99, Kafka
+673,99, Jupyter
+674,99, Hue
+675,100,CSS
+676,100, Javascript
+677,100, Go
+678,100, Python
+679,100, Ruby
+680,100, PHP
+681,100, SASS/LESS
+682,100, Git 
+683,101,NLP
+684,101, Machine learning
+685,102,AWS
+686,102, REST APIs
+687,102, Go
+688,102, node.js
+689,102, Ruby on Rails
+690,103,mySQL
+691,103, Redshift
+692,103, AWS
+693,103, Python
+694,103, Snowplow
+695,103, Airflow
+696,104,Tableau
+697,104, Metabase
+698,104, QuickSight
+699,104, SQL
+700,104, Excel
+701,104, GA
+702,104, GTM
+703,104, Snowplow
+704,104, Python
+705,104, R
+706,104, Pandas
+707,104, Scikit-learn
+708,104, SciPy
+709,104, Amazon Redshift
+710,104, AWS stack
+711,105,Edge
+712,105, Cisco
+713,105, Ubiquity
+714,105, VLAN
+715,105, VPN
+716,105, Synology NAS
+717,105, iptables
+718,105, cron
+719,105, ssh
+720,105, bash
+721,105, dns
+722,105, ssl
+723,105, nginx
+724,105, Navision
+725,105, Remote Desktop
+726,105, MSSQL
+727,105, Active Directory
+728,105, Ansible
+729,105, AWS
+730,105, Route53
+731,105, EC2
+732,105, S3
+733,105, RDS
+734,106,PHP
+735,106, HTML5
+736,106, Mysql
+737,106, Postgresql
+738,106, Laravel
+739,106, Yii
+740,106, FuelPHP
+741,106, Symfony 2
+742,106, Zend 2
+743,106, git
+744,106, svn
+745,106, MongoDB
+746,106, CouchDB
+747,106, Redis
+748,106, memcache
+749,106, TDD (PHPUnit)
+750,106, BDD (Behat
+751,106, Codeception)
+752,106, AngularJS
+753,106, Node
+754,106, SASS / LESS
+755,106, Composer
+756,106, Packagist
+757,107,Cloudera
+758,107, Hortonworks
+759,107, MapR
+760,107, Amazon EMR
+761,107, Hadoop
+762,107, Google Cloud Platform
+763,107, BigQuery
+764,107, Data Store
+765,108,JavaScript
+766,108, Sahi
+767,108, Selenium
+768,108, Jenkins
+769,108, Jira
+770,108, TestRail
+771,108, AWS
+772,108, Azure
+773,108, GCP
+774,108, Hadoop 
+775,109,Java
+776,109, Python
+777,109, Docker
+778,109, Kubernetes
+779,109, AWS
+780,109, GCP
+781,109, Jenkins
+782,109, CI
+783,109, Rest
+784,109, SQL
+785,109, NoSQL
+786,109, Hadoop
+787,109, Hive
+788,109, Spark
+789,110,AWS Redshift
+790,110, MySQL
+791,110, R
+792,110, Python
+793,110, Docker
+794,111,Objective-C
+795,111, UI/UX
+796,111, XCode
+797,111, UI Kit
+798,111, Cocoa Touch
+799,111, web services
+800,111, REST APIs
+801,111, Media Services
+802,111, Instruments
+803,111, JSON
+804,111, Sqlite
+805,111, SOAP
+806,111, REST
+807,111, JSON
+808,111, XML
+809,112,Ruby on Rails
+810,112, SOA
+811,112, RSpec
+812,112, Minitest
+813,112, Git
+814,113,MySQL
+815,113, AWS
+816,113, Linux
+817,113, Continuous Integration
+818,114,Ruby w/o Rails
+819,114, Angular
+820,114, React
+821,114, AWS
+822,114, Jenkins
+823,116,Java
+824,116, Git
+825,116, Postgresql
+826,116, R
+827,116, Python
+828,116, Matlab
+829,116, SAS
+830,116, Excel
+831,116, SSH
+832,116, SCP Protocol 
+833,117,Git
+834,117, npm
+835,117, JavaScript
+836,118,Excel
+837,118, Jira
+838,118, MS Project
+839,120,Laravel
+840,120, Symfony
+841,120, MySQL
+842,120, PostgreSQL
+843,120, MongoDB
+844,120, PHP
+845,120, AWS
+846,120, Azure
+847,120, Vue
+848,120, AngularJS Angular
+849,120, React
+850,120, Git
+851,120, Rest
+852,121,Linux
+853,121, PHP
+854,121, Java
+855,121, AWS EC2
+856,121, S3
+857,121, RDS
+858,121, MongoDB
+859,121, MYSQL
+860,121, Nagios
+861,121, Icinga
+862,122,Selenium
+863,122, Java
+864,122, Groovy
+865,122, Selenium Grid
+866,122, BrowserStack
+867,122, SauceLabs
+868,122, TestNG
+869,122, Jenkins
+870,123,Javascript
+871,123, HTML
+872,123, CSS
+873,123, Vue
+874,123, AngularJS
+875,123, React
+876,123, Bootstrap
+877,123, Foundation
+878,123, LESS
+879,123, Sass
+880,123, Laravel
+881,123, Rails
+882,123, Django
+883,123, Git 
+884,124,Ruby on Rails
+885,124, Postgres
+886,124, Redis
+887,124, Rspec
+888,124, Capybara
+889,124, Webpack
+890,124, Babel
+891,124, React
+892,124, Redux
+893,124, React-router
+894,124, Sass
+895,124, Postcss
+896,124, Jest
+897,124, Sinon
+898,124, Cha
+899,124, AWS
+900,125,AngularJS
+901,125, Angular
+902,125, Javascript
+903,125, Typescript
+904,125, Graphics Programming / WebGL
+905,126,Ruby
+906,126, Python
+907,126, Java
+908,126, Scala
+909,126, PostgreSQL
+910,126, MySQL
+911,126, Oracle
+912,126, MongoDB
+913,126, CouchDB
+914,126, Cassandra
+915,126, TDD
+916,126, BDD
+917,126, CI/CD
+918,127,Selenium
+919,127, Web Driver
+920,127, JUnit
+921,127, TestNG
+922,127, Jira
+923,127, Git
+924,127, SVN
+925,127, Maven
+926,127, Jenkins
+927,127, Java
+928,127, Unix 
+929,128,C#
+930,128, Unity Multiplayer API (UNET)
+931,128, HTC Vive
+932,128, Git
+933,128, svn
+934,128, Scrum
+935,128, Kanban
+936,129,Python
+937,129, Javascript
+938,129, NoSQL
+939,129, MongoDB
+940,129, Apache Airflow
+941,129, AWS
+942,129, git
+943,129, Linux
+944,129, spark
+945,129, Hadoop
+946,130,R
+947,130, Python
+948,130, Matlab
+949,130, Scikit-learn
+950,130, TensorFlow
+951,130, Torch
+952,130, CRAN
+953,130, Spark
+954,130, Hadoop
+955,130, SQL
+956,130, NoSql
+957,130, AWS
+958,131,HTML
+959,131, JSX
+960,131, modular CSS (SCSS
+961,131, PostCss)
+962,131, Javascript
+963,131, React
+964,131, Gitflow
+965,131, GitHub
+966,131, TravisCI
+967,131, jest
+968,131, mocha
+969,131, chai
+970,131, sinon
+971,131, nightwatch.js
+972,131, webpack
+973,131, ES6+
+974,131, next.js
+975,131, Restful API
+976,132,Ruby
+977,132, Python
+978,132, AWS
+979,133,Nginx or Apache
+980,133, PostgreSQL
+981,133, MongoDB
+982,133, Docker
+983,133, Swarm
+984,133, Consul
+985,133, Jenkins
+986,133, git
+987,134,HTML5
+988,134, Angular
+989,134, React
+990,135,Python
+991,135, Django
+992,135, PostgreSQL
+993,135, MongoDB
+994,135, Docker
+995,135, Swarm
+996,135, Consul
+997,135, Jenkins
+998,135, git
+999,136,SCRUM
+1000,136, Jira
+1001,136, Magento
+1002,137,ISTQB/CAT certification
+1003,137, cross OS testing
+1004,138,Java
+1005,138, Eclipse
+1006,138, Hadoop
+1007,138, HDFS
+1008,138, Hive
+1009,138, Spark
+1010,138, Flink
+1011,138, YARN
+1012,139,git
+1013,139, javascript
+1014,139, Node
+1015,139, React
+1016,140,Scrum
+1017,140, Kanban
+1018,141,ZeroMQ (ZMQ)
+1019,142,JavaScript ES6
+1020,142, React
+1021,142, HMTL
+1022,142, CSS
+1023,142, Sass/Less
+1024,142, UI/UX
+1025,142, Git
+1026,142, Mocha
+1027,142, Chai
+1028,142, Enzyme
+1029,142, Sketch
+1030,142, Invision
+1031,142, Adobe Creative Cloud
+1032,142, Webpack
+1033,142, Gulp
+1034,142, Grunt
+1035,142, Static Site Generators/Templating Engines
+1036,143,Selenium
+1037,143, SCRUM
+1038,143, KANBAN
+1039,143, Jira 
+1040,144,AWS Services
+1041,144, EC2
+1042,144, Memcache
+1043,144, Redis
+1044,144, Load Balancers
+1045,144, Docker Vagrant
+1046,144, Chef
+1047,144, PHP
+1048,144, Laravel
+1049,144, Relational Databases
+1050,144, Elastic Search
+1051,144, NoSQL
+1052,144, Angular 1.4 / 2.0
+1053,144, React
+1054,145,C++
+1055,145, SQL
+1056,145, Hadoop
+1057,145, Hive
+1058,145, Impala
+1059,145, Tensorflow
+1060,145, Spark
+1061,146,
+1062,147,Go
+1063,147, Scala
+1064,147, Ruby
+1065,147, MySQL
+1066,147, Redis
+1067,147, Nginx
+1068,147, Kafka
+1069,147, Docker
+1070,147, git
+1071,147, AWS
+1072,148,Node.js
+1073,148, Python
+1074,149,Python
+1075,149, React
+1076,149, Angular
+1077,150,PostgreSQL
+1078,150, Elasticsearch
+1079,150, Redis
+1080,150, Ruby on Rails
+1081,151,Javascript ES6
+1082,151, React
+1083,151, Angular
+1084,151, Redux
+1085,151, Webpack
+1086,151, SASS Design
+1087,151, responsive web design
+1088,151, scrum
+1089,151, kanban
+1090,152,
+1091,153,Javascript ES2015
+1092,153, AngularJS
+1093,153, TypeScript
+1094,153, Redux
+1095,153, React Native
+1096,154,Javascript ES6/ES2015
+1097,154, CSS3
+1098,154, SASS
+1099,154, LESS
+1100,154, POSTCSS
+1101,154, Bootstrap
+1102,154, Foundation
+1103,155,HTML
+1104,155, CSS and JavaScript
+1105,155, JQuery
+1106,155, React.js
+1107,155, Redux
+1108,155, Ruby on Rails
+1109,155, PostgreSQL
+1110,155, Elasticsearch
+1111,155, Redis
+1112,157,JavaScript
+1113,157, UI
+1114,157, PowerShell
+1115,157, JavaScript
+1116,157, Puppet
+1117,157, Ansible
+1118,157, Chef
+1119,157, GIT
+1120,157, Jenkins
+1121,157, Maven 
+1122,158,Objective-C
+1123,158, Swift
+1124,158, Cocoa
+1125,158, iOS SDK
+1126,159,CSS
+1127,159, Javascript
+1128,159, Sass
+1129,159, jquery
+1130,159, vue.js
+1131,159, RequireJS
+1132,159, HTML
+1133,159, Twig
+1134,159, Angular
+1135,159, Grunt
+1136,159, ES6
+1137,160,HTML
+1138,160, (S)CSS
+1139,160, React
+1140,160, Javascript
+1141,160, Angular
+1142,160, Node
+1143,161,Scala
+1144,161, Android
+1145,161, git
+1146,163,C++
+1147,163, git
+1148,163, Python 
+1149,163, JS
+1150,163, Metal API
+1151,163, OpenGL
+1152,163, JUCE
+1153,164,HTML
+1154,164, CSS
+1155,164, JavaScript
+1156,164, Haml
+1157,164, Sass
+1158,164, Vue.js
+1159,164, Redux
+1160,164, BEM
+1161,164, Ruby on Rails
+1162,164, ClojureScript
+1163,165,C++
+1164,165, Jenkins
+1165,166,PHP
+1166,166, Zend2
+1167,166, Zend3
+1168,166, HTML
+1169,166, CSS
+1170,166, LESS/SASS
+1171,166, JavaScript
+1172,166, JQuery
+1173,167,Kotlin
+1174,167, JVM
+1175,167, Android SDK
+1176,167, A/B Testing 
+1177,168,Objective-C
+1178,168, iOS SDK
+1179,168, Swift
+1180,169,Ruby on Rails
+1181,169, HTML
+1182,169, (S)CSS
+1183,169, Javascript
+1184,169, React
+1185,169, git
+1186,169, SQL
+1187,169, Jasmine
+1188,170,Spring
+1189,170, Groovy
+1190,170, Spock
+1191,170, Elastic Search
+1192,170, Kibana
+1193,170, Gradle
+1194,170, React
+1195,170, Gulp
+1196,170, Webpack
+1197,170, Node
+1198,170, React
+1199,170, Java
+1200,171,MySQL
+1201,171, PostgreSQL
+1202,171, Ruby
+1203,171, Elixir
+1204,171, Javascript
+1205,171, HTML
+1206,171, CSS
+1207,171, Packer
+1208,171, Terraform 
+1209,172,Javascript ES6
+1210,172, React
+1211,172, HTML
+1212,172, CSS
+1213,172, SCRUM
+1214,172, KANBAN
+1215,172, Carto
+1216,172, D3.js
+1217,173,PHP
+1218,173, HTML5
+1219,173, JQuery
+1220,173, CSS3
+1221,173, Hudson
+1222,173, Jenkins
+1223,173, TestNG
+1224,173, Selenium
+1225,173, Unit Frameworks
+1226,173, SQL
+1227,173, Java
+1228,174,Unity3D
+1229,174, C#
+1230,174, Java
+1231,174, Python
+1232,174, AWS
+1233,175,JIRA
+1234,175, Confluence
+1235,176,JavaScript
+1236,176, NodeJS
+1237,176, Jenkins
+1238,176, AWS
+1239,176, Git
+1240,176, MariaDB
+1241,176, Redis 
+1242,177,HTML
+1243,177, CSS
+1244,177, JavaScript
+1245,177, Typescript
+1246,177, Angular
+1247,177, node.js
+1248,177, Express
+1249,177, PHP
+1250,177, Mysql
+1251,177, REST API design
+1252,177, git
+1253,177, npm
+1254,177, Webpack
+1255,177, AWS
+1256,177, EC2
+1257,177, ECS
+1258,177, S3
+1259,177, RDS
+1260,177, CloudFormation
+1261,177, CloudWatch
+1262,177, Docker
+1263,177, Linux
+1264,178,Go
+1265,178, Python
+1266,178, Docker
+1267,178, Kubernetes
+1268,178, SQL
+1269,178, NoSQL
+1270,179,Ruby on Rails
+1271,179, HTML
+1272,179, Javascript
+1273,179, CSS
+1274,179, TDD
+1275,179, CD / CI
+1276,180,Objective-C
+1277,180,  Cocoa Touch
+1278,180, Core Location
+1279,180, Core Motion
+1280,180, HealthKit
+1281,180, git
+1282,181,RESTful API
+1283,181, Python
+1284,181, GCP
+1285,181, AWS
+1286,181, Docker
+1287,181, Kubernetes
+1288,181, git
+1289,182,Python
+1290,182, Keras
+1291,182, TensorFlow
+1292,182, SciPy
+1293,182, Jupyter
+1294,182, Pandas
+1295,183,Python
+1296,184,bitcoin blockchain
+1297,184, ethereum
+1298,184, smart contracts
+1299,184, IOTA
+1300,184, Polkadot
+1301,184, Cosmos
+1302,184, Parity
+1303,184, IPFS
+1304,184, BigchainDB
+1305,185,Javascript
+1306,185, Node
+1307,186,SauceLabs
+1308,186, BrowserStack
+1309,186, VMs
+1310,186, UNIX
+1311,186, JavaScript
+1312,186, Python
+1313,186, Ruby
+1314,187,Magento
+1315,187, HTML5
+1316,187, CSS
+1317,187, Javascript
+1318,187, PHP
+1319,187, Grunt
+1320,187, Gulp
+1321,187, Webpack
+1322,187, Git
+1323,187, TDD
+1324,187, BDD
+1325,188,Unity
+1326,188, C++
+1327,188, JAVA
+1328,188, Objective-C
+1329,188, Swift
+1330,188, JavaScript
+1331,188, MVC
+1332,188, Entity Component Systems
+1333,188, StrangeIoC
+1334,188, Zenject
+1335,189,Selenium
+1336,189, Java
+1337,189, C++
+1338,189, JavaScript
+1339,189, Python
+1340,190,OOP PHP
+1341,190, MVC pattern
+1342,190, MySQL
+1343,190, REST
+1344,190, JavaScript
+1345,190, CSS3
+1346,190, HTML5
+1347,190, React
+1348,190, Redux
+1349,190, ES6
+1350,190, SASS
+1351,190, Webpack
+1352,190, Bower
+1353,190, XDebug
+1354,190, Symfony2/3
+1355,190, Zend
+1356,190, Jenkins
+1357,190, Jira
+1358,191,Javascript
+1359,191, HTML5
+1360,191, CSS3
+1361,191, Jenkins
+1362,191, Jira
+1363,191, Webpack
+1364,191, UI
+1365,192,Selenium
+1366,193,Java
+1367,193, React
+1368,193, JavaScript
+1369,193, CSS
+1370,193, Spring Boot
+1371,193, MVC frameworks
+1372,193, Hibernate
+1373,193, IntelliJ IDEA
+1374,193, Eclipse
+1375,193, GIT
+1376,193, SVN
+1377,194,Javascript
+1378,194, React
+1379,194, HTML5
+1380,194, CSS
+1381,194, SCSS
+1382,195,AngularJS
+1383,195, Javascript
+1384,195, CSS
+1385,195, REST
+1386,195, JSON
+1387,195, HTML5
+1388,195, UI/UX
+1389,195, Scrum
+1390,196,Docker
+1391,196, Git
+1392,196, Gerrit
+1393,196, Java
+1394,196, Groovy
+1395,196, Python
+1396,196, Perl
+1397,196, Ruby
+1398,197,SQL
+1399,197, Excel
+1400,197, SSIS
+1401,197, Tableau
+1402,198,Linux
+1403,198, Docker
+1404,198, Git
+1405,198, C
+1406,198, C++
+1407,198, Java
+1408,198, Groovy
+1409,198, Python
+1410,198, Go
+1411,198, Perl
+1412,198, Ruby
+1413,198, Hana
+1414,199,Linux
+1415,199, Docker
+1416,199, Python
+1417,199, Perl
+1418,199, Git
+1419,199, Gerrit
+1420,199, C/C++
+1421,199, Go 
+1422,200,Linux
+1423,200, Docker
+1424,200, Python
+1425,200, Perl
+1426,200, Git
+1427,200, Gerrit
+1428,200, C/C++
+1429,200, Go
+1430,201,Linux
+1431,201, Docker
+1432,201, Python
+1433,201, Git
+1434,201, Gerrit
+1435,201, C/C++
+1436,202,C++
+1437,202, Linux
+1438,202, Python
+1439,202, Git
+1440,202, Gerrit
+1441,203,C/C++
+1442,203, Perl
+1443,203, Python
+1444,203, Git
+1445,203, Gerrit
+1446,203, Docker
+1447,204,AWS Services
+1448,204, EC2
+1449,204, Memcache
+1450,204, Redis
+1451,204, Load Balancers
+1452,204, Docker
+1453,204, Vagrant
+1454,204, Chef
+1455,204, Elastic Search
+1456,204, NoSQL
+1457,204, Angular 1.4 / 2.0
+1458,204, React
+1459,204, PHP
+1460,205,C++
+1461,205, Linux
+1462,205, Python
+1463,205, Git
+1464,205, Gerrit
+1465,206,REST
+1466,206, GIT
+1467,206, Gradle/Maven
+1468,206, CI-System
+1469,206, Docker
+1470,206, Java
+1471,206, JUnit
+1472,206, JBehave
+1473,206, Selenium
+1474,206, TestNG
+1475,206, JMeter
+1476,206, LoadRunner
+1477,207,Node.js
+1478,207, PostgreSQL
+1479,207, Jenkins
+1480,207, Travis
+1481,207, Javascript
+1482,207, Bitcoin
+1483,207, Ethereum
+1484,208,Python GUI
+1485,209,Android SDK
+1486,209, ADT
+1487,209, Android Studio
+1488,209, RxJava
+1489,209, Kotlin
+1490,209, RESTful API
+1491,209, Ruby
+1492,209, Git
+1493,210,Ansible
+1494,210, Chef
+1495,210, SaltStack
+1496,210, Puppet
+1497,210, Zabbix
+1498,210, Logstash
+1499,210, Elastic Search
+1500,210, PostgreSQL
+1501,210, MySQL
+1502,210, MongoDB
+1503,210, Apache
+1504,210, Nginx
+1505,210, Jenkins
+1506,210,Travis
+1507,210, Bash
+1508,210, git
+1509,210, Node.js
+1510,210, Docker
+1511,211,NoSql
+1512,211, Elasticsearch
+1513,211, TDD
+1514,211, AngularJS
+1515,211, React
+1516,212,NodeJS
+1517,212, Restful APIs
+1518,212, NoSql
+1519,212, Docker
+1520,212, Jenkins
+1521,212, Gulp
+1522,212, Grunt
+1523,212, Elasticsearch
+1524,212, TDD
+1525,212, AngularJS
+1526,212, React
+1527,213,Swift
+1528,213, iOS SDK
+1529,213, Xcode
+1530,213, AppCode
+1531,213, Instruments
+1532,214,HTML5
+1533,214, LESS/SASS
+1534,214, React.js
+1535,214, Javascript
+1536,214, AngularJS
+1537,214, Node.js
+1538,214, REST API
+1539,214, Git
+1540,214, Jenkins
+1541,214, Webstorm
+1542,214, Webpack
+1543,215,HTML5
+1544,215, CSS3
+1545,215, Linux
+1546,215, git
+1547,215, CoffeeScript
+1548,215, Node.js
+1549,216,HTTP2
+1550,216, TCP/IP
+1551,216, CSS
+1552,216, HTML
+1553,216, Browser JS APIs
+1554,216, NPM
+1555,216, Yarn
+1556,216, Babel
+1557,216, Browserify
+1558,216, Webpack
+1559,216, Rollup
+1560,216, React
+1561,216, Angular
+1562,217,Travis
+1563,217, Jenkins
+1564,217, SQL
+1565,218,React native
+1566,218, REST APIs
+1567,219,Linux
+1568,219, nginx
+1569,219, apache
+1570,219, tomcat
+1571,219, redis
+1572,219, memcached
+1573,219, Jenkins
+1574,219, Puppet
+1575,219, Chef
+1576,219, MySql
+1577,219, Javascript
+1578,219, PHP
+1579,220,JavaScript
+1580,220, Node.js
+1581,220, Python
+1582,220, Redshift
+1583,220, Sequelize
+1584,220, SQL
+1585,220, Docker
+1586,220,  Git
+1587,220, JIRA
+1588,220, Teamcity
+1589,221,Java
+1590,221, Kubernetes
+1591,222,RESTful API’s
+1592,222, HTML5
+1593,222, CSS3
+1594,222, JavaScript
+1595,222, UNIX
+1596,223,REST API’s
+1597,223, Java
+1598,223, Unix
+1599,224,Scala
+1600,224, Java
+1601,224, Go
+1602,224, HL7
+1603,224, FHIR
+1604,224, IHE
+1605,224, DICOM
+1606,224, IEEE
+1607,224, ISO
+1608,224, CEN
+1609,224, EHR/EMR
+1610,224, RESTful
+1611,224, XML
+1612,224, XSLT
+1613,224, JSON
+1614,225,HTML5
+1615,225, CSS3
+1616,225, React
+1617,225, Redux
+1618,225, Webpack
+1619,225, Rails
+1620,225, Postgres
+1621,225, Elasticsearch
+1622,226,JavaScript
+1623,226, React
+1624,226, Git
+1625,226, Unix
+1626,226, REST-APIs
+1627,226, Ruby on Rails
+1628,226, Node.js
+1629,226, Jasmine
+1630,226, Karma
+1631,227,Ruby
+1632,227, Ruby on Rails
+1633,227, ElasticSearch
+1634,227, Redis
+1635,227, Docker
+1636,228,
+1637,229,PHP5+
+1638,229, PHP7
+1639,229, Git
+1640,229, Magento
+1641,229, MySQL
+1642,229, Redis
+1643,229, Nginx/Apache
+1644,229, Javascript
+1645,229, API
+1646,229, REST
+1647,229, SOAP
+1648,229, TDD/BDD
+1649,229, Jenkins
+1650,229, RabbitMQ
+1651,229, Kafka
+1652,229, ElasticSearch
+1653,229, Solr
+1654,229, NoSQL
+1655,229, Magento
+1656,229, Laravel
+1657,229, AWS
+1658,229, Docker
+1659,230,PostgreSQL
+1660,230, Spark
+1661,230, MySQL
+1662,230, Aerospike/Redis/Elasticsearch
+1663,230, Linux
+1664,230, AWS
+1665,231,Linux
+1666,231, Python
+1667,231, Ruby
+1668,231, Go
+1669,231, Jenkins
+1670,231, Teamcity
+1671,231, Openstack
+1672,231, Kubernetes
+1673,231, Chef
+1674,231, Puppet
+1675,232,Scrum
+1676,232, Kanban
+1677,232, Jira
+1678,233,PostgreSQL
+1679,233, Doctrine
+1680,233, Redis
+1681,233, RabbitMQ
+1682,233, Zend2
+1683,233, Symfony2
+1684,233, Laravel
+1685,233, git
+1686,233, composer
+1687,233, Vagrant
+1688,233, Jenkins
+1689,233, PHPStorm
+1690,233, XDebug
+1691,233, Scrum
+1692,233, Kanban
+1693,234,AWS
+1694,234, Cassandra/ElasticSearch
+1695,234, Haskell
+1696,234, Rust
+1697,234, Unix/Linux
+1698,235,
+1699,236,Scala
+1700,236, Java
+1701,236, Go
+1702,236, Finatra
+1703,236, Play
+1704,236, ES6
+1705,236, Docker
+1706,236, Kubernetes
+1707,236, Terraform
+1708,236, Ansible
+1709,236, Azure
+1710,236, PostgreSQL
+1711,236, SAP Hana
+1712,237,ES6
+1713,237, JQuery
+1714,237, AngularJS
+1715,237, Ember.js
+1716,237, D3.js
+1717,238,Scala
+1718,238, Java
+1719,238, Go
+1720,238, Finatra
+1721,238, Play
+1722,238, ES6
+1723,238, Docker
+1724,238, Kubernetes
+1725,238, Terraform
+1726,238, Ansible
+1727,238, Azure
+1728,238, PostgreSQL
+1729,238, SAP Hana
+1730,239,Bash
+1731,239, Python
+1732,239, Ruby
+1733,239, Docker
+1734,239, Kubernetes
+1735,239, Terraform
+1736,239, Ansible
+1737,239, AWS/Azure
+1738,240,Java
+1739,240, Swift
+1740,240, UI
+1741,240, MVP
+1742,241,HTML
+1743,241, CSS
+1744,241, JavaScript
+1745,241, React
+1746,241, Angular
+1747,241, Vue.js 
+1748,242,TDD
+1749,242, BDD
+1750,242, Selenium
+1751,242, PHP
+1752,242, Python
+1753,242, JavaScript
+1754,242, Magento
+1755,242, AWS
+1756,242, Codeception
+1757,242, Behat
+1758,242, git
+1759,243,Java
+1760,243, REST
+1761,243, JavaScript
+1762,243, ECMAScript2015
+1763,243, HTML5
+1764,243, CSS3
+1765,244,JavaScript
+1766,244, TypeScript
+1767,244, Flow
+1768,245,PHP
+1769,245, Go
+1770,245, Python
+1771,245, JavaScript
+1772,246,Scala
+1773,246, Linux
+1774,246, Docker
+1775,246, Mesos
+1776,246, Marathon
+1777,247,C/C++
+1778,247, Java
+1779,248,Ruby/RoR
+1780,248, React.js
+1781,248, TDD
+1782,248, CI
+1783,248, CD
+1784,248, TypeScript
+1785,248, Docker
+1786,248, RabbitMQ
+1787,249,SAN
+1788,249, NAS
+1789,249, Linux
+1790,249, Windows
+1791,249, MAC
+1792,249, Shell
+1793,249, Python
+1794,249, Powershell
+1795,250,Linux
+1796,250, Puppet
+1797,250, Chef
+1798,250, Apache/Nginx
+1799,250, HAProxy
+1800,250, AWS
+1801,250, Azure/GCP
+1802,250, Bash
+1803,250, PHP
+1804,250, Python
+1805,250, Ruby 
+1806,251,Python
+1807,251, AWS
+1808,251, Spark
+1809,251, Machine Learning
+1810,252,HTML
+1811,252, CSS
+1812,252, JavaScript
+1813,252, SQL
+1814,252, Linux
+1815,252, PHP7
+1816,252, Symfony2
+1817,252, AngularJS
+1818,252, jQuery
+1819,252, Behat (PHP)
+1820,252, Karma
+1821,252, Jasmine
+1822,252, NodeJS
+1823,252, Selenium
+1824,253,Linux
+1825,253, Docker
+1826,253, Kubernetes
+1827,253, Puppet
+1828,254,JavaScript (ES2015)
+1829,254, Meteor
+1830,254, MongoDB
+1831,255,Puppet
+1832,255, Chef
+1833,255, Apache/Nginx
+1834,255, HAProxy
+1835,255, AWS
+1836,255, Azure
+1837,255, GCP
+1838,255, Bash
+1839,255, PHP
+1840,255, Python
+1841,255, Ruby
+1842,256,CISSP certification
+1843,257,CDN
+1844,257, FTP
+1845,257, Scrum
+1846,257, Kanban
+1847,258,PHP
+1848,258, Python
+1849,258, Go
+1850,258, Node
+1851,258, AWS
+1852,258, Terraform
+1853,258, Ansible
+1854,258, MySQL
+1855,258, ElasticSearch
+1856,258, Redis
+1857,258, NoSQL
+1858,258, Packer
+1859,258, Docker
+1860,258, TDD
+1861,258, BDD
+1862,258, Jenkins
+1863,258, RabbitMQ
+1864,258, Kafka
+1865,258, ElasticSearch
+1866,258, Solr
+1867,259,Symfony2
+1868,259, PHP
+1869,259, MySQL
+1870,260,Scrum
+1871,260, Kanban
+1872,261,Linux
+1873,261, Docker
+1874,261, Kubernetes
+1875,261, Puppet
+1876,262,Play Framework
+1877,262, Akka HTTP
+1878,262, http4s
+1879,262, Spring Boot
+1880,262, SQL
+1881,262, NoSQL
+1882,262, Cassandra
+1883,262, CI/CD
+1884,262, Kafka
+1885,262, Spark
+1886,262, Google Protobuf
+1887,262, Message Queues
+1888,263,Spark
+1889,263, Hadoop
+1890,263, Kafka
+1891,263, Kinesis
+1892,263, AWS
+1893,263, S3
+1894,263, Spark
+1895,263, Scala
+1896,264,Python
+1897,264, Django
+1898,264, Pyramid
+1899,264, Flask
+1900,264, REST
+1901,264, GraphQL
+1902,264, SQL
+1903,264, NoSQL
+1904,264, Postgres
+1905,264, Cassandra
+1906,264, CI/CD
+1907,265,PostgreSQL
+1908,265, MySQL
+1909,265, Looker
+1910,265, Pentaho
+1911,265, Google Analytics
+1912,265, Excel
+1913,265, Spark
+1914,265, Hive
+1915,265, R
+1916,265, SAS
+1917,265, SPSS
+1918,265, Python
+1919,266,Appium
+1920,266, Calabash
+1921,267,Machine Learning
+1922,267, Scala
+1923,267, Pandas
+1924,267, R
+1925,267, Spark
+1926,268,
+1927,269,Lamp stack
+1928,270,Apache Spark
+1929,270, Scala
+1930,270, SQL
+1931,270, Google AdWords
+1932,270, Machine Learning
+1933,271,SQL
+1934,271, R
+1935,271, Python
+1936,271, SAS
+1937,271, SPSS
+1938,271, Spark
+1939,271, Hadoop
+1940,271, Scala
+1941,271, Java
+1942,271, Hive
+1943,271, Looker
+1944,272,MSSQL
+1945,272, MySQL
+1946,272, Transact SQL
+1947,272, PowerShell 
+1948,273,Ruby
+1949,273, Ruby on Rails
+1950,273, Scala
+1951,273, Java
+1952,273, Python
+1953,273, Lua
+1954,273, SQL
+1955,274,Scrum
+1956,274, Kanban
+1957,275,Unix
+1958,276,Javascript
+1959,276, Java
+1960,276, Ruby
+1961,276, Python
+1962,276, RESTful
+1963,276, XML
+1964,276, HTML
+1965,276, JSON
+1966,276, Testrail
+1967,276, JIRA
+1968,276, SQL
+1969,277,Javascript
+1970,277, React
+1971,277, Vue.js
+1972,277, AngularJS
+1973,277, CSS
+1974,277, Nodejs
+1975,278,
+1976,279,RSpec
+1977,279, Cucumber
+1978,279, git
+1979,279, Jenkins
+1980,279, GitLab CI
+1981,279, Kubernetes
+1982,279, Docker
+1983,279, Unix/Linux
+1984,280,Ruby
+1985,280, RabbitMQ
+1986,280, Elixir
+1987,280, HTML5
+1988,280, ES6
+1989,280, CSS3
+1990,280, REST
+1991,280, git
+1992,280, GitLab CI
+1993,280, Jenkins
+1994,280, Kubernetes
+1995,280, Docker
+1996,280, RSpec
+1997,280, Cucumber
+1998,280, SQL
+1999,280, NOSQL
+2000,280, PostgreSQL
+2001,280, MongoDB
+2002,280, Neo4j
+2003,280, InfluxDB/ Prometheus
+2004,281,Swift
+2005,281, Objective-C
+2006,281, REST API
+2007,282,JavaScript
+2008,282, CSS
+2009,282, HTML
+2010,282, JavaScript
+2011,282, TypeScript
+2012,282, ReactJS
+2013,282, NodeJs
+2014,282, Less
+2015,282, Sass and Bootstrap
+2016,282, Foundation
+2017,282, AWS
+2018,282, CloudFront
+2019,282, S3
+2020,282, OpsWorks
+2021,282, IntelliJ
+2022,282, Git
+2023,283,JavaScript
+2024,283, HTML
+2025,283, CSS
+2026,283, BEM
+2027,283, A/B Testing
+2028,285,Python
+2029,285, AWS
+2030,285, Azure
+2031,285, Git
+2032,285, Jira
+2033,285, Confluence
+2034,285, Jenkins
+2035,285, IoT/Industry 4.0
+2036,285, Machine Learning
+2037,287,azure
+2038,287, AWS
+2039,287, PostgreSQL
+2040,287, AngularJS
+2041,287, Angular Material
+2042,287, Bootstrap
+2043,287, Bower
+2044,287, ECMAScript 6
+2045,287, Less
+2046,287, WebGL
+2047,287, Celery
+2048,287, Django
+2049,287, PostgreSQL
+2050,287, Python
+2051,287, RabbitMQ
+2052,287, Git
+2053,287, Jira
+2054,288,SQL
+2055,288, NOSQL
+2056,288, Python
+2057,288, Django
+2058,288, Angular
+2059,289,Python
+2060,289, Django
+2061,289, Angular
+2062,289, Jira
+2063,290,PHP
+2064,290, Zend
+2065,290, REST API
+2066,290, Java
+2067,290, Spring-Boot
+2068,290, Lombok
+2069,290, PostgreSQL
+2070,290, AWS
+2071,290, EC2
+2072,290, S3
+2073,290, Transcoder
+2074,290, Javascript
+2075,290, NodeJS
+2076,290, gulp
+2077,290, bower
+2078,290, MySQL
+2079,291,Ruby
+2080,291, Ruby on Rails
+2081,291, HTML
+2082,291, (S)CSS
+2083,291, Javascript
+2084,292,Python
+2085,292, C++
+2086,292, OpenCV
+2087,293,Ruby
+2088,293, JavaScript
+2089,293, Python
+2090,293, Linux
+2091,293, REST
+2092,293, OWASP Top 10
+2093,294,JavaScript
+2094,294, HTML5
+2095,294, CSS3
+2096,294, Javascript
+2097,294, React
+2098,294, Angular
+2099,294, Ember
+2100,295,Agile
+2101,295, Scrum
+2102,296,Scala
+2103,296, Java
+2104,297,JVM
+2105,297, AngularJS
+2106,297, NodeJS
+2107,297, npm
+2108,297, jQuery
+2109,297, SASS
+2110,297, Haskell
+2111,297, SML
+2112,297, OCaml
+2113,297, Lisp
+2114,297, Idris
+2115,297, Rust
+2116,297, Erlang
+2117,297, NoSQL
+2118,297, AWS
+2119,297, Scala
+2120,298,Machine Learning
+2121,298, Deep Learning
+2122,298, A/B test
+2123,298, Python
+2124,298, SQL
+2125,299,objective-C
+2126,299, swift
+2127,299, REST APIs
+2128,300,ISTQB
+2129,300, ITIL
+2130,300, IREB
+2131,301,Spark
+2132,301, Hadoop
+2133,301, Hive
+2134,301, Elasticsearch
+2135,301, Scala
+2136,301, Python
+2137,301, Java
+2138,302,C
+2139,302, Java
+2140,302, Scala
+2141,302, R
+2142,302, d3.js
+2143,302, Spark
+2144,302, Kafka
+2145,302, AWS
+2146,303,HTML5
+2147,303, CSS3
+2148,303, JavaScript
+2149,303, Angular
+2150,303, React
+2151,303, Ember
+2152,303, D3js
+2153,303, Scala
+2154,303, Java
+2155,303, C++
+2156,303, Python
+2157,303, R
+2158,304,HTML
+2159,304, CSS
+2160,304, SCSS
+2161,304, Javascript
+2162,304, ES6
+2163,304, React.js
+2164,304, Redux
+2165,304, AngularJS
+2166,304, Vue.js
+2167,304, Meteor
+2168,304, Jest
+2169,304, Jasmine
+2170,304, Grunt
+2171,304, Gulp
+2172,304, Webpack
+2173,304, D3.js
+2174,304, Chart.js
+2175,305,
+2176,306,Selenium
+2177,306, Jira
+2178,306, PHP
+2179,306, JavaScript
+2180,307,XStudio
+2181,307, Scrum
+2182,307, JIRA
+2183,307, NewRelic
+2184,308,React Native
+2185,308, Javascript
+2186,309,Yocto/Open Embedded
+2187,309, C
+2188,309, C++
+2189,309, Qt/QML
+2190,311,Angular.js
+2191,311, Backbone.js
+2192,311, React
+2193,311, Javascript
+2194,311, TypeScript
+2195,311, Bubblesort
+2196,311,  Ionic
+2197,311, Apache Cordova
+2198,312,Javascript
+2199,312, REST API
+2200,313,Node.js CLI
+2201,313, GraphQL
+2202,313, Promises
+2203,313, ES6
+2204,313, JavaScript
+2205,314,Jenkins
+2206,314, Travis
+2207,314, Jira
+2208,314, SQL
+2209,314, Ruby
+2210,314, JavaScript
+2211,314, Capybara
+2212,314, Rspec
+2213,315,JavaScript
+2214,315, Coffeescript
+2215,315, Typescript
+2216,315, Dart
+2217,315, HTML
+2218,315, CSS
+2219,316,SQL
+2220,316, TCP
+2221,316, IP
+2222,316, HTTP
+2223,316, HTML
+2224,316, JavaScript
+2225,316, RESTful API
+2226,316, JSON
+2227,317,PHP
+2228,318,Ruby
+2229,318, Calabash iOS
+2230,318, Calabash Android
+2231,318, Cucumber
+2232,318, Gherkin
+2233,318, Selenium
+2234,318, SVN
+2235,318, GIT
+2236,318, CVS
+2237,318, Scrum
+2238,318, Kanban
+2239,319,React
+2240,319, Angular
+2241,319, Ember
+2242,319, HTML
+2243,319, CSS
+2244,319, JavaScript
+2245,320,Python
+2246,320, JavaScript
+2247,320, PostgreSQL
+2248,320, Linux
+2249,320, Django
+2250,320, Ansible
+2251,321,Java
+2252,321, Node.js
+2253,321, PHP
+2254,322,PHP
+2255,322, Symfony
+2256,322, Laravel
+2257,322, Cake
+2258,322, RESTful API
+2259,322, Scrum
+2260,322, Kanban
+2261,322, Magento
+2262,322, WooCommerce
+2263,322, MySQL
+2264,322, NoSQL
+2265,322, AngularJS
+2266,322, HTML 5
+2267,322, CSS
+2268,322, SASS
+2269,322, LESS
+2270,322, Bower
+2271,322, NPM
+2272,322, Gulp
+2273,322, Grunt
+2274,323,Python
+2275,323, PHP
+2276,323, Go
+2277,323, Hadoop
+2278,323, Apache Spark
+2279,323, ScyllaDB
+2280,323, Pandas
+2281,323, Scikit Learn
+2282,324,JavaScript
+2283,324, HTML
+2284,324, CSS
+2285,324, RESTful APIs
+2286,324, React
+2287,324, Native
+2288,324, CSS
+2289,324, A/B tests
+2290,325,Java
+2291,325, Javascript
+2292,325,  HTML
+2293,325, CSS
+2294,325, Git
+2295,325, Jenkins 
+2296,326,Objective-C
+2297,326, Swift
+2298,326, Cocoa APIs
+2299,326, RESTful APIs
+2300,326, Git
+2301,327,JavaScript
+2302,327, Java
+2303,327, MongoDB
+2304,327, Postgresql
+2305,327, React
+2306,327, AWS
+2307,327, Git
+2308,327, Jenkins
+2309,328,OSX/Linux
+2310,328, Jira
+2311,328, Bitbucket
+2312,328, Confluence
+2313,328, Java
+2314,328, Shell-Scripting
+2315,328, Docker-Compose
+2316,329,Ruby on Rails
+2317,329, MySQL
+2318,329, PostgreSQL
+2319,329, Cucumber
+2320,329, RSpec
+2321,329, TravisCI
+2322,329, MVC
+2323,330,Scala
+2324,330, Ruby
+2325,330, Python
+2326,330, Hadoop
+2327,330, HBase
+2328,330, Pig
+2329,330, Mapreduce
+2330,330, Bigtable
+2331,330, Google Adwords
+2332,330, Storm
+2333,330, Spark
+2334,331,Ruby
+2335,331, Scala
+2336,331, Go
+2337,331, HDFS
+2338,331, Hive
+2339,331, Pig
+2340,331, Spark
+2341,331, Google AdWords
+2342,331, BingAds
+2343,331, Social Media Advertising
+2344,331, Universal Analytics
+2345,332,HTML
+2346,332, HTML5
+2347,332, CSS/SCSS
+2348,332, JavaScript
+2349,332, PHP
+2350,332, SQL
+2351,332, WordPress
+2352,332, Shopify
+2353,332, Woocommerce
+2354,332, Backbone.js
+2355,332, AngularJS
+2356,332, Subversion
+2357,332, Git
+2358,333,PHP
+2359,333, symfony2/3
+2360,333, HTML5
+2361,333, CSS3
+2362,333, JavaScript
+2363,334,Javascript
+2364,334, HTML5
+2365,334, CSS3
+2366,334, UX/UI
+2367,335,Objective-C
+2368,335, Swift
+2369,335, Agile
+2370,335, Unit Testing
+2371,336,PHP
+2372,336, MySQL
+2373,336, Linux
+2374,336, Laravel
+2375,336, HTML
+2376,336, CSS
+2377,336, JavaScript
+2378,336, ElasticSearch
+2379,336, Vue.js
+2380,336, REST APIs
+2381,338,JavaScript
+2382,338, Es6
+2383,338, Node.js
+2384,338, Vue.js
+2385,338, Gsap
+2386,338, Vanilla.js
+2387,338, HTML5
+2388,338, CSS3
+2389,338, Sass/LESS
+2390,338, RESTful APIs
+2391,338, PHP
+2392,338, MySQL
+2393,338, Git
+2394,339,Python
+2395,339, C++
+2396,339, C#
+2397,339, MongoDB
+2398,339, Couchbase
+2399,339, Elasticsearch
+2400,339, GUI design
+2401,339, JavaScript
+2402,339, MySQL
+2403,339, SQL Server
+2404,339, PostgreSQL
+2405,339, Oracle
+2406,340,Python
+2407,340, SQL
+2408,340, Machine Learning
+2409,341,Ruby
+2410,341, Elixir
+2411,341, MySQL
+2412,341, PostgreSQL
+2413,341, Javascript
+2414,341, HTML
+2415,341, CSS
+2416,342,JavaScript
+2417,342, Pixi.js
+2418,342, Phaser.io
+2419,342, ECMAScript 6
+2420,342, HTML5
+2421,342, CSS
+2422,343,SQL
+2423,344,SQL
+2424,344, Python
+2425,344, JavaScript
+2426,344, Golang
+2427,344, Ruby
+2428,344, SPSS
+2429,344, RapidMine
+2430,345,Unity3D
+2431,345, RESTful APIs
+2432,345, Agile
+2433,346,HTML5
+2434,346, CSS
+2435,346, JavaScript
+2436,346, SQL
+2437,346, NoSQL
+2438,346, C#
+2439,347,SQL
+2440,347, Xamarin
+2441,347, Xamarin.Forms
+2442,347, NoSQL
+2443,347, C#
+2444,348,C#
+2445,348, JQeury
+2446,348, HTML5
+2447,348, CSS
+2448,348, REST APIs
+2449,348, JSON
+2450,348, ASP MVC
+2451,348, SQL
+2452,348, Jasmine
+2453,348, Mocha
+2454,348, WCF Data Services
+2455,348, OData
+2456,349,Linux
+2457,349, Python
+2458,349, Git
+2459,349, Gerrit
+2460,349, Java
+2461,349, C/C++
+2462,349, Wildfly
+2463,349, ElasticSearch
+2464,349, Piwik
+2465,349, Graylog
+2466,349, MySQL
+2467,349, Jenkins
+2468,350,Ruby on Rails
+2469,351,Data architecture
+2470,352,Laravel
+2471,352, Symfony
+2472,352, MySQL
+2473,352, PostgreSQL
+2474,352, MongoDB
+2475,352, PHP
+2476,352, AWS
+2477,352, Azure
+2478,352, Vue
+2479,352, AngularJS
+2480,352, React
+2481,352, Git
+2482,352, Rest
+2483,353,Cloud Foundry
+2484,353, OpenStack
+2485,353, Chef
+2486,353, Play
+2487,353, Ansible
+2488,353, Spring Boot
+2489,353, Rabbit MQ
+2490,353, Elastic Search
+2491,353, Solr Cloud
+2492,353, Mongo DB
+2493,353, Python
+2494,353, Ruby
+2495,354,PHP
+2496,354, Zend
+2497,355,SQL
+2498,355, R
+2499,356,SQL
+2500,356, NoSQL
+2501,356, MongoDB
+2502,356, Cassandra
+2503,356, Firebase
+2504,356, BigTable
+2505,356, BigQuery
+2506,356, Cloud SQL
+2507,357,Python
+2508,357, C
+2509,357, C++
+2510,357, Raspberry PI
+2511,357, Beaglebone
+2512,357, SqlLite
+2513,357, PostGres
+2514,357, InfluxDB
+2515,357, REST
+2516,357, JSON
+2517,357, XML
+2518,357, Git
+2519,357, Trello
+2520,358,SQL
+2521,358, NoSQL
+2522,358, Couchbase
+2523,358, Hadoop
+2524,359,Android
+2525,360,Swift
+2526,360, Objective-C
+2527,361,SCRUM
+2528,361, LEAN
+2529,361, Design Thinking
+2530,361, Continuous Integration
+2531,362,React
+2532,362, Redux
+2533,362, Rspec
+2534,362, Mocha
+2535,362, Ruby
+2536,362, Scrum
+2537,362, Kanban
+2538,362, AWS
+2539,362, Heroku PAAS
+2540,362, node.js
+2541,362, Erlang
+2542,362, MongoDB
+2543,363,Hadoop
+2544,363, hdfs
+2545,363, Pig
+2546,363, Impala
+2547,363, Apache Parquet
+2548,363, MySQL 
+2549,363, Postgres
+2550,363, vertica
+2551,363, SAP HANA
+2552,363, Tableau
+2553,363, Rundeck
+2554,363, Pentaho
+2555,363, Java
+2556,363, Golang
+2557,363, spark
+2558,363, storm
+2559,363, samza
+2560,363, flink
+2561,363, Kafka
+2562,364,
+2563,365,HTML
+2564,365, CSS
+2565,365, JavaScript
+2566,365, PHP
+2567,365, SVN
+2568,365, Git
+2569,365, WordPress
+2570,366,Sql
+2571,366, NoSQL
+2572,366, Spring
+2573,366, Hibernate
+2574,366, OAuth/cryptography
+2575,367,Scrum
+2576,367, Kanban
+2577,368,BigQuery
+2578,368, Redshift
+2579,368, Hadoop
+2580,368, Kafka
+2581,368, Kinesis
+2582,368, Python
+2583,368, SQL
+2584,368, Java
+2585,368, JavaScript
+2586,369,JavaScript
+2587,369, React
+2588,369, Angular
+2589,370,PHP
+2590,370, Symphony
+2591,370, Laravel
+2592,370, HTML
+2593,370, CSS
+2594,370, JavaScript
+2595,370, JQuery
+2596,370, Git
+2597,371,Agile
+2598,371, Scrum
+2599,372,Javascript
+2600,372, NoSQL
+2601,372, Python
+2602,372, C++
+2603,372, AWS
+2604,373,SQL
+2605,373, UX
+2606,373, Excel
+2607,373, Google Sheets
+2608,374,C
+2609,374, C++
+2610,375,SQL
+2611,375, Ruby
+2612,375, Go
+2613,375, NodeJS
+2614,375, Docker
+2615,375, AWS
+2616,375, S3
+2617,375, EC2
+2618,375, Ruby on Rails
+2619,375, Grape
+2620,375, Sinatra
+2621,376,Nodejs
+2622,376, Scala
+2623,376, Git
+2624,376, C++
+2625,376, Java
+2626,376, GoLang
+2627,378,Javascript
+2628,378, TypeScript
+2629,378, Java
+2630,378, Node.js
+2631,379,JavaScript (ES6)
+2632,379, NodeJS
+2633,379, MQTT
+2634,379, AMQP
+2635,379, HTML5
+2636,379, CSS3
+2637,379, UI
+2638,379, ReactJS
+2639,379, Angular
+2640,379, SASS/LESS
+2641,379, WebPack
+2642,380,JavaScript
+2643,380, React Native
+2644,380, Swift
+2645,380, Objective C
+2646,380, PHP
+2647,381,Linux
+2648,381, Saltstack
+2649,382,Data architecture
+2650,382, Data infrastructure
+2651,383,HTML5
+2652,383, CSS3
+2653,383, JavaScript (ES6)
+2654,383, ReactJS
+2655,383, LESS
+2656,383, Webpack
+2657,383, NodeJS
+2658,383, UNIX OS
+2659,384,Selenium
+2660,384, Py.Test
+2661,384, RobotFramework
+2662,384, Scala
+2663,384, Python
+2664,384, Ruby
+2665,385,Node.js
+2666,385, JavaScript
+2667,385, React
+2668,385, Angular
+2669,385, Backbone
+2670,385, PHP
+2671,385, Symfony
+2672,385, HTML5
+2673,385, CSS3
+2674,385, SCSS
+2675,385, JS
+2676,385, jQuery
+2677,385, TDD
+2678,385, CD
+2679,385, CI
+2680,386,Java8
+2681,386, Scala
+2682,386, Spring Cloud
+2683,386, Netflix Stack
+2684,386, SQL
+2685,386, NoSQL
+2686,386, Saltstack
+2687,386, Packer
+2688,386, AWS
+2689,386, GCE
+2690,386, RabbitMQ
+2691,386, Kafka
+2692,386, Logstash
+2693,386, Kibana
+2694,386, Zipkin
+2695,386, Prometheus
+2696,387,Ruby
+2697,387, Ruby on Rails
+2698,387, Postgres
+2699,387, Redis
+2700,387, ActiveRecord
+2701,387, JavaScript
+2702,387, Python
+2703,387, REST APIs
+2704,387, Docker
+2705,387, Kubernetes
+2706,388,C
+2707,388, C++
+2708,388, Python
+2709,388, Machine Learning
+2710,389,Appium
+2711,389, XCode UI Automation
+2712,389, Swift
+2713,389, JavaScript
+2714,389, Python
+2715,389, SQL
+2716,390,PostGIS
+2717,390, QGIS
+2718,390, GlobalMapper
+2719,390, Python
+2720,390, WMS/WCS
+2721,390, TMS
+2722,390, GDAL
+2723,390, PostGIS
+2724,390, Grass
+2725,390, SQL
+2726,390, .NET
+2727,390, Java
+2728,390, AWS
+2729,390, Docker
+2730,390, Kubernetes
+2731,390, Linux
+2732,391,Cloud Foundry
+2733,391, OpenStack
+2734,391, Chef
+2735,391, Play
+2736,391, Ansible
+2737,391, Spring Boot
+2738,391, Rabbit MQ
+2739,391, Elastic Search
+2740,391, Solr Cloud
+2741,391, Mongo DB
+2742,391, Python
+2743,391, Ruby
+2744,391, Java
+2745,391, Scala
+2746,392,JavaScript (ES6+)
+2747,392, HTML
+2748,392, Webpack
+2749,392, Vue.js
+2750,393,PHP
+2751,393, HTML
+2752,393, CSS
+2753,393, JavaScript
+2754,393, Bootstrap
+2755,394,JavaScript (Es6)
+2756,394, Node.js
+2757,394, Vue.js
+2758,394, HTML5
+2759,394, CSS3
+2760,394, Gsap
+2761,394, Vanilla.js
+2762,394, PHP
+2763,394, RESTful-APIs
+2764,394, MySQL
+2765,395,PHP
+2766,395, MySQL
+2767,395, HTML
+2768,395, CSS
+2769,395, LESS
+2770,395, JavaScript
+2771,395, jQuery
+2772,395, BootStrap
+2773,395, bash
+2774,395, Shell Script
+2775,395, pdftk
+2776,395, Git
+2777,396,HTML5
+2778,396, JavaScript
+2779,396, CSS
+2780,396, AngularJS
+2781,396, Git
+2782,396, Jenkins
+2783,396, PHP
+2784,396, Symfony
+2785,397,Ruby on Rails
+2786,397, ETL
+2787,397, Tableau
+2788,397, MicroStrategy
+2789,397, Looker
+2790,397, Kafka
+2791,397, Data Pipeline
+2792,397, Kinesis
+2793,397, Redshift
+2794,397, AWS
+2795,397, hadoop
+2796,397, Spark
+2797,397, MapReduce
+2798,397, Kanban
+2799,397, Scrum 
+2800,398,JavaScript
+2801,398, HTML
+2802,398, CSS
+2803,398, MobX
+2804,398, Redux
+2805,398, Git
+2806,399,Ruby on Rails
+2807,399, JavaScript
+2808,399, SQL
+2809,399, RSpec
+2810,400,C/C++
+2811,401,Agile
+2812,401, Continuous integration
+2813,401, TDD
+2814,402,Python3
+2815,402, JavaScript
+2816,402, React
+2817,402, NodeJS
+2818,402, Django
+2819,402, MongoDB
+2820,402, MySQL
+2821,402, Redis
+2822,402, Nginx
+2823,402, Express
+2824,402, Celery
+2825,402, Angular
+2826,402, Ember
+2827,402, VueJS
+2828,402, Backbone
+2829,402, RESTful API
+2830,402, Docker
+2831,402, OpenShift
+2832,403,SQL
+2833,403, Python
+2834,403, AWS
+2835,403, S3
+2836,403, Redshift
+2837,403, RDS
+2838,403, Kinesis
+2839,404,Java
+2840,404, C/C++
+2841,404, Python
+2842,404, Bash
+2843,404, Shell
+2844,405,HLS
+2845,405, DASH
+2846,405, Smooth
+2847,405, Android
+2848,405, UI Testing
+2849,405, CI
+2850,405, retrofit 2
+2851,405, dagger
+2852,405, fresco
+2853,405, okhttp
+2854,405, butterknife
+2855,406,Linux
+2856,406, nginx
+2857,406, Apache
+2858,406, Ruby
+2859,406, Python
+2860,406, Perl
+2861,406, shell
+2862,406, bash
+2863,406, Chef
+2864,406, Puppet
+2865,407,Node.js
+2866,407, Java
+2867,408,HTML5
+2868,408, CSS3
+2869,408, React
+2870,408, AngularJS
+2871,408, Jekyll
+2872,408, Hugo
+2873,408, Phenomic
+2874,408, yarn
+2875,408, npm
+2876,408, bower
+2877,408, gulp
+2878,408, webpack
+2879,408, Git VCS
+2880,408, Karma
+2881,408, Jasmine
+2882,408, Protractor
+2883,408, Jest
+2884,408, S3
+2885,408, NGINX
+2886,409,React
+2887,409, ECMAScript 6
+2888,409, Node.js
+2889,409, Webpack
+2890,410,RESTful APIs
+2891,410, MVC
+2892,410, Node.js
+2893,410, Express
+2894,410, MongoDB
+2895,410, AngularJS
+2896,410, AWS
+2897,410, mLab
+2898,410, Docker Hub
+2899,410, New Relic
+2900,410, StatusCake
+2901,411,C#
+2902,411, MVC
+2903,411, Entity Framework
+2904,411, Linq
+2905,411, HTML
+2906,411, CSS
+2907,411, JavaScript
+2908,412,Ruby on Rails
+2909,412, Postgres
+2910,412, Redis
+2911,412, Rspec
+2912,412, Capybara
+2913,412, Webpack
+2914,412, Babel
+2915,412, React
+2916,412, Redux
+2917,412, React-router
+2918,412, Sass
+2919,412, Postcss
+2920,412, Jest
+2921,412, Sinon
+2922,412, Chai
+2923,413,PHP
+2924,413, Scrum
+2925,413, Kanban
+2926,413, Golang
+2927,413, Docker
+2928,413, JavaScript
+2929,413, Python
+2930,413, TypeScript
+2931,413, MySQL
+2932,413, Postgres
+2933,413, InfluxDB
+2934,413, DynamoDB
+2935,413, AWS
+2936,413, Jira
+2937,413, Confluence
+2938,413, xUnit
+2939,413, Redis
+2940,413, Nginx
+2941,413, ElasticSearch
+2942,414,Hadoop
+2943,414, Hbase
+2944,414, Hive
+2945,414, Kafka
+2946,414, Storm
+2947,414, Spark
+2948,415,Git
+2949,415, SQL
+2950,415, PHP Codeception
+2951,415, Javascript
+2952,415, Selenium Web Driver
+2953,415, Agile
+2954,415, Scrum
+2955,416,PHP
+2956,416, Zend Framework
+2957,416, Laravel
+2958,416, Symfony
+2959,416, Yii
+2960,416, Lumen
+2961,416, Silex
+2962,416, HTML5
+2963,416, CSS3
+2964,416, SASS
+2965,416, JavaScript
+2966,416, REST API
+2967,416, TDD
+2968,416, Mock
+2969,416, Stub
+2970,416, Redis
+2971,416, Memcached
+2972,416, AWS
+2973,416, PubNub
+2974,416, Git
+2975,417,Java
+2976,417, Groovy
+2977,417, Spring
+2978,417, Grails
+2979,417, Ratpack
+2980,417, Elasticsearch
+2981,417, MySQL
+2982,417, Postgres
+2983,417, Restful APIs
+2984,417, AngularJS
+2985,417, AWS
+2986,417, CloudFront
+2987,417, S3
+2988,417, OpsWorks
+2989,417, IntelliJ
+2990,417, Git
+2991,417, AWS
+2992,418,Android
+2993,418, Dagger
+2994,418, rxJava
+2995,418, CI/CD
+2996,418, Mobile UI/UX
+2997,419,Android
+2998,419, Dagger
+2999,419, rxJava
+3000,419, CI/CD
+3001,419, Mobile UI/UX
+3002,420,Swift
+3003,420, Objective-C
+3004,420, CI/CD
+3005,420, Mobile UI/UX
+3006,421,HTML5
+3007,421, CSS3
+3008,421, JavaScript
+3009,421, Webpack
+3010,421, Node.js
+3011,421, Universal
+3012,421, React
+3013,421, Angular
+3014,421, PHP
+3015,422,Swift
+3016,422, Objective-C
+3017,422, CI/CD
+3018,422, Mobile UI/UX
+3019,423,
+3020,424,Ruby on Rails
+3021,424, CRM
+3022,425,Java
+3023,425, Agile
+3024,426,Python
+3025,426, AWS
+3026,426, Spark
+3027,427,Ethernet
+3028,427, WLAN
+3029,427, TCP/IP
+3030,427, VPN
+3031,427, Microsoft Exchange
+3032,428,Java
+3033,428, JavaScript
+3034,428, Python
+3035,429,Puppet
+3036,429, Ansible
+3037,429, JSON
+3038,429, Terraform
+3039,429, Jenkins
+3040,429, Docker
+3041,429, Kubernetes
+3042,429, LXC/LXD
+3043,429, AWS
+3044,429, Google Compute Engine
+3045,429, Azure
+3046,429, OpenStack
+3047,430,Python
+3048,431,Xcode
+3049,431, Swift
+3050,431, Cocoa Touch & iOS
+3051,431, Objective-C
+3052,431, HTTP
+3053,431, REST
+3054,431, JSON
+3055,431, MVC/MVVM 
+3056,432,TCP/IP
+3057,432, DNS
+3058,432, DHCP
+3059,432, LAN/WAN
+3060,432, Microsoft Exchange Server
+3061,432, Ofiice 365
+3062,433,PostgreSQL
+3063,433, Python 3
+3064,433, Django
+3065,433, Rest
+3066,433, React
+3067,433, Docker
+3068,433, AWS
+3069,433, Selenium
+3070,434,R
+3071,434, Python
+3072,434, Google Cloud Platform
+3073,435,Linux / Unix
+3074,435, Golang
+3075,435, Git
+3076,436,Ruby on Rails
+3077,436, PostgreSQL
+3078,436, MySQL
+3079,436, HTTP
+3080,436, REST
+3081,436, Json
+3082,436, XML
+3083,436, JavaScript
+3084,436, Puppet
+3085,436, Chef
+3086,436, Ansible
+3087,436, NodeJS
+3088,436, Webpack
+3089,436, Brunch
+3090,436, Rollup
+3091,436, Browserify
+3092,436, VueJS
+3093,436, React
+3094,436, Angular
+3095,436, Rspec
+3096,437,JavaScript
+3097,437, Scrum
+3098,437, Kanban
+3099,438,TCP/IP
+3100,438, DNS
+3101,438, SSL
+3102,438, IPTables
+3103,438, Docker
+3104,438, Kubernetes
+3105,438, Ansible
+3106,438, Puppet
+3107,438, Chef
+3108,439,React Native
+3109,439, OS 
+3110,439, Android
+3111,440,Java
+3112,440, Linux
+3113,441,Java
+3114,441, Scala
+3115,441, AKKA
+3116,441, Play Framework
+3117,441, Flink
+3118,441, REST APIs
+3119,441, MQTT
+3120,442,JavaScript
+3121,442, Angular.js
+3122,442, Node.js
+3123,442, React
+3124,442, React native
+3125,442, Python
+3126,442, AWS
+3127,442, HTML
+3128,442, CSS3
+3129,442, CSS4
+3130,442, ES2015
+3131,442, ES2016
+3132,442, Grunt
+3133,442, Gulp
+3134,442, Bower
+3135,442, npm
+3136,442, Webpack
+3137,443,REST APIs
+3138,443, Swagger
+3139,443, Akka HTTP
+3140,443, Kafka
+3141,443, Spark
+3142,443, Flink
+3143,443, PostgreSQL
+3144,443, Cassandra
+3145,443, Elasticsearch
+3146,443, Docker
+3147,443, Jenkins
+3148,443, AWS
+3149,443, JVM
+3150,444,Swagger
+3151,444, Koa
+3152,444, Kafka
+3153,444, MQTT
+3154,444, OAuth 2.0
+3155,444, PostgreSQL
+3156,444, Cassandra
+3157,444, Elasticsearch
+3158,444, Docker
+3159,444, Jenkins
+3160,444, AWS
+3161,445,Java
+3162,445, JavaScript
+3163,445, Node.js
+3164,445, C
+3165,445, Python
+3166,445, Perl
+3167,445, Shell
+3168,446,iOS
+3169,446, Android
+3170,446,  ObjectiveC
+3171,446, Java
+3172,446, ReactNative
+3173,446, Fabric
+3174,447,Ruby
+3175,447, AWS
+3176,447, GitLab
+3177,447, Jenkins
+3178,447, Capybara
+3179,447, Selenium
+3180,447, Scrum
+3181,447, LeSS
+3182,447, Kanban
+3183,448,EC2
+3184,448, RDS
+3185,448, IAM
+3186,448, DynamoDB
+3187,448, S3
+3188,448, Ubuntu/Debian
+3189,448, GoLang
+3190,448, Apache
+3191,448, HAproxy
+3192,448, NGINX
+3193,448, FPM
+3194,448, MySQL
+3195,448, Python
+3196,448, Ruby
+3197,448, Node
+3198,449,Google GSuite
+3199,450,UNIX
+3200,450, TCP/IP
+3201,450, Golang
+3202,451,
+3203,453,Ruby
+3204,453, Scala
+3205,453, Go
+3206,453, Java
+3207,453, Postgres
+3208,453, MySQL
+3209,453, Redis
+3210,453, Cassandra
+3211,453, REST
+3212,453, HTTP
+3213,453, TCP/IP
+3214,454,Ruby
+3215,454, REST
+3216,455,C / C++
+3217,455, I2C
+3218,455, SPI
+3219,455, Uart
+3220,455, USB
+3221,455, Bluetooth
+3222,455, Makefile
+3223,455, Shell-scripting
+3224,455, Python
+3225,455, QT
+3226,456,HTML5
+3227,456, CSS3
+3228,456, JavaScript
+3229,456, REST
+3230,457,PHP5
+3231,457, MySQL
+3232,457, NoSQL
+3233,457, Symfony 2
+3234,458,C++
+3235,458, C#
+3236,458, Java
+3237,458, MySQL
+3238,458, PostgreSQL
+3239,458, SOAP
+3240,458, RESTFul
+3241,458, XML
+3242,458, JSON
+3243,458, Scrum
+3244,458, Kanban
+3245,458, Express
+3246,458, CouchDB
+3247,458, Elasticsearch
+3248,458, Docker
+3249,459,ElasticSearch
+3250,459, MySQL
+3251,459, Grails
+3252,459, Spring
+3253,459, Spring-Boot
+3254,459, Hibernate
+3255,459, Apache Tomcat
+3256,459, AWS
+3257,459, RestAPI
+3258,459, Scrum
+3259,459, Kanban
+3260,460,Bootstrap
+3261,460, Backbone
+3262,460, React
+3263,460, LESS
+3264,460, Babel
+3265,460, JavaScript
+3266,461,HTML
+3267,461, CSS
+3268,461, JavaScript
+3269,461,  AngularJS
+3270,462,ElasticSearch
+3271,462, MySQL
+3272,462, Grails
+3273,462, Spring
+3274,462, Spring-Boot
+3275,462, Hibernate
+3276,462, Apache Tomcat
+3277,462, AWS
+3278,462, RestAPI
+3279,462, Scrum
+3280,462, Kanban
+3281,463,AngularJS
+3282,463, HTML5
+3283,463, CSS3
+3284,463, Webpack
+3285,463, Require.js
+3286,463, REST
+3287,463, Grunt
+3288,463, Gulp
+3289,463, Bower
+3290,463, Npm
+3291,463, Yarn
+3292,464,Python
+3293,464, Ruby
+3294,464, Scala
+3295,464, Ansible
+3296,464, Chef
+3297,464, Puppet
+3298,464, Shell
+3299,464, Linux
+3300,464, Git
+3301,465,Scala
+3302,465, Python
+3303,465,  Luigi
+3304,465, Jenkins
+3305,465, Git
+3306,466,JavaScript
+3307,466, NodeJS
+3308,466, ES6
+3309,466, Angular
+3310,466, Ember
+3311,466, Backbone
+3312,466, React
+3313,466, Redux
+3314,466, CSS
+3315,466, LESS
+3316,466, SASS
+3317,466, D3.js
+3318,466, Chart.js
+3319,467,Java
+3320,467, Spring
+3321,467, PostgreSQL
+3322,467, Docker
+3323,468,Android
+3324,468, iOS
+3325,469,JavaScript
+3326,469, Marionette
+3327,469, Backbone
+3328,470,Java
+3329,470, Python
+3330,470, bash
+3331,470, AWS
+3332,470, VPC
+3333,470, Openstack
+3334,470, PostgreSQL
+3335,470, Mysql
+3336,470, MongoDB
+3337,470, Zookeeper
+3338,470, NoSQL
+3339,470, Big IP
+3340,470, AWS ELB
+3341,470, Haproxy
+3342,470, Kafka
+3343,470, ActiveMQ
+3344,470, RabbitMQ
+3345,470, Jenkins
+3346,470, Sonar
+3347,470, Puppet
+3348,470, Chef
+3349,470, Ansible
+3350,471,iOS
+3351,471, Android
+3352,471, Shell
+3353,471, Scrum
+3354,471, Kanban
+3355,472,PHP7
+3356,472, MySQL
+3357,472, MongoDB
+3358,472, RabbitMQ
+3359,472, ElasticSearch
+3360,472, Docker
+3361,472, RESTful APIs
+3362,473,PHP
+3363,473, HTML5
+3364,473, JavaScript
+3365,473, SQL
+3366,473, Laravel
+3367,473, Phalcon PHP
+3368,473, AngularJS
+3369,473, JQuery
+3370,474,Continuous Delivery
+3371,474, Continuous Integration
+3372,474, UI/UX
+3373,475,JavaScript
+3374,475, HTML
+3375,475, CSS
+3376,475, RESTful APIs
+3377,475, Scrum
+3378,475, React
+3379,475, Firebase
+3380,475, jQuery
+3381,475, Bootstrap
+3382,475, ActionCable
+3383,476,Java
+3384,476, Linux/UNIX
+3385,476, jQuery
+3386,476, JSON
+3387,476, XML
+3388,476, JavaScript
+3389,476, HTML
+3390,476, CSS
+3391,477,HTML
+3392,477, CSS
+3393,477, Sass
+3394,477, JavaScript
+3395,478,Golang
+3396,478, Linux
+3397,478, Kafka
+3398,478, PostgreSQL
+3399,478, Kubernetes
+3400,478, Docker
+3401,478, CoreOS
+3402,478, Terraform
+3403,479,HTTPS
+3404,479, Restful APIs
+3405,479, JavaScript
+3406,479, HTML5
+3407,479, CSS3
+3408,480,ECMAScript 2015
+3409,480, React
+3410,480, SASS/CSS
+3411,480, REST APIs
+3412,480, Git
+3413,480, JIRA
+3414,480, Node.js
+3415,480, Ruby on Rails
+3416,480, Java
+3417,480, AWS
+3418,480, Redis
+3419,480, PostgreSQL
+3420,480, ElasticSearch
+3421,481,Java
+3422,481, Elixir
+3423,481, Go
+3424,481, NodeJS
+3425,481, PHP
+3426,481, Ruby on Rails
+3427,481, ECMAScript 2015
+3428,481, React
+3429,481, SASS/CSS
+3430,481, Java
+3431,481, Qt
+3432,481, JavaScript
+3433,481, SQL
+3434,481, REST APIs
+3435,481, AWS
+3436,481, GCP
+3437,482,React.js
+3438,482, Flux
+3439,482, Redux
+3440,482, ES2015 JavaScript
+3441,482, Node.js
+3442,482, HTML5
+3443,482, CSS3
+3444,482, SASS
+3445,482, LESS/PostCSS
+3446,483,REST API
+3447,483, Scala
+3448,483, Docker
+3449,483, NoSQL
+3450,483, Play
+3451,483, Spark
+3452,483, Jira
+3453,483, Confluence
+3454,483, BitBucket
+3455,483, Kafka
+3456,483, ElasticSearch
+3457,483, AWS
+3458,484,Xcode
+3459,484, Swift
+3460,484, Cocoa Touch
+3461,484, iOS
+3462,484, Objective-C
+3463,484, HTTP
+3464,484, REST
+3465,484, JSON
+3466,484, MVC/MVVM 
+3467,485,SASS
+3468,485, React
+3469,485, Angular2
+3470,485, Scala
+3471,485, Clojure
+3472,485, XSS
+3473,485, SQL Injection
+3474,485, CSRF
+3475,485, OWASP Top 10
+3476,486,Linux
+3477,486, Python
+3478,486, React JS
+3479,486, React Native
+3480,486, Android
+3481,486, iOS
+3482,487,Java
+3483,487, PHP
+3484,487, J2EE
+3485,487, Spring
+3486,487, Azure
+3487,487, AWS
+3488,487, MySQL
+3489,487, ElasticSearch
+3490,487, MongoDB
+3491,487, RESTful APIs
+3492,487, Saltsack
+3493,487, Puppet
+3494,487, Chef
+3495,487, Docker
+3496,487, Kubernetes
+3497,488,
+3498,489,C#
+3499,489, JavaScript
+3500,489, Visual Basic
+3501,489, XML
+3502,489, Apex
