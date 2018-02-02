@@ -1,0 +1,955 @@
+skill,type
+r,r
+ceph,bigdata
+qa,qa
+engineer,mixed
+backend,backend
+etl,bigdata
+opennebula,cloud
+continuous-deployment,continuous integration
+c++,c/c++
+zeromq,zeromq
+amazon-lambda,aws
+amazon-kinesis,aws
+dijkstra,bigdata
+c#,c#
+.net,.net
+data-science,bigdata
+websphere,containerization platforms
+microservices,microservices
+user-experience,frontend
+mondrian,open source olap
+routing,mixed
+mesos,cloud tools
+c++14,c/c++
+tensorflow,bigdata
+pandas,python-based
+amazon-ecs,aws
+columnstore,bigdata
+tableau-server,data viz tools
+xhtml,html
+tableau,data viz tools
+pentaho,data viz tools
+qlikview,data viz tools
+solr,cloud tools
+full-text-search,mixed
+high-traffic,mixed
+algorithm,bigdata
+performance,mixed
+bigdata,bigdata
+piwik,data viz tools
+microstrategy,mixed
+content-management-system,mixed
+combinatorics,mixed
+deis,mixed
+terraform,terraform
+mvvm,software architectural pattern
+infrastructure,mixed
+graphql,query language for apis
+ecmascript-6,javascript tools
+event-sourcing,mixed
+cqrs,software architectural pattern
+qt,api(s)
+qml,mixed
+embedded,mixed
+web,mixed
+oop,programming paradigm
+business-intelligence,bigdata
+interface,frontend
+mockups,testing
+relayjs,javascript tools
+cc++,c/c++
+continuous-delivery,continuous integration
+asp.net,api(s)
+tsql,sql
+single-page-application,mixed
+stylus,mixed
+twig,php frameworks
+wordpress,cqrs
+mocha,mocha
+gruntjs,api(s)
+browserify,uiml
+hibernate,hibernate
+sketchapp,design related
+babel,javascript tools
+data-warehouse,bigdata
+database,programming paradigm
+plsql,sql
+oracle,open source olap
+netsuite,cloud
+lavarel,php frameworks
+solid-principles,mixed
+user-interface,frontend
+graphite,javascript tools
+mobile,mobile
+payment-gateway,mixed
+payment,mixed
+payment-processing,mixed
+virtuozzo,virtualization technology
+openvz,virtualization technology
+frontend,frontend
+gis,bigdata
+haproxy,load balancers
+scripting,mixed
+foundation,mixed
+github,repository management services
+vmware,cloud
+coffeescript,javascript tools
+tomcat,cloud tools
+mariadb,sql
+bitcoin,blockchain
+jms,api(s)
+cloudfoundry,cloud
+networking,mixed
+distributed-system,bigdata
+cucumber,testing
+php frameworks,php frameworks
+codeception,api(s)
+web-services,mixed
+search,mixed
+lucene,cloud tools
+express,node.js
+salesforce,cloud
+end-to-end-delivery,mixed
+project-management,mixed
+backlog,mixed
+kotlin,kotlin
+qunit,javascript tools
+vba,microsoft tools
+access,microsoft tools
+apex,mixed
+sinatra,ruby
+software,mixed
+proxy,mixed
+crm,mixed
+visualforce,frontend
+pgtap,sql
+liquibase,bigdata
+realm,bigdata
+3d,mixed
+vr,virtual reality
+augmented-reality,virtual reality
+jvm,jvm
+akka,mixed
+junit,java frameworks
+jarkata,cloud tools
+mocking,testing
+rubygems,ruby
+dry,mixed
+deployment,mixed
+multithreading,mixed
+matlab,bigdata
+hbase,bigdata
+groovy,groovy
+grails,grails
+mockito,java frameworks
+statistics,bigdata
+fraud-prevention,mixed
+gwt,google packages
+vaadin,java frameworks
+zend-framework,php frameworks
+security,mixed
+infosec,mixed
+mri,mixed
+ror,ruby
+rails,ruby
+c,c/c++
+assembly,mixed
+debugging,mixed
+hardware-programming,mixed
+iaas,mixed
+salt,blockchain
+cisco,cloud
+vpn,mixed
+angular2,angular.js
+lean,mixed
+openstreetmap,api(s)
+nagios,mixed
+enterprise-architect,mixed
+architecture,mixed
+mapreduce,bigdata
+haskell,haskell
+erlang,erlang
+clojure,clojure
+cyber,mixed
+reverse-engineering,mixed
+iphone,ios
+windows,mixed
+watchguard,mixed
+ocs,mixed
+encryption,mixed
+ide,mixed
+jpa,mixed
+native,mixed
+backup,mixed
+soap,mixed
+testlink,mixed
+appium,mobile
+testng,testing
+sdk,mixed
+informix,mixed
+cloudwatch,cloud
+atlassian,atlassian
+confluence,atlassian
+plugins,mixed
+add-on,mixed
+development,mixed
+programmin,mixed
+calabash,ios
+openstack,cloud
+xcode,ios
+core-bluetooth,mixed
+ibeacon,mixed
+c++11,c/c++
+data-structures,bigdata
+linear-programming,mixed
+rxjs,javascript tools
+gcp,cloud
+couchdb,nosql
+memcached,memcached
+varnish,mixed
+modern jvm,mixed
+mllib,cloud tools
+presto,sql
+impala,cloud tools
+sqs,aws
+cad,design related
+ecmascript 6,javascript tools
+babel,js compiler
+confluence,atlassian
+f2p,mixed
+ajax,ajax
+bigquery,cloud tools
+airflow,bigdata
+datadog,cloud
+play,bigdata
+activemq,bigdata
+spinnaker,cloud
+ionic,mobile
+bubblesort,mixed
+ux,frontend
+elixir,erlang
+d3,javascript tools
+highcharts,javascript tools
+ecs,cloud
+rds,aws
+cloudformation,cloud
+haml,html
+bem,programming paradigm
+jest,testing
+etl framework,bigdata
+snowplow,java frameworks
+looker,bigdata
+sisense,data viz tools
+protractor,javascript tools
+yarn,javascript tools
+orchestration,mixed
+gce,mixed
+riak,mixed
+elastic search,elastic stack
+vue,javascript tools
+flux-architecture,mixed
+promises/q,javascript tools
+underscore,mixed
+quicksight,data viz tools
+ga,google packages
+gtm,google packages
+scipy,python-based
+elm,elm
+graylog,mixed
+kibana,elastic stack
+consu,mixed
+perl,perl
+otrs,mixed
+php7,php
+symfony3,php frameworks
+meteor,javascript tools
+mvp,software architectural pattern
+localytics,mixed
+vwo,mixed
+optimizely,mixed
+gherkin,testing
+nightwatch,javascript tools
+chai,bdd/tdd
+xp,api(s)
+websocket,mixed
+restapi,restful apis
+erp-systems,erp
+sap,erp
+waterfall,mixed
+uml modeling,mixed
+excel,microsoft tools
+talend,data viz tools
+rxjava,java frameworks
+couchbase,sql
+server administration,sysadmin
+php5/oop,php
+magento,e-commerce platform
+java8,java
+scheduling,mixed
+tx,mixed
+ribbon),mixed
+messaging jms / amqp,messaging protocol
+dynamo db,aws
+universal rendering,mixed
+marionette,javascript tools
+scss,css
+route 53,mixed
+elasticache,aws
+nlp,bigdata
+iot,mixed
+blockchain,blockchain
+bots,bigdata
+silex,mixed
+on-premise,mixed
+spryker,mixed
+photoshop,design related
+vlan,mixed
+it administration,mixed
+hdfs,bigdata
+flink,cloud tools
+jupyter,python-based
+hue,bigdata
+metabase,mixed
+edge,mixed
+ubiquity,mixed
+synology nas,mixed
+iptables,mixed
+cron,mixed
+ssh,mixed
+dns,mixed
+ssl,mixed
+navision,mixed
+remote desktop,mixed
+mssql,sql
+active directory,mixed
+route53,mixed
+yii,mixed
+fuelphp,php
+zend 2,php frameworks
+svn,cloud tools
+memcache,memcached
+bdd (behat,php frameworks
+codeception),mixed
+composer,mixed
+packagist,mixed
+cloudera,cloud
+hortonworks,mixed
+mapr,bigdata
+amazon emr,aws
+data store,bigdata
+sahi,mixed
+testrail,testing
+cocoa touch,frontend
+web services,mixed
+media services,mixed
+instruments,mixed
+sqlite,sql
+soa,mixed
+minitest,mixed
+sas,open source olap
+scp protocol,mixed
+ms project,mixed
+icinga,mixed
+browserstack,mixed
+saucelabs,mixed
+capybara,testing
+postcss,javascript tools
+sinon,mixed
+cha,mixed
+graphics programming / webgl,mixed
+bdd,bdd/tdd
+web driver,mixed
+htc vive,mixed
+torch,mixed
+cran,mixed
+jsx,mixed
+postcss),javascript tools
+gitflow,repository management services
+travisci,continuous integration
+swarm,mixed
+consul,mixed
+istqb/cat certification,mixed
+eclipse,mixed
+zeromq (zmq),messaging protocol
+hmtl,html
+enzyme,mixed
+sketch,design related
+invision,mixed
+static site generators/templating engines,mixed
+load balancers,load balancers
+relational databases,sql
+powershell,powershell
+cocoa,mixed
+requirejs,mixed
+opengl,mixed
+juce,mixed
+clojurescript,javascript tools
+zend2,php frameworks
+zend3,php frameworks
+spock,mixed
+gradle,mixed
+packer,mixed
+carto,mixed
+hudson,mixed
+unit frameworks,mixed
+unity3d,mixed
+core location,mixed
+core motion,mixed
+healthkit,mixed
+keras,mixed
+bitcoin blockchain,blockchain
+ethereum,blockchain
+smart contracts,blockchain
+iota,mixed
+polkadot,mixed
+cosmos,mixed
+parity,mixed
+ipfs,mixed
+bigchaindb,bigdata
+vms,mixed
+unity,mixed
+entity component systems,mixed
+strangeioc,mixed
+zenject,mixed
+xdebug,mixed
+zend,php frameworks
+intellij idea,java frameworks
+gerrit,repository management services
+ssis,mixed
+hana,mixed
+c/c++,c/c++
+vagrant,mixed
+jbehave,mixed
+jmeter,mixed
+loadrunner,mixed
+travis,continuous integration
+adt,mixed
+saltstack,mixed
+zabbix,mixed
+logstash,bigdata
+appcode,mixed
+webstorm,mixed
+http2,http
+rollup,mixed
+sequelize,mixed
+teamcity,mixed
+hl7,mixed
+fhir,mixed
+ihe,mixed
+dicom,mixed
+ieee,mixed
+iso,mixed
+cen,mixed
+ehr/emr,mixed
+xslt,mixed
+karma,testing
+php5+,php
+doctrine,mixed
+phpstorm,php
+rust,mixed
+finatra,mixed
+sap hana,mixed
+ecmascript2015,javascript tools
+flow,mixed
+marathon,mixed
+cd,mixed
+san,mixed
+nas,mixed
+mac,mixed
+cissp certification,mixed
+cdn,mixed
+ftp,mixed
+play framework,bigdata
+http4s,http
+message queues,mixed
+kinesis,aws
+pyramid,mixed
+flask,python-based
+spss,bigdata
+lamp stack,mixed
+lua,mixed
+neo4j,mixed
+influxdb/ prometheus,mixed
+cloudfront,cloud
+opsworks,aws
+intellij,java frameworks
+iot/industry 4.0,mixed
+webgl,mixed
+celery,messaging protocol
+lombok,mixed
+transcoder,mixed
+opencv,mixed
+owasp top 10,mixed
+ember,javascript tools
+sml,mixed
+ocaml,mixed
+lisp,mixed
+idris,mixed
+istqb,mixed
+itil,mixed
+ireb,mixed
+d3js,javascript tools
+xstudio,mixed
+newrelic,mixed
+yocto/open embedded,mixed
+qt/qml,mixed
+promises,mixed
+dart,mixed
+tcp,mixed
+cvs,mixed
+cake,mixed
+woocommerce,e-commerce platform
+scylladb,nosql
+bitbucket,repository management services
+pig,cloud tools
+bigtable,mixed
+storm,mixed
+bingads,mixed
+social media advertising,mixed
+universal analytics,mixed
+shopify,e-commerce platform
+woocommerce,e-commerce platform
+subversion,mixed
+gsap,mixed
+rapidmine,mixed
+xamarin,mixed
+xamarin.forms,mixed
+jqeury,javascript tools
+wcf data services,mixed
+odata,mixed
+wildfly,mixed
+data architecture,bigdata
+rabbit mq,messaging protocol
+mongo db,nosql
+firebase,google packages
+raspberry pi,mixed
+beaglebone,mixed
+sqllite,sql
+influxdb,bigdata
+trello,project management tools
+heroku paas,mixed
+vertica,mixed
+rundeck,mixed
+samza,mixed
+oauth/cryptography,mixed
+symphony,php frameworks
+grape,mixed
+mqtt,messaging protocol
+amqp,messaging protocol
+data infrastructure,bigdata
+robotframework,mixed
+netflix stack,mixed
+zipkin,mixed
+prometheus,mixed
+activerecord,mixed
+postgis,sql
+qgis,mixed
+globalmapper,mixed
+wms/wcs,mixed
+tms,mixed
+gdal,mixed
+grass,mixed
+pdftk,mixed
+data pipeline,bigdata
+mobx,mixed
+python3,python
+vuejs,javascript tools
+openshift,mixed
+hls,mixed
+dash,mixed
+smooth,mixed
+retrofit 2,mixed
+dagger,mixed
+fresco,mixed
+okhttp,http
+butterknife,mixed
+jekyll,mixed
+hugo,mixed
+phenomic,mixed
+mlab,mixed
+new relic,mixed
+statuscake,mixed
+entity framework,mixed
+linq,mixed
+dynamodb,mixed
+xunit,mixed
+zend framework,php frameworks
+lumen,mixed
+mock,testing
+stub,mixed
+pubnub,mixed
+ratpack,mixed
+universal,mixed
+ethernet,blockchain
+wlan,mixed
+microsoft exchange,microsoft tools
+lxc/lxd,mixed
+dhcp,mixed
+lan/wan,mixed
+microsoft exchange server,microsoft tools
+ofiice 365,microsoft tools
+brunch,mixed
+os,mixed
+css4,css
+es2015,javascript tools
+es2016,javascript tools
+swagger,restful apis
+koa,mixed
+oauth 2.0,mixed
+objectivec,ios
+reactnative,react.js
+fabric,mixed
+gitlab,repository management services
+iam,mixed
+ubuntu/debian,mixed
+fpm,mixed
+c / c++,c/c++
+i2c,mixed
+spi,mixed
+uart,mixed
+usb,mixed
+bluetooth,mixed
+makefile,mixed
+php5,php
+luigi,mixed
+vpc,mixed
+zookeeper,mixed
+sonar,mixed
+continuous delivery,continuous integration
+actioncable,mixed
+coreos,mixed
+https,http
+ecmascript 2015,javascript tools
+flux,mixed
+xss,mixed
+csrf,mixed
+j2ee,mixed
+saltsack,mixed
+visual basic,mixed
+python,python
+python celery,python
+python gui,python
+python 3,python
+sql,sql
+sql-server,sql
+transact sql,sql
+sql server,sql
+cloud sql,sql
+sql injection,sql
+django,django
+aws,aws
+aws-lambda,aws
+aws-code-deploy,aws
+aws stack,aws
+aws sqs,aws
+aws kinesis,aws
+aws rds,aws
+aws dynamodb,aws
+aws elasticcache,aws
+aws redshift,aws
+aws-cloud,aws
+aws ec2,aws
+aws services,aws
+aws/azure,aws
+aws elb,aws
+scrum,agile
+linux,unix/linux
+osx/linux,unix/linux
+postgresql,sql
+postgresql-9.6,sql
+continuous-integration,continuous integration
+continuous integration,continuous integration
+automated-tests,testing
+testing,testing
+performance-testing,testing
+mobile-testing,testing
+a/b testing,testing
+cross os testing,testing
+a/b test,testing
+a/b tests,testing
+unit testing,testing
+py.test,testing
+ui testing,testing
+deep-learning,bigdata
+scikit-learn,bigdata
+deep learning,bigdata
+scikit learn,bigdata
+ruby,ruby
+ruby w/o rails,ruby
+ruby/ror,ruby
+mysql,sql
+docker,containerization platforms
+kafka and docker,containerization platforms
+docker vagrant,containerization platforms
+docker-compose,containerization platforms
+docker hub,containerization platforms
+git,repository management services
+git vcs,repository management services
+reactjs,react.js
+java,java
+java-ee,java
+scala,bigdata
+apache,cloud tools
+apache-spark,cloud tools
+apache-storm,cloud tools
+apache-kafka,cloud tools
+apache storm,cloud tools
+apache cordova,cloud tools
+apache spark,cloud tools
+apache tomcat,cloud tools
+apache airflow,cloud tools
+nginx or apache,cloud tools
+nginx/apache,cloud tools
+apache/nginx,cloud tools
+apache parquet,cloud tools
+javascript,javascript
+javascript es2015,javascript
+css and javascript,javascript
+javascript (es2015),javascript
+es2015 javascript,javascript
+angularjs,angular.js
+angularjs angular,angular.js
+mongodb,nosql
+devops,devops
+bash,bash
+amazon-redshift,aws
+amazon redshift,aws
+redshift,aws
+sysadmin,sysadmin
+rest,restful apis
+restful-web-services,restful apis
+restful-architecture,restful apis
+rest/soap,restful apis
+restful,restful apis
+http,http
+http protocol,http
+akka http,http
+nosql,nosql
+ruby-on-rails,ruby
+ruby-on-rails-4,ruby
+ruby on rails,ruby
+hadoop,bigdata
+hive,cloud tools
+cloud,cloud
+hybrid cloud technologies,cloud
+cloud technology,cloud
+hybrid cloud,cloud
+private cloud,cloud
+adobe creative cloud,cloud
+cloud foundry,cloud
+solr cloud,cloud
+jenkins,continuous integration
+go,go
+css,css
+post.css,css
+modular css (scss,css
+(s)css,css
+css/scss,css
+sass/css,css
+php,php
+composer-php,php
+php-fpm,php
+oop php,php
+behat (php),php
+php codeception,php
+phalcon php,php
+html,html
+html 5,html
+cassandra,cloud tools
+machine-learning,bigdata
+machine learning,bigdata
+azure,cloud
+azure/gcp,cloud
+less,css
+less/postcss,css
+sass,css
+sass design,css
+sass and bootstrap,css
+agile,agile
+redis,bigdata
+html5,html
+api,api(s)
+apis,api(s)
+backend apiâ€™s,api(s)
+ready api,api(s)
+unity multiplayer api (unet),api(s)
+metal api,api(s)
+cocoa apis,api(s)
+node.js,node.js
+node.js cli,node.js
+vue.js,javascript tools
+google-analytics,google packages
+google-container-engine,google packages
+google analytics,google packages
+google tag manager,google packages
+google apps script,google packages
+google protobuf,google packages
+google adwords,google packages
+google sheets,google packages
+google compute engine,google packages
+google gsuite,google packages
+css3,css
+kubernetes,containerization platforms
+jquery,javascript tools
+ansible,it automation
+asp.net-mvc,software architectural pattern
+mvc,software architectural pattern
+mvc pattern,software architectural pattern
+mvc frameworks,software architectural pattern
+asp mvc,software architectural pattern
+mvc/mvvm,software architectural pattern
+symfony,php frameworks
+symfony-2.1,php frameworks
+symfony 2,php frameworks
+webpack,js compiler
+shell,unix/linux
+shell-scripting,unix/linux
+shell script,unix/linux
+symfony2,php frameworks
+symfony2/3,php frameworks
+tdd,bdd/tdd
+tdd/testing,bdd/tdd
+tdd (phpunit),bdd/tdd
+tdd/bdd,bdd/tdd
+design-patterns,design related
+design,design related
+software-design,design related
+domain-driven-design,design related
+interaction design,design related
+responsive web design,design related
+gui design,design related
+design thinking,design related
+angular,angular.js
+angular-ui-bootstrap,angular.js
+angular-fullstack,angular.js
+angular 4,angular.js
+angular 1.4 / 2.0,angular.js
+angular material,angular.js
+rabbitmq,messaging protocol
+react-native,react.js
+react native,react.js
+react-redux,react.js
+react,react.js
+react-router,react.js
+laravel,php frameworks
+redux,javascript tools
+redux thunk,javascript tools
+gulp,it automation
+spring,cloud
+spring-mvc,cloud
+spring (di,cloud
+spring rest,cloud
+spring ws),cloud
+spring cloud netflix (eureka,cloud
+spring cloud,cloud
+bootstrap,frontend
+backbone,javascript tools
+typescript,typescript
+elasticsearch,elastic stack
+aerospike/redis/elasticsearch,elastic stack
+cassandra/elasticsearch,elastic stack
+android,android
+android sdk,android
+android studio,android
+calabash android,android
+puppet,it automation
+chef,it automation
+video.js,javascript tools
+backbone.js,javascript tools
+js,javascript tools
+d3.js,javascript tools
+js web components,javascript tools
+webpack/require.js,javascript tools
+grunt.js,javascript tools
+gulp.js,javascript tools
+require.js,javascript tools
+express.js,javascript tools
+nightwatch.js,javascript tools
+next.js,javascript tools
+browser js apis,javascript tools
+ember.js,javascript tools
+chart.js,javascript tools
+vanilla.js,javascript tools
+pixi.js,javascript tools
+maven,cloud tools
+gradle/maven,cloud tools
+xml,xml
+selenium,cloud tools
+selenium-webdriver,cloud tools
+selenium grid,cloud tools
+selenium web driver,cloud tools
+unix,unix/linux
+unix os,unix/linux
+node,node.js
+google-cloud-platform,cloud
+google cloud platform,cloud
+spring-boot,cloud
+spring boot,cloud
+ios,ios
+ios-frameworks,ios
+ios sdk,ios
+calabash ios,ios
+phaser.io,ios
+cocoa touch & ios,ios
+objective-c,ios
+objective c,ios
+swift,ios
+json,json
+kanban,agile
+jira,project management tools
+nginx,nginx
+restful apis,restful apis
+rest apis,restful apis
+restful api,restful apis
+rest api,restful apis
+rest api design,restful apis
+restful apiâ€™s,restful apis
+rest apiâ€™s,restful apis
+rest-apis,restful apis
+restful-apis,restful apis
+spark,bigdata
+golang,go
+kafka,cloud tools
+bower,bower
+jasmine,javascript tools
+tcp/ip stack,tcp/ip
+tcp/ip,tcp/ip
+ip,tcp/ip
+angular.js,angular.js
+react.js,react.js
+react js,react.js
+npm,npm
+ec2,javascript tools
+s3,aws
+es6,javascript tools
+es6+,javascript tools
+ci server,continuous integration
+ci,continuous integration
+ci-system,continuous integration
+gitlab ci,continuous integration
+grunt,grunt
+postgres,sql
+unix/linux,unix/linux
+linux/unix,unix/linux
+linux / unix,unix/linux
+ui/ux,frontend
+ux/ui,frontend
+mobile ui/ux,frontend
+sass/less,css
+sass / less,css
+less/sass,css
+nodejs,node.js
+ui kit,frontend
+ui,frontend
+xcode ui automation,frontend
+rspec,rspec
+ci/cd,ci/cd
+cd / ci,ci/cd
+javascript es6,javascript tools
+javascript es6/es2015,javascript tools
+javascript (es6),javascript tools
+javascript (es6+),javascript tools
+big ip,tcp/ip
+dynamodb,aws
+visual basic,microsoft tools

@@ -1,0 +1,4730 @@
+field1,job_id,skill,type
+0,553,r,R
+1,554,r,R
+2,556,ceph,mixed
+3,557,qa,qa
+4,563,engineer,mixed
+5,563,backend,backend
+6,566,etl,bigdata
+7,567,opennebula,mixed
+8,567,continuous-deployment,Continuous Deployment
+9,568,etl,bigdata
+10,570,c++,C/C++
+11,572,zeromq,mixed
+12,573,amazon-lambda,aws
+13,573,amazon-kinesis,aws
+14,574,dijkstra,mixed
+15,575,c#,c#
+16,575,.net,.net
+17,575,data-science,bigdata
+18,576,websphere,mixed
+19,578,microservices,microservices
+20,579,user-experience,UX/UI
+21,580,mondrian,open source OLAP
+22,583,routing,mixed
+23,583,mesos,mixed
+24,584,c++,C/C++
+25,585,c++14,C/C++
+26,585,tensorflow,Machine Learning
+27,585,pandas,Python-based
+28,586,amazon-ecs,aws
+29,587,columnstore,mixed
+30,587,tableau-server,Data viz tools
+31,588,c++,C/C++
+32,589,xhtml,mixed
+33,590,tableau,Data viz tools
+34,590,pentaho,mixed
+35,590,qlikview,Data viz tools
+36,591,solr,Apache Frameworks
+37,591,full-text-search,mixed
+38,592,high-traffic,mixed
+39,594,c++,C/C++
+40,594,algorithm,algorithm
+41,594,performance,mixed
+42,595,c++,C/C++
+43,595,algorithm,algorithm
+44,595,performance,mixed
+45,596,bigdata,bigdata
+46,598,microservices,microservices
+47,603,piwik,mixed
+48,603,microstrategy,mixed
+49,604,content-management-system,mixed
+50,604,qa,qa
+51,604,user-experience,UX/UI
+52,606,c#,c#
+53,607,combinatorics,mixed
+54,607,algorithm,algorithm
+55,610,deis,mixed
+56,612,terraform,Terraform
+57,613,c++14,C/C++
+58,613,c++,C/C++
+59,614,mvvm,mixed
+60,616,infrastructure,mixed
+61,618,graphql,mixed
+62,618,ecmascript-6,JavaScript Tools
+63,619,c++,C/C++
+64,621,c#,c#
+65,622,event-sourcing,mixed
+66,622,cqrs,mixed
+67,623,c++,C/C++
+68,623,qt,mixed
+69,623,qml,mixed
+70,623,embedded,mixed
+71,625,web,mixed
+72,625,c++,C/C++
+73,626,microservices,microservices
+74,627,oop,mixed
+75,629,business-intelligence,bigdata
+76,629,bigdata,bigdata
+77,629,interface,mixed
+78,630,mockups,mixed
+79,631,.net,.net
+80,631,c#,c#
+81,634,relayjs,mixed
+82,634,graphql,mixed
+83,635,c#,c#
+84,635,.net,.net
+85,636,web,mixed
+86,636,cc++,mixed
+87,642,continuous-delivery,Continuous Delivery
+88,643,c#,c#
+89,643,asp.net,mixed
+90,643,tsql,mixed
+91,644,single-page-application,mixed
+92,646,stylus,mixed
+93,646,twig,mixed
+94,646,wordpress,WordPress
+95,647,mocha,testing
+96,647,gruntjs,JavaScript Tools
+97,647,browserify,JavaScript Tools
+98,648,microservices,microservices
+99,648,hibernate,Hibernate
+100,654,sketchapp,mixed
+101,655,babel,mixed
+102,656,data-warehouse,bigdata
+103,656,database,bigdata
+104,656,plsql,SQL
+105,656,oracle,open source OLAP
+106,657,ecmascript-6,JavaScript Tools
+107,657,netsuite,mixed
+108,658,lavarel,mixed
+109,658,oop,mixed
+110,660,solid-principles,mixed
+111,662,netsuite,mixed
+112,662,ecmascript-6,JavaScript Tools
+113,663,microservices,microservices
+114,666,user-interface,mixed
+115,667,graphite,mixed
+116,673,mobile,mixed
+117,675,payment-gateway,mixed
+118,675,payment,mixed
+119,675,payment-processing,mixed
+120,676,virtuozzo,mixed
+121,676,openvz,mixed
+122,678,frontend,Frontend
+123,679,gis,mixed
+124,682,haproxy,mixed
+125,682,scripting,mixed
+126,683,single-page-application,mixed
+127,685,foundation,mixed
+128,687,bigdata,bigdata
+129,691,github,Repository management services
+130,691,vmware,mixed
+131,692,coffeescript,mixed
+132,693,tomcat,Apache Frameworks
+133,694,frontend,Frontend
+134,697,mariadb,mixed
+135,698,bitcoin,mixed
+136,700,oop,mixed
+137,702,oop,mixed
+138,703,oracle,open source OLAP
+139,703,jms,mixed
+140,704,cloudfoundry,Cloud
+141,704,microservices,microservices
+142,705,r,R
+143,707,database,bigdata
+144,707,networking,mixed
+145,707,distributed-system,mixed
+146,710,cucumber,testing
+147,710,behat,PHP Frameworks
+148,710,codeception,mixed
+149,711,web-services,mixed
+150,712,solr,Apache Frameworks
+151,712,search,mixed
+152,712,lucene,mixed
+153,713,express,Node.js
+154,714,salesforce,mixed
+155,714,end-to-end-delivery,mixed
+156,714,project-management,mixed
+157,714,backlog,mixed
+158,716,kotlin,Kotlin
+159,717,frontend,Frontend
+160,718,qunit,mixed
+161,720,oracle,open source OLAP
+162,720,vba,mixed
+163,720,access,mixed
+164,720,apex,mixed
+165,721,sinatra,mixed
+166,721,software,mixed
+167,722,c#,c#
+168,722,mobile,mixed
+169,723,proxy,mixed
+170,725,salesforce,mixed
+171,725,crm,mixed
+172,725,apex,mixed
+173,725,visualforce,mixed
+174,726,pgtap,mixed
+175,726,liquibase,mixed
+176,728,realm,mixed
+177,731,3d,mixed
+178,731,vr,mixed
+179,731,augmented-reality,mixed
+180,731,c++,C/C++
+181,732,jvm,JVM
+182,733,qa,qa
+183,734,akka,mixed
+184,736,junit,mixed
+185,736,continuous-delivery,Continuous Delivery
+186,739,jarkata,mixed
+187,740,mocking,mixed
+188,741,rubygems,Ruby
+189,741,dry,mixed
+190,741,deployment,mixed
+191,742,c++,C/C++
+192,742,multithreading,mixed
+193,742,matlab,mixed
+194,743,hbase,mixed
+195,745,backend,backend
+196,747,groovy,Groovy
+197,747,grails,Grails
+198,748,groovy,Groovy
+199,748,grails,Grails
+200,749,junit,mixed
+201,749,mockito,mixed
+202,750,statistics,mixed
+203,750,fraud-prevention,mixed
+204,750,algorithm,algorithm
+205,753,backend,backend
+206,754,cqrs,mixed
+207,754,event-sourcing,mixed
+208,755,gwt,mixed
+209,755,vaadin,mixed
+210,755,zend-framework,PHP Frameworks
+211,756,security,mixed
+212,756,infosec,mixed
+213,756,mri,mixed
+214,756,ror,mixed
+215,756,rails,Ruby
+216,758,c,C/C++
+217,758,assembly,mixed
+218,758,embedded,mixed
+219,758,debugging,mixed
+220,758,hardware-programming,mixed
+221,759,iaas,mixed
+222,760,jvm,JVM
+223,761,frontend,Frontend
+224,762,mesos,mixed
+225,763,salt,mixed
+226,764,networking,mixed
+227,764,cisco,mixed
+228,764,infrastructure,mixed
+229,764,vpn,mixed
+230,766,angular2,Angular.js
+231,769,bigdata,bigdata
+232,771,gis,mixed
+233,772,lean,mixed
+234,773,c++,C/C++
+235,773,openstreetmap,mixed
+236,774,nagios,mixed
+237,774,mariadb,mixed
+238,775,oracle,open source OLAP
+239,775,plsql,SQL
+240,776,terraform,Terraform
+241,777,c++,C/C++
+242,777,openstreetmap,mixed
+243,778,enterprise-architect,mixed
+244,778,architecture,mixed
+245,780,mapreduce,mixed
+246,784,c++,C/C++
+247,785,jvm,JVM
+248,788,haskell,mixed
+249,788,erlang,Erlang
+250,788,c#,c#
+251,788,clojure,mixed
+252,789,distributed-system,mixed
+253,789,security,mixed
+254,789,cyber,mixed
+255,789,reverse-engineering,mixed
+256,793,iphone,mixed
+257,795,windows,mixed
+258,795,watchguard,mixed
+259,795,ocs,mixed
+260,795,encryption,mixed
+261,797,windows,mixed
+262,797,assembly,mixed
+263,797,ide,mixed
+264,797,architecture,mixed
+265,798,tomcat,Apache Frameworks
+266,798,jpa,mixed
+267,799,native,mixed
+268,800,oracle,open source OLAP
+269,800,backup,mixed
+270,800,database,bigdata
+271,801,soap,mixed
+272,802,testlink,mixed
+273,802,appium,mixed
+274,802,testng,testing
+275,803,mobile,mixed
+276,803,sdk,mixed
+277,805,.net,.net
+278,805,c#,c#
+279,805,microservices,microservices
+280,806,informix,mixed
+281,809,cloudwatch,Cloud
+282,810,atlassian,Atlassian
+283,810,confluence,mixed
+284,810,plugins,mixed
+285,810,add-on,mixed
+286,811,development,mixed
+287,812,microservices,microservices
+288,812,bigdata,bigdata
+289,813,programmin,mixed
+290,815,qa,qa
+291,815,appium,mixed
+292,815,calabash,iOS
+293,816,cloudfoundry,Cloud
+294,816,openstack,mixed
+295,818,frontend,Frontend
+296,819,c++,C/C++
+297,819,c,C/C++
+298,819,qt,mixed
+299,821,xcode,iOS
+300,823,iphone,mixed
+301,823,core-bluetooth,mixed
+302,823,ibeacon,mixed
+303,824,c,C/C++
+304,824,c++,C/C++
+305,825,mobile,mixed
+306,826,c++,C/C++
+307,826,c++11,C/C++
+308,826,data-structures,mixed
+309,826,algorithm,algorithm
+310,826,linear-programming,mixed
+311,827,cucumber,testing
+312,827,behat,PHP Frameworks
+313,827,codeception,mixed
+314,1,GIS,mixed
+315,2,C++,C/C++
+316,2,Matlab,mixed
+317,2,R,R
+318,3,Wordpress,WordPress
+319,6,Express,Node.js
+320,6,RxJS,mixed
+321,6,GCP,mixed
+322,6,CloudFoundry,Cloud
+323,6,CouchDB,NoSQL
+324,6,Memcached,Memcached
+325,6,Varnish,mixed
+326,6,HAProxy,mixed
+327,7,modern JVM,mixed
+328,10,MLlib,mixed
+329,10,Presto,mixed
+330,10,Impala,mixed
+331,11,SQS,mixed
+332,12,C++,C/C++
+333,12,CAD,mixed
+334,13,ECMAScript 6,JavaScript Tools
+335,13,Babel,JS Compiler
+336,15,Confluence,Atlassian
+337,15,F2P,mixed
+338,17,AJAX,mixed
+339,18,ZeroMQ,mixed
+340,19,R,R
+341,20,BigQuery,Google Cloud Platform
+342,20,Airflow,Apache Frameworks
+343,20,Datadog,mixed
+344,20,R,R
+345,23,Play,Scala Frameworks
+346,23,ActiveMQ,Apache Frameworks
+347,23,Spinnaker,mixed
+348,25,Ionic,mixed
+349,27,Ionic,mixed
+350,27,BubbleSort,mixed
+351,28,UX,UX/UI
+352,28,Wordpress,WordPress
+353,29,Elixir,mixed
+354,30,D3,mixed
+355,30,Highcharts,mixed
+356,31,Express,Node.js
+357,31,ECS,mixed
+358,31,RDS,AWS
+359,31,CloudFormation,Cloud
+360,31,CloudWatch,Cloud
+361,31,CAD,mixed
+362,33,CoffeeScript,mixed
+363,33,HAML,mixed
+364,33,Browserify,JavaScript Tools
+365,33,BEM,mixed
+366,33,Jest,testing
+367,33,Mocha,testing
+368,35,ETL framework,mixed
+369,35,Snowplow,mixed
+370,35,Looker,mixed
+371,35,Tableau,Data viz tools
+372,35,Sisense,mixed
+373,37,Kotlin,Kotlin
+374,38,OOP,mixed
+375,39,Angular2,Angular.js
+376,39,Protractor,mixed
+377,39,Yarn,yarn
+378,40,Orchestration,mixed
+379,40,GCE,mixed
+380,40,C#,C#
+381,41,Riak,mixed
+382,41,Elastic Search,Elastic Stack
+383,41,Vue,JavaScript Tools
+384,42,C++,C/C++
+385,44,Angular2,Angular.js
+386,44,Protractor,mixed
+387,44,Yarn,yarn
+388,45,Flux-architecture,mixed
+389,45,Promises/Q,mixed
+390,45,Underscore,mixed
+391,46,JVM,JVM
+392,47,Vue,JavaScript Tools
+393,50,Tableau,Data viz tools
+394,50,QuickSight,mixed
+395,50,GA,mixed
+396,50,GTM,mixed
+397,50,Snowplow,mixed
+398,50,R,R
+399,50,Pandas,Python-based
+400,50,SciPy,Python-based
+401,53,Rails,Ruby
+402,53,Erlang,Erlang
+403,53,C,C/C++
+404,53,Kotlin,Kotlin
+405,53,Elm,mixed
+406,53,Github,Repository management services
+407,53,Graylog,mixed
+408,53,Kibana,Elastic Stack
+409,53,Consu,mixed
+410,56,Airflow,Apache Frameworks
+411,57,Perl,Perl
+412,57,OTRS,mixed
+413,60,PHP7,PHP
+414,60,Symfony3,PHP Frameworks
+415,63,Meteor,mixed
+416,64,Solr,Apache Frameworks
+417,66,OOP,mixed
+418,66,MVP,mixed
+419,66,MVVM,mixed
+420,67,localytics,mixed
+421,67,VWO,mixed
+422,67,Optimizely,mixed
+423,68,Cucumber,testing
+424,68,Gherkin,mixed
+425,68,Nightwatch,mixed
+426,68,Mocha,testing
+427,68,Chai,BDD/TDD
+428,68,JUnit,mixed
+429,69,XP,mixed
+430,70,Websocket,mixed
+431,70,Elm,mixed
+432,71,GIS,mixed
+433,72,Grails,Grails
+434,72,Hibernate,Hibernate
+435,72,RestAPI,RESTful APIs
+436,73,ERP-systems,mixed
+437,73,SAP,mixed
+438,74,Waterfall,mixed
+439,74,UML modeling,mixed
+440,75,Excel,mixed
+441,75,Pentaho,mixed
+442,75,Talend,mixed
+443,76,TensorFlow,Machine Learning
+444,77,RxJava,mixed
+445,77,Couchbase,mixed
+446,79,Server administration,sysadmin
+447,80,Browserify,JavaScript Tools
+448,82,PHP5/OOP,PHP
+449,82,Magento,e-commerce platform
+450,83,Magento,e-commerce platform
+451,84,Java8,mixed
+452,84,Security,mixed
+453,84,Scheduling,mixed
+454,84,Tx,mixed
+455,84,Ribbon),mixed
+456,84,Messaging JMS / AMQP,mixed
+457,84,Dynamo DB,mixed
+458,85,Universal rendering,mixed
+459,85,Marionette,JavaScript Tools
+460,85,SCSS,CSS
+461,86,memcached,Memcached
+462,86,JVM,JVM
+463,86,CloudFormation,Cloud
+464,86,Route 53,mixed
+465,86,Elasticache,mixed
+466,86,RDS,AWS
+467,87,Confluence,Atlassian
+468,87,,mixed
+469,88,Websocket,mixed
+470,90,NLP,mixed
+471,93,IoT,mixed
+472,94,Blockchain,mixed
+473,94,Bots,mixed
+474,94,BigData,bigdata
+475,94,IoT,mixed
+476,94,Silex,mixed
+477,94,On-Premise,mixed
+478,94,Spryker,mixed
+479,95,Twig,mixed
+480,95,Scss,CSS
+481,95,Foundation,mixed
+482,95,Photoshop,mixed
+483,98,VLAN,mixed
+484,98,VPN,mixed
+485,98,IT administration,mixed
+486,99,Yarn,yarn
+487,99,HDFS,mixed
+488,99,Flink,mixed
+489,99,Jupyter,Python-based
+490,99,Hue,mixed
+491,101,NLP,mixed
+492,103,Snowplow,mixed
+493,103,Airflow,Apache Frameworks
+494,104,Tableau,Data viz tools
+495,104,Metabase,mixed
+496,104,QuickSight,mixed
+497,104,Excel,mixed
+498,104,GA,mixed
+499,104,GTM,mixed
+500,104,Snowplow,mixed
+501,104,R,R
+502,104,Pandas,Python-based
+503,104,SciPy,Python-based
+504,105,Edge,mixed
+505,105,Cisco,mixed
+506,105,Ubiquity,mixed
+507,105,VLAN,mixed
+508,105,VPN,mixed
+509,105,Synology NAS,mixed
+510,105,iptables,mixed
+511,105,cron,mixed
+512,105,ssh,mixed
+513,105,dns,mixed
+514,105,ssl,mixed
+515,105,Navision,mixed
+516,105,Remote Desktop,mixed
+517,105,MSSQL,mixed
+518,105,Active Directory,mixed
+519,105,Route53,mixed
+520,105,RDS,AWS
+521,106,Yii,mixed
+522,106,FuelPHP,PHP
+523,106,Zend 2,PHP Frameworks
+524,106,svn,Apache Frameworks
+525,106,CouchDB,NoSQL
+526,106,memcache,Memcached
+527,106,BDD (Behat,mixed
+528,106,Codeception),mixed
+529,106,Composer,mixed
+530,106,Packagist,mixed
+531,107,Cloudera,Cloud
+532,107,Hortonworks,mixed
+533,107,MapR,mixed
+534,107,Amazon EMR,aws
+535,107,BigQuery,Google Cloud Platform
+536,107,Data Store,mixed
+537,108,Sahi,mixed
+538,108,TestRail,mixed
+539,108,GCP,mixed
+540,109,GCP,mixed
+541,110,R,R
+542,111,XCode,iOS
+543,111,Cocoa Touch,mixed
+544,111,web services,mixed
+545,111,Media Services,mixed
+546,111,Instruments,mixed
+547,111,Sqlite,SQL
+548,111,SOAP,mixed
+549,112,SOA,mixed
+550,112,Minitest,mixed
+551,116,R,R
+552,116,Matlab,mixed
+553,116,SAS,open source OLAP
+554,116,Excel,mixed
+555,116,SSH,mixed
+556,116,SCP Protocol,mixed
+557,118,Excel,mixed
+558,118,MS Project,mixed
+559,120,Vue,JavaScript Tools
+560,121,RDS,AWS
+561,121,Nagios,mixed
+562,121,Icinga,mixed
+563,122,Groovy,Groovy
+564,122,BrowserStack,mixed
+565,122,SauceLabs,mixed
+566,122,TestNG,testing
+567,123,Vue,JavaScript Tools
+568,123,Foundation,mixed
+569,123,Rails,Ruby
+570,124,Capybara,testing
+571,124,Babel,JS Compiler
+572,124,Postcss,mixed
+573,124,Jest,testing
+574,124,Sinon,mixed
+575,124,Cha,mixed
+576,125,Graphics Programming / WebGL,mixed
+577,126,Oracle,open source OLAP
+578,126,CouchDB,NoSQL
+579,126,BDD,BDD/TDD
+580,127,Web Driver,mixed
+581,127,JUnit,mixed
+582,127,TestNG,testing
+583,127,SVN,Apache Frameworks
+584,128,C#,C#
+585,128,HTC Vive,mixed
+586,128,svn,Apache Frameworks
+587,130,R,R
+588,130,Matlab,mixed
+589,130,TensorFlow,Machine Learning
+590,130,Torch,mixed
+591,130,CRAN,mixed
+592,131,JSX,mixed
+593,131,PostCss),mixed
+594,131,Gitflow,mixed
+595,131,GitHub,Repository management services
+596,131,TravisCI,Continuous integration
+597,131,jest,testing
+598,131,mocha,testing
+599,131,chai,BDD/TDD
+600,131,sinon,mixed
+601,133,Swarm,mixed
+602,133,Consul,mixed
+603,135,Swarm,mixed
+604,135,Consul,mixed
+605,136,Magento,e-commerce platform
+606,137,ISTQB/CAT certification,mixed
+607,138,Eclipse,mixed
+608,138,HDFS,mixed
+609,138,Flink,mixed
+610,138,YARN,yarn
+611,141,ZeroMQ (ZMQ),mixed
+612,142,HMTL,mixed
+613,142,Mocha,testing
+614,142,Chai,BDD/TDD
+615,142,Enzyme,mixed
+616,142,Sketch,mixed
+617,142,Invision,mixed
+618,142,Static Site Generators/Templating Engines,mixed
+619,144,Memcache,Memcached
+620,144,Load Balancers,mixed
+621,144,Relational Databases,mixed
+622,144,Elastic Search,Elastic Stack
+623,145,C++,C/C++
+624,145,Impala,mixed
+625,145,Tensorflow,Machine Learning
+626,154,POSTCSS,mixed
+627,154,Foundation,mixed
+628,157,PowerShell,mixed
+629,158,Cocoa,mixed
+630,159,RequireJS,mixed
+631,159,Twig,mixed
+632,163,C++,C/C++
+633,163,OpenGL,mixed
+634,163,JUCE,mixed
+635,164,Haml,mixed
+636,164,BEM,mixed
+637,164,ClojureScript,mixed
+638,165,C++,C/C++
+639,166,Zend2,PHP Frameworks
+640,166,Zend3,PHP Frameworks
+641,167,Kotlin,Kotlin
+642,167,JVM,JVM
+643,170,Groovy,Groovy
+644,170,Spock,mixed
+645,170,Elastic Search,Elastic Stack
+646,170,Kibana,Elastic Stack
+647,170,Gradle,mixed
+648,171,Elixir,mixed
+649,171,Packer,mixed
+650,171,Terraform,Terraform
+651,172,Carto,mixed
+652,173,Hudson,mixed
+653,173,TestNG,testing
+654,173,Unit Frameworks,mixed
+655,174,Unity3D,mixed
+656,174,C#,C#
+657,175,Confluence,Atlassian
+658,176,MariaDB,mixed
+659,177,Express,Node.js
+660,177,ECS,mixed
+661,177,RDS,AWS
+662,177,CloudFormation,Cloud
+663,177,CloudWatch,Cloud
+664,180,Cocoa Touch,mixed
+665,180,Core Location,mixed
+666,180,Core Motion,mixed
+667,180,HealthKit,mixed
+668,181,GCP,mixed
+669,182,Keras,mixed
+670,182,TensorFlow,Machine Learning
+671,182,SciPy,Python-based
+672,182,Jupyter,Python-based
+673,182,Pandas,Python-based
+674,184,bitcoin blockchain,mixed
+675,184,ethereum,mixed
+676,184,smart contracts,mixed
+677,184,IOTA,mixed
+678,184,Polkadot,mixed
+679,184,Cosmos,mixed
+680,184,Parity,mixed
+681,184,IPFS,mixed
+682,184,BigchainDB,mixed
+683,186,SauceLabs,mixed
+684,186,BrowserStack,mixed
+685,186,VMs,mixed
+686,187,Magento,e-commerce platform
+687,187,BDD,BDD/TDD
+688,188,Unity,mixed
+689,188,C++,C/C++
+690,188,Entity Component Systems,mixed
+691,188,StrangeIoC,mixed
+692,188,Zenject,mixed
+693,189,C++,C/C++
+694,190,XDebug,mixed
+695,190,Zend,PHP Frameworks
+696,193,Hibernate,Hibernate
+697,193,IntelliJ IDEA,mixed
+698,193,Eclipse,mixed
+699,193,SVN,Apache Frameworks
+700,194,SCSS,CSS
+701,196,Gerrit,Repository management services
+702,196,Groovy,Groovy
+703,196,Perl,Perl
+704,197,Excel,mixed
+705,197,SSIS,mixed
+706,197,Tableau,Data viz tools
+707,198,C,C/C++
+708,198,C++,C/C++
+709,198,Groovy,Groovy
+710,198,Perl,Perl
+711,198,Hana,mixed
+712,199,Perl,Perl
+713,199,Gerrit,Repository management services
+714,199,C/C++,C/C++
+715,200,Perl,Perl
+716,200,Gerrit,Repository management services
+717,200,C/C++,C/C++
+718,201,Gerrit,Repository management services
+719,201,C/C++,C/C++
+720,202,C++,C/C++
+721,202,Gerrit,Repository management services
+722,203,C/C++,C/C++
+723,203,Perl,Perl
+724,203,Gerrit,Repository management services
+725,204,Memcache,Memcached
+726,204,Load Balancers,mixed
+727,204,Vagrant,mixed
+728,204,Elastic Search,Elastic Stack
+729,205,C++,C/C++
+730,205,Gerrit,Repository management services
+731,206,JUnit,mixed
+732,206,JBehave,mixed
+733,206,TestNG,testing
+734,206,JMeter,mixed
+735,206,LoadRunner,mixed
+736,207,Travis,Continuous integration
+737,207,Bitcoin,mixed
+738,207,Ethereum,mixed
+739,209,ADT,mixed
+740,209,RxJava,mixed
+741,209,Kotlin,Kotlin
+742,210,SaltStack,mixed
+743,210,Zabbix,mixed
+744,210,Logstash,mixed
+745,210,Elastic Search,Elastic Stack
+746,210,Travis,Continuous integration
+747,213,Xcode,iOS
+748,213,AppCode,mixed
+749,213,Instruments,mixed
+750,214,Webstorm,mixed
+751,215,CoffeeScript,mixed
+752,216,HTTP2,mixed
+753,216,Yarn,yarn
+754,216,Babel,JS Compiler
+755,216,Browserify,JavaScript Tools
+756,216,Rollup,mixed
+757,217,Travis,Continuous integration
+758,219,tomcat,Apache Frameworks
+759,219,memcached,Memcached
+760,220,Sequelize,mixed
+761,220,Teamcity,mixed
+762,224,HL7,mixed
+763,224,FHIR,mixed
+764,224,IHE,mixed
+765,224,DICOM,mixed
+766,224,IEEE,mixed
+767,224,ISO,mixed
+768,224,CEN,mixed
+769,224,EHR/EMR,mixed
+770,224,XSLT,mixed
+771,225,Rails,Ruby
+772,226,Karma,mixed
+773,229,PHP5+,PHP
+774,229,PHP7,PHP
+775,229,Magento,e-commerce platform
+776,229,SOAP,mixed
+777,229,Solr,Apache Frameworks
+778,229,Magento,e-commerce platform
+779,231,Teamcity,mixed
+780,231,Openstack,mixed
+781,233,Doctrine,mixed
+782,233,Zend2,PHP Frameworks
+783,233,composer,mixed
+784,233,Vagrant,mixed
+785,233,PHPStorm,PHP
+786,233,XDebug,mixed
+787,234,Haskell,mixed
+788,234,Rust,mixed
+789,236,Finatra,mixed
+790,236,Play,Scala Frameworks
+791,236,Terraform,Terraform
+792,236,SAP Hana,mixed
+793,238,Finatra,mixed
+794,238,Play,Scala Frameworks
+795,238,Terraform,Terraform
+796,238,SAP Hana,mixed
+797,239,Terraform,Terraform
+798,240,MVP,mixed
+799,242,BDD,BDD/TDD
+800,242,Magento,e-commerce platform
+801,242,Codeception,mixed
+802,242,Behat,PHP Frameworks
+803,243,ECMAScript2015,JavaScript Tools
+804,244,Flow,mixed
+805,246,Mesos,mixed
+806,246,Marathon,mixed
+807,247,C/C++,C/C++
+808,248,CD,mixed
+809,249,SAN,mixed
+810,249,NAS,mixed
+811,249,Windows,mixed
+812,249,MAC,mixed
+813,249,Powershell,mixed
+814,250,HAProxy,mixed
+815,252,PHP7,PHP
+816,252,Karma,mixed
+817,254,Meteor,mixed
+818,255,HAProxy,mixed
+819,255,GCP,mixed
+820,256,CISSP certification,mixed
+821,257,CDN,mixed
+822,257,FTP,mixed
+823,258,Terraform,Terraform
+824,258,Packer,mixed
+825,258,BDD,BDD/TDD
+826,258,Solr,Apache Frameworks
+827,262,Play Framework,Scala Frameworks
+828,262,http4s,mixed
+829,262,Message Queues,mixed
+830,263,Kinesis,AWS
+831,264,Pyramid,mixed
+832,264,Flask,mixed
+833,264,GraphQL,mixed
+834,265,Looker,mixed
+835,265,Pentaho,mixed
+836,265,Excel,mixed
+837,265,R,R
+838,265,SAS,open source OLAP
+839,265,SPSS,mixed
+840,266,Appium,mixed
+841,266,Calabash,iOS
+842,267,Pandas,Python-based
+843,267,R,R
+844,269,Lamp stack,mixed
+845,271,R,R
+846,271,SAS,open source OLAP
+847,271,SPSS,mixed
+848,271,Looker,mixed
+849,272,MSSQL,mixed
+850,272,PowerShell,mixed
+851,273,Lua,mixed
+852,276,Testrail,mixed
+853,279,Cucumber,testing
+854,280,Elixir,mixed
+855,280,Cucumber,testing
+856,280,Neo4j,mixed
+857,280,InfluxDB/ Prometheus,mixed
+858,282,Foundation,mixed
+859,282,CloudFront,Cloud
+860,282,OpsWorks,mixed
+861,282,IntelliJ,mixed
+862,283,BEM,mixed
+863,285,Confluence,Atlassian
+864,285,IoT/Industry 4.0,mixed
+865,287,ECMAScript 6,JavaScript Tools
+866,287,WebGL,mixed
+867,287,Celery,mixed
+868,290,Zend,PHP Frameworks
+869,290,Lombok,mixed
+870,290,Transcoder,mixed
+871,292,C++,C/C++
+872,292,OpenCV,mixed
+873,293,OWASP Top 10,mixed
+874,294,Ember,mixed
+875,297,JVM,JVM
+876,297,Haskell,mixed
+877,297,SML,mixed
+878,297,OCaml,mixed
+879,297,Lisp,mixed
+880,297,Idris,mixed
+881,297,Rust,mixed
+882,297,Erlang,Erlang
+883,300,ISTQB,mixed
+884,300,ITIL,mixed
+885,300,IREB,mixed
+886,302,C,C/C++
+887,302,R,R
+888,303,Ember,mixed
+889,303,D3js,mixed
+890,303,C++,C/C++
+891,303,R,R
+892,304,SCSS,CSS
+893,304,Meteor,mixed
+894,304,Jest,testing
+895,307,XStudio,mixed
+896,307,NewRelic,mixed
+897,309,Yocto/Open Embedded,mixed
+898,309,C,C/C++
+899,309,C++,C/C++
+900,309,Qt/QML,mixed
+901,311,Bubblesort,mixed
+902,311,Ionic,mixed
+903,313,GraphQL,mixed
+904,313,Promises,mixed
+905,314,Travis,Continuous integration
+906,314,Capybara,testing
+907,315,Coffeescript,mixed
+908,315,Dart,mixed
+909,316,TCP,mixed
+910,318,Cucumber,testing
+911,318,Gherkin,mixed
+912,318,SVN,Apache Frameworks
+913,318,CVS,mixed
+914,319,Ember,mixed
+915,322,Cake,mixed
+916,322,Magento,e-commerce platform
+917,322,WooCommerce,e-commerce platform
+918,323,ScyllaDB,mixed
+919,323,Pandas,Python-based
+920,324,Native,mixed
+921,328,Bitbucket,Repository management services
+922,328,Confluence,Atlassian
+923,329,Cucumber,testing
+924,329,TravisCI,Continuous integration
+925,330,HBase,mixed
+926,330,Pig,Apache Frameworks
+927,330,Mapreduce,mixed
+928,330,Bigtable,mixed
+929,330,Storm,mixed
+930,331,HDFS,mixed
+931,331,Pig,Apache Frameworks
+932,331,BingAds,mixed
+933,331,Social Media Advertising,mixed
+934,331,Universal Analytics,mixed
+935,332,WordPress,WordPress
+936,332,Shopify,e-commerce platform
+937,332,Woocommerce,mixed
+938,332,Subversion,mixed
+939,338,Gsap,mixed
+940,339,C++,C/C++
+941,339,C#,C#
+942,339,Couchbase,mixed
+943,339,Oracle,open source OLAP
+944,341,Elixir,mixed
+945,342,ECMAScript 6,JavaScript Tools
+946,344,SPSS,mixed
+947,344,RapidMine,mixed
+948,345,Unity3D,mixed
+949,346,C#,C#
+950,347,Xamarin,mixed
+951,347,Xamarin.Forms,mixed
+952,347,C#,C#
+953,348,C#,C#
+954,348,JQeury,mixed
+955,348,Mocha,testing
+956,348,WCF Data Services,mixed
+957,348,OData,mixed
+958,349,Gerrit,Repository management services
+959,349,C/C++,C/C++
+960,349,Wildfly,mixed
+961,349,Piwik,mixed
+962,349,Graylog,mixed
+963,351,Data architecture,bigdata
+964,352,Vue,JavaScript Tools
+965,353,OpenStack,mixed
+966,353,Play,Scala Frameworks
+967,353,Rabbit MQ,RabbitMQ
+968,353,Elastic Search,Elastic Stack
+969,353,Mongo DB,NoSQL
+970,354,Zend,PHP Frameworks
+971,355,R,R
+972,356,Firebase,mixed
+973,356,BigTable,mixed
+974,356,BigQuery,Google Cloud Platform
+975,357,C,C/C++
+976,357,C++,C/C++
+977,357,Raspberry PI,mixed
+978,357,Beaglebone,mixed
+979,357,SqlLite,SQL
+980,357,InfluxDB,mixed
+981,357,Trello,mixed
+982,358,Couchbase,mixed
+983,361,LEAN,mixed
+984,362,Mocha,testing
+985,362,Heroku PAAS,mixed
+986,362,Erlang,Erlang
+987,363,hdfs,mixed
+988,363,Pig,Apache Frameworks
+989,363,Impala,mixed
+990,363,vertica,mixed
+991,363,SAP HANA,mixed
+992,363,Tableau,Data viz tools
+993,363,Rundeck,mixed
+994,363,Pentaho,mixed
+995,363,storm,mixed
+996,363,samza,mixed
+997,363,flink,mixed
+998,365,SVN,Apache Frameworks
+999,365,WordPress,WordPress
+1000,366,Hibernate,Hibernate
+1001,366,OAuth/cryptography,mixed
+1002,368,BigQuery,Google Cloud Platform
+1003,368,Kinesis,AWS
+1004,370,Symphony,PHP Frameworks
+1005,372,C++,C/C++
+1006,373,UX,UX/UI
+1007,373,Excel,mixed
+1008,374,C,C/C++
+1009,374,C++,C/C++
+1010,375,Grape,mixed
+1011,375,Sinatra,mixed
+1012,376,C++,C/C++
+1013,379,MQTT,mixed
+1014,379,AMQP,mixed
+1015,381,Saltstack,mixed
+1016,382,Data architecture,bigdata
+1017,382,Data infrastructure,mixed
+1018,384,RobotFramework,mixed
+1019,385,SCSS,CSS
+1020,385,CD,mixed
+1021,386,Java8,mixed
+1022,386,Netflix Stack,mixed
+1023,386,Saltstack,mixed
+1024,386,Packer,mixed
+1025,386,GCE,mixed
+1026,386,Logstash,mixed
+1027,386,Kibana,Elastic Stack
+1028,386,Zipkin,mixed
+1029,386,Prometheus,mixed
+1030,387,ActiveRecord,mixed
+1031,388,C,C/C++
+1032,388,C++,C/C++
+1033,389,Appium,mixed
+1034,390,PostGIS,mixed
+1035,390,QGIS,mixed
+1036,390,GlobalMapper,mixed
+1037,390,WMS/WCS,mixed
+1038,390,TMS,mixed
+1039,390,GDAL,mixed
+1040,390,PostGIS,mixed
+1041,390,Grass,mixed
+1042,390,.NET,.net
+1043,391,OpenStack,mixed
+1044,391,Play,Scala Frameworks
+1045,391,Rabbit MQ,RabbitMQ
+1046,391,Elastic Search,Elastic Stack
+1047,391,Mongo DB,NoSQL
+1048,394,Gsap,mixed
+1049,395,pdftk,mixed
+1050,397,ETL,bigdata
+1051,397,Tableau,Data viz tools
+1052,397,MicroStrategy,mixed
+1053,397,Looker,mixed
+1054,397,Data Pipeline,bigdata
+1055,397,Kinesis,AWS
+1056,397,MapReduce,mixed
+1057,398,MobX,mixed
+1058,400,C/C++,C/C++
+1059,402,Python3,mixed
+1060,402,Express,Node.js
+1061,402,Celery,mixed
+1062,402,Ember,mixed
+1063,402,VueJS,JavaScript Tools
+1064,402,OpenShift,mixed
+1065,403,RDS,AWS
+1066,403,Kinesis,AWS
+1067,404,C/C++,C/C++
+1068,405,HLS,mixed
+1069,405,DASH,mixed
+1070,405,Smooth,mixed
+1071,405,retrofit 2,mixed
+1072,405,dagger,mixed
+1073,405,fresco,mixed
+1074,405,okhttp,mixed
+1075,405,butterknife,mixed
+1076,406,Perl,Perl
+1077,408,Jekyll,mixed
+1078,408,Hugo,mixed
+1079,408,Phenomic,mixed
+1080,408,yarn,yarn
+1081,408,Karma,mixed
+1082,408,Protractor,mixed
+1083,408,Jest,testing
+1084,409,ECMAScript 6,JavaScript Tools
+1085,410,Express,Node.js
+1086,410,mLab,mixed
+1087,410,New Relic,mixed
+1088,410,StatusCake,mixed
+1089,411,C#,C#
+1090,411,Entity Framework,mixed
+1091,411,Linq,mixed
+1092,412,Capybara,testing
+1093,412,Babel,JS Compiler
+1094,412,Postcss,mixed
+1095,412,Jest,testing
+1096,412,Sinon,mixed
+1097,412,Chai,BDD/TDD
+1098,413,InfluxDB,mixed
+1099,413,DynamoDB,mixed
+1100,413,Confluence,Atlassian
+1101,413,xUnit,mixed
+1102,414,Hbase,mixed
+1103,414,Storm,mixed
+1104,416,Zend Framework,PHP Frameworks
+1105,416,Yii,mixed
+1106,416,Lumen,mixed
+1107,416,Silex,mixed
+1108,416,Mock,mixed
+1109,416,Stub,mixed
+1110,416,Memcached,Memcached
+1111,416,PubNub,mixed
+1112,417,Groovy,Groovy
+1113,417,Grails,Grails
+1114,417,Ratpack,mixed
+1115,417,CloudFront,Cloud
+1116,417,OpsWorks,mixed
+1117,417,IntelliJ,mixed
+1118,418,Dagger,mixed
+1119,418,rxJava,mixed
+1120,419,Dagger,mixed
+1121,419,rxJava,mixed
+1122,421,Universal,mixed
+1123,424,CRM,mixed
+1124,427,Ethernet,mixed
+1125,427,WLAN,mixed
+1126,427,VPN,mixed
+1127,427,Microsoft Exchange,mixed
+1128,429,Terraform,Terraform
+1129,429,LXC/LXD,mixed
+1130,429,OpenStack,mixed
+1131,431,Xcode,iOS
+1132,432,DNS,mixed
+1133,432,DHCP,mixed
+1134,432,LAN/WAN,mixed
+1135,432,Microsoft Exchange Server,mixed
+1136,432,Ofiice 365,mixed
+1137,434,R,R
+1138,436,Brunch,mixed
+1139,436,Rollup,mixed
+1140,436,Browserify,JavaScript Tools
+1141,436,VueJS,JavaScript Tools
+1142,438,DNS,mixed
+1143,438,SSL,mixed
+1144,438,IPTables,mixed
+1145,439,OS,mixed
+1146,441,AKKA,mixed
+1147,441,Play Framework,Scala Frameworks
+1148,441,Flink,mixed
+1149,441,MQTT,mixed
+1150,442,CSS4,mixed
+1151,442,ES2015,JavaScript Tools
+1152,442,ES2016,JavaScript Tools
+1153,443,Swagger,mixed
+1154,443,Flink,mixed
+1155,443,JVM,JVM
+1156,444,Swagger,mixed
+1157,444,Koa,mixed
+1158,444,MQTT,mixed
+1159,444,OAuth 2.0,mixed
+1160,445,C,C/C++
+1161,445,Perl,Perl
+1162,446,ObjectiveC,Objective-C
+1163,446,ReactNative,React.js
+1164,446,Fabric,mixed
+1165,447,GitLab,Repository management services
+1166,447,Capybara,testing
+1167,448,RDS,AWS
+1168,448,IAM,mixed
+1169,448,DynamoDB,mixed
+1170,448,Ubuntu/Debian,mixed
+1171,448,HAproxy,mixed
+1172,448,FPM,mixed
+1173,455,C / C++,C/C++
+1174,455,I2C,mixed
+1175,455,SPI,mixed
+1176,455,Uart,mixed
+1177,455,USB,mixed
+1178,455,Bluetooth,mixed
+1179,455,Makefile,mixed
+1180,455,QT,mixed
+1181,457,PHP5,PHP
+1182,458,C++,C/C++
+1183,458,C#,C#
+1184,458,SOAP,mixed
+1185,458,Express,Node.js
+1186,458,CouchDB,NoSQL
+1187,459,Grails,Grails
+1188,459,Hibernate,Hibernate
+1189,459,RestAPI,RESTful APIs
+1190,460,Babel,JS Compiler
+1191,462,Grails,Grails
+1192,462,Hibernate,Hibernate
+1193,462,RestAPI,RESTful APIs
+1194,463,Yarn,yarn
+1195,465,Luigi,mixed
+1196,466,Ember,mixed
+1197,469,Marionette,JavaScript Tools
+1198,470,VPC,mixed
+1199,470,Openstack,mixed
+1200,470,Zookeeper,mixed
+1201,470,Haproxy,mixed
+1202,470,ActiveMQ,Apache Frameworks
+1203,470,Sonar,mixed
+1204,472,PHP7,PHP
+1205,474,Continuous Delivery,Continuous Delivery
+1206,475,Firebase,mixed
+1207,475,ActionCable,mixed
+1208,478,CoreOS,mixed
+1209,478,Terraform,Terraform
+1210,479,HTTPS,HTTP
+1211,480,ECMAScript 2015,JavaScript Tools
+1212,481,Elixir,mixed
+1213,481,ECMAScript 2015,JavaScript Tools
+1214,481,Qt,mixed
+1215,481,GCP,mixed
+1216,482,Flux,mixed
+1217,483,Play,Scala Frameworks
+1218,483,Confluence,Atlassian
+1219,483,BitBucket,Repository management services
+1220,484,Xcode,iOS
+1221,484,Cocoa Touch,mixed
+1222,485,Angular2,Angular.js
+1223,485,Clojure,mixed
+1224,485,XSS,mixed
+1225,485,CSRF,mixed
+1226,485,OWASP Top 10,mixed
+1227,487,J2EE,mixed
+1228,487,Saltsack,mixed
+1229,489,C#,C#
+1230,489,Visual Basic,mixed
+1231,489,Apex,mixed
+1232,553,python,Python
+1233,554,python,Python
+1234,555,python,Python
+1235,556,python,Python
+1236,557,python,Python
+1237,558,python,Python
+1238,559,python,Python
+1239,560,python,Python
+1240,561,python,Python
+1241,563,python,Python
+1242,565,python,Python
+1243,566,python,Python
+1244,567,python,Python
+1245,568,python,Python
+1246,570,python,Python
+1247,571,python,Python
+1248,572,python,Python
+1249,573,python,Python
+1250,574,python,Python
+1251,575,python,Python
+1252,576,python,Python
+1253,577,python,Python
+1254,579,python,Python
+1255,580,python,Python
+1256,582,python,Python
+1257,584,python,Python
+1258,585,python,Python
+1259,586,python,Python
+1260,588,python,Python
+1261,593,python,Python
+1262,594,python,Python
+1263,595,python,Python
+1264,596,python,Python
+1265,598,python,Python
+1266,605,python,Python
+1267,606,python,Python
+1268,608,python,Python
+1269,613,python,Python
+1270,616,python,Python
+1271,619,python,Python
+1272,631,python,Python
+1273,724,python,Python
+1274,2,Python,Python
+1275,5,Python,Python
+1276,8,Python,Python
+1277,9,Python,Python
+1278,10,Python,Python
+1279,12,Python,Python
+1280,19,Python,Python
+1281,20,Python,Python
+1282,20,Python Celery,Python
+1283,21,Python,Python
+1284,23,Python,Python
+1285,32,Python,Python
+1286,35,Python,Python
+1287,40,Python,Python
+1288,42,Python,Python
+1289,49,Python,Python
+1290,50,Python,Python
+1291,55,Python,Python
+1292,56,Python,Python
+1293,62,Python,Python
+1294,63,Python,Python
+1295,76,python,Python
+1296,86,Python,Python
+1297,90,Python,Python
+1298,94,Python,Python
+1299,96,Python,Python
+1300,100,Python,Python
+1301,103,Python,Python
+1302,104,Python,Python
+1303,109,Python,Python
+1304,110,Python,Python
+1305,116,Python,Python
+1306,126,Python,Python
+1307,129,Python,Python
+1308,130,Python,Python
+1309,132,Python,Python
+1310,135,Python,Python
+1311,148,Python,Python
+1312,149,Python,Python
+1313,163,Python,Python
+1314,174,Python,Python
+1315,178,Python,Python
+1316,181,Python,Python
+1317,182,Python,Python
+1318,183,Python,Python
+1319,186,Python,Python
+1320,189,Python,Python
+1321,196,Python,Python
+1322,198,Python,Python
+1323,199,Python,Python
+1324,200,Python,Python
+1325,201,Python,Python
+1326,202,Python,Python
+1327,203,Python,Python
+1328,205,Python,Python
+1329,208,Python GUI,Python
+1330,220,Python,Python
+1331,231,Python,Python
+1332,239,Python,Python
+1333,242,Python,Python
+1334,245,Python,Python
+1335,249,Python,Python
+1336,250,Python,Python
+1337,251,Python,Python
+1338,255,Python,Python
+1339,258,Python,Python
+1340,264,Python,Python
+1341,265,Python,Python
+1342,271,Python,Python
+1343,273,Python,Python
+1344,276,Python,Python
+1345,285,Python,Python
+1346,287,Python,Python
+1347,288,Python,Python
+1348,289,Python,Python
+1349,292,Python,Python
+1350,293,Python,Python
+1351,298,Python,Python
+1352,301,Python,Python
+1353,303,Python,Python
+1354,320,Python,Python
+1355,323,Python,Python
+1356,330,Python,Python
+1357,339,Python,Python
+1358,340,Python,Python
+1359,344,Python,Python
+1360,349,Python,Python
+1361,353,Python,Python
+1362,357,Python,Python
+1363,368,Python,Python
+1364,372,Python,Python
+1365,384,Python,Python
+1366,387,Python,Python
+1367,388,Python,Python
+1368,389,Python,Python
+1369,390,Python,Python
+1370,391,Python,Python
+1371,403,Python,Python
+1372,404,Python,Python
+1373,406,Python,Python
+1374,413,Python,Python
+1375,426,Python,Python
+1376,428,Python,Python
+1377,430,Python,Python
+1378,433,Python 3,Python
+1379,434,Python,Python
+1380,442,Python,Python
+1381,445,Python,Python
+1382,448,Python,Python
+1383,455,Python,Python
+1384,464,Python,Python
+1385,465,Python,Python
+1386,470,Python,Python
+1387,486,Python,Python
+1388,553,sql,SQL
+1389,554,sql,SQL
+1390,555,sql,SQL
+1391,557,sql,SQL
+1392,558,sql,SQL
+1393,559,sql,SQL
+1394,568,sql,SQL
+1395,587,sql,SQL
+1396,590,sql,SQL
+1397,600,sql,SQL
+1398,603,sql,SQL
+1399,615,sql,SQL
+1400,620,sql,SQL
+1401,621,sql,SQL
+1402,656,sql,SQL
+1403,675,sql,SQL
+1404,681,sql,SQL
+1405,690,sql,SQL
+1406,703,sql,SQL
+1407,720,sql,SQL
+1408,722,sql,SQL
+1409,724,sql,SQL
+1410,740,sql,SQL
+1411,775,sql,SQL
+1412,805,sql-server,SQL
+1413,19,SQL,SQL
+1414,20,SQL,SQL
+1415,35,SQL,SQL
+1416,55,SQL,SQL
+1417,61,SQL,SQL
+1418,68,SQL,SQL
+1419,73,SQL,SQL
+1420,75,SQL,SQL
+1421,78,SQL,SQL
+1422,87,SQL,SQL
+1423,91,SQL,SQL
+1424,94,SQL,SQL
+1425,104,SQL,SQL
+1426,109,SQL,SQL
+1427,130,SQL,SQL
+1428,145,SQL,SQL
+1429,169,SQL,SQL
+1430,173,SQL,SQL
+1431,178,SQL,SQL
+1432,197,SQL,SQL
+1433,217,SQL,SQL
+1434,220,SQL,SQL
+1435,252,SQL,SQL
+1436,262,SQL,SQL
+1437,264,SQL,SQL
+1438,270,SQL,SQL
+1439,271,SQL,SQL
+1440,272,Transact SQL,SQL
+1441,273,SQL,SQL
+1442,276,SQL,SQL
+1443,280,SQL,SQL
+1444,288,SQL,SQL
+1445,298,SQL,SQL
+1446,314,SQL,SQL
+1447,316,SQL,SQL
+1448,332,SQL,SQL
+1449,339,SQL Server,SQL
+1450,340,SQL,SQL
+1451,343,SQL,SQL
+1452,344,SQL,SQL
+1453,346,SQL,SQL
+1454,347,SQL,SQL
+1455,348,SQL,SQL
+1456,355,SQL,SQL
+1457,356,SQL,SQL
+1458,356,Cloud SQL,SQL
+1459,358,SQL,SQL
+1460,366,Sql,SQL
+1461,368,SQL,SQL
+1462,373,SQL,SQL
+1463,375,SQL,SQL
+1464,386,SQL,SQL
+1465,389,SQL,SQL
+1466,390,SQL,SQL
+1467,399,SQL,SQL
+1468,403,SQL,SQL
+1469,415,SQL,SQL
+1470,473,SQL,SQL
+1471,481,SQL,SQL
+1472,485,SQL Injection,SQL
+1473,555,django,Django
+1474,560,django,Django
+1475,561,django,Django
+1476,562,django,Django
+1477,565,django,Django
+1478,614,django,Django
+1479,32,Django,Django
+1480,123,Django,Django
+1481,135,Django,Django
+1482,264,Django,Django
+1483,287,Django,Django
+1484,288,Django,Django
+1485,289,Django,Django
+1486,320,Django,Django
+1487,402,Django,Django
+1488,433,Django,Django
+1489,555,aws,AWS
+1490,568,aws,AWS
+1491,569,aws,AWS
+1492,578,aws,AWS
+1493,583,aws,AWS
+1494,586,aws,AWS
+1495,586,aws-lambda,AWS
+1496,588,aws,AWS
+1497,596,aws,AWS
+1498,601,aws,AWS
+1499,605,aws,AWS
+1500,608,aws,AWS
+1501,612,aws,AWS
+1502,624,aws,AWS
+1503,648,aws,AWS
+1504,701,aws,AWS
+1505,706,aws,AWS
+1506,708,aws,AWS
+1507,719,aws,AWS
+1508,729,aws,AWS
+1509,732,aws,AWS
+1510,742,aws,AWS
+1511,744,aws,AWS
+1512,759,aws,AWS
+1513,776,aws,AWS
+1514,781,aws,AWS
+1515,786,aws,AWS
+1516,791,aws,AWS
+1517,809,aws,AWS
+1518,809,aws-code-deploy,AWS
+1519,817,aws,AWS
+1520,6,AWS,AWS
+1521,9,AWS,AWS
+1522,14,AWS,AWS
+1523,31,AWS,AWS
+1524,40,AWS,AWS
+1525,41,AWS,AWS
+1526,42,AWS,AWS
+1527,44,AWS,AWS
+1528,46,AWS,AWS
+1529,47,AWS,AWS
+1530,50,AWS stack,AWS
+1531,53,AWS,AWS
+1532,62,AWS,AWS
+1533,68,AWS,AWS
+1534,72,AWS,AWS
+1535,86,AWS,AWS
+1536,90,AWS SQS,AWS
+1537,90,AWS Kinesis,AWS
+1538,90,AWS RDS,AWS
+1539,90,AWS DynamoDB,AWS
+1540,90,AWS ElasticCache,AWS
+1541,90,AWS Redshift,AWS
+1542,94,AWS-Cloud,AWS
+1543,102,AWS,AWS
+1544,103,AWS,AWS
+1545,104,AWS stack,AWS
+1546,105,AWS,AWS
+1547,108,AWS,AWS
+1548,109,AWS,AWS
+1549,110,AWS Redshift,AWS
+1550,113,AWS,AWS
+1551,114,AWS,AWS
+1552,120,AWS,AWS
+1553,121,AWS EC2,AWS
+1554,124,AWS,AWS
+1555,129,AWS,AWS
+1556,130,AWS,AWS
+1557,132,AWS,AWS
+1558,144,AWS Services,AWS
+1559,147,AWS,AWS
+1560,174,AWS,AWS
+1561,176,AWS,AWS
+1562,177,AWS,AWS
+1563,181,AWS,AWS
+1564,204,AWS Services,AWS
+1565,229,AWS,AWS
+1566,230,AWS,AWS
+1567,234,AWS,AWS
+1568,239,AWS/Azure,AWS
+1569,242,AWS,AWS
+1570,250,AWS,AWS
+1571,251,AWS,AWS
+1572,255,AWS,AWS
+1573,258,AWS,AWS
+1574,263,AWS,AWS
+1575,282,AWS,AWS
+1576,285,AWS,AWS
+1577,287,AWS,AWS
+1578,290,AWS,AWS
+1579,297,AWS,AWS
+1580,302,AWS,AWS
+1581,327,AWS,AWS
+1582,352,AWS,AWS
+1583,362,AWS,AWS
+1584,372,AWS,AWS
+1585,375,AWS,AWS
+1586,386,AWS,AWS
+1587,390,AWS,AWS
+1588,397,AWS,AWS
+1589,403,AWS,AWS
+1590,410,AWS,AWS
+1591,413,AWS,AWS
+1592,416,AWS,AWS
+1593,417,AWS,AWS
+1594,417,AWS,AWS
+1595,426,AWS,AWS
+1596,429,AWS,AWS
+1597,433,AWS,AWS
+1598,442,AWS,AWS
+1599,443,AWS,AWS
+1600,444,AWS,AWS
+1601,447,AWS,AWS
+1602,459,AWS,AWS
+1603,462,AWS,AWS
+1604,470,AWS,AWS
+1605,470,AWS ELB,AWS
+1606,480,AWS,AWS
+1607,481,AWS,AWS
+1608,483,AWS,AWS
+1609,487,AWS,AWS
+1610,555,scrum,Agile
+1611,571,scrum,Agile
+1612,686,scrum,Agile
+1613,694,scrum,Agile
+1614,702,scrum,Agile
+1615,714,scrum,Agile
+1616,730,scrum,Agile
+1617,770,scrum,Agile
+1618,772,scrum,Agile
+1619,827,scrum,Agile
+1620,72,Scrum,Agile
+1621,74,Scrum,Agile
+1622,97,Scrum,Agile
+1623,128,Scrum,Agile
+1624,136,SCRUM,Agile
+1625,140,Scrum,Agile
+1626,143,SCRUM,Agile
+1627,151,scrum,Agile
+1628,172,SCRUM,Agile
+1629,195,Scrum,Agile
+1630,232,Scrum,Agile
+1631,233,Scrum,Agile
+1632,257,Scrum,Agile
+1633,260,Scrum,Agile
+1634,274,Scrum,Agile
+1635,295,Scrum,Agile
+1636,307,Scrum,Agile
+1637,318,Scrum,Agile
+1638,322,Scrum,Agile
+1639,361,SCRUM,Agile
+1640,362,Scrum,Agile
+1641,367,Scrum,Agile
+1642,371,Scrum,Agile
+1643,397,Scrum,Agile
+1644,413,Scrum,Agile
+1645,415,Scrum,Agile
+1646,437,Scrum,Agile
+1647,447,Scrum,Agile
+1648,458,Scrum,Agile
+1649,459,Scrum,Agile
+1650,462,Scrum,Agile
+1651,471,Scrum,Agile
+1652,475,Scrum,Agile
+1653,556,linux,Unix/Linux
+1654,569,linux,Unix/Linux
+1655,571,linux,Unix/Linux
+1656,583,linux,Unix/Linux
+1657,616,linux,Unix/Linux
+1658,623,linux,Unix/Linux
+1659,676,linux,Unix/Linux
+1660,693,linux,Unix/Linux
+1661,707,linux,Unix/Linux
+1662,727,linux,Unix/Linux
+1663,735,linux,Unix/Linux
+1664,751,linux,Unix/Linux
+1665,783,linux,Unix/Linux
+1666,786,linux,Unix/Linux
+1667,795,linux,Unix/Linux
+1668,800,linux,Unix/Linux
+1669,817,linux,Unix/Linux
+1670,14,Linux,Unix/Linux
+1671,21,Linux,Unix/Linux
+1672,23,Linux,Unix/Linux
+1673,31,Linux,Unix/Linux
+1674,57,Linux,Unix/Linux
+1675,68,Linux,Unix/Linux
+1676,113,Linux,Unix/Linux
+1677,121,Linux,Unix/Linux
+1678,129,Linux,Unix/Linux
+1679,177,Linux,Unix/Linux
+1680,198,Linux,Unix/Linux
+1681,199,Linux,Unix/Linux
+1682,200,Linux,Unix/Linux
+1683,201,Linux,Unix/Linux
+1684,202,Linux,Unix/Linux
+1685,205,Linux,Unix/Linux
+1686,215,Linux,Unix/Linux
+1687,219,Linux,Unix/Linux
+1688,230,Linux,Unix/Linux
+1689,231,Linux,Unix/Linux
+1690,246,Linux,Unix/Linux
+1691,249,Linux,Unix/Linux
+1692,250,Linux,Unix/Linux
+1693,252,Linux,Unix/Linux
+1694,253,Linux,Unix/Linux
+1695,261,Linux,Unix/Linux
+1696,293,Linux,Unix/Linux
+1697,320,Linux,Unix/Linux
+1698,328,OSX/Linux,Unix/Linux
+1699,336,Linux,Unix/Linux
+1700,349,Linux,Unix/Linux
+1701,381,Linux,Unix/Linux
+1702,390,Linux,Unix/Linux
+1703,406,Linux,Unix/Linux
+1704,440,Linux,Unix/Linux
+1705,464,Linux,Unix/Linux
+1706,478,Linux,Unix/Linux
+1707,486,Linux,Unix/Linux
+1708,556,postgresql,SQL
+1709,560,postgresql,SQL
+1710,566,postgresql,SQL
+1711,570,postgresql,SQL
+1712,580,postgresql,SQL
+1713,582,postgresql,SQL
+1714,640,postgresql,SQL
+1715,658,postgresql,SQL
+1716,723,postgresql,SQL
+1717,726,postgresql,SQL
+1718,726,postgresql-9.6,SQL
+1719,739,postgresql,SQL
+1720,765,postgresql,SQL
+1721,800,postgresql,SQL
+1722,809,postgresql,SQL
+1723,6,PostgreSQL,SQL
+1724,35,PostgreSQL,SQL
+1725,40,PostgreSQL,SQL
+1726,41,PostgreSQL,SQL
+1727,47,PostgreSQL,SQL
+1728,55,PostgreSQL,SQL
+1729,84,PostgreSQL,SQL
+1730,106,Postgresql,SQL
+1731,116,Postgresql,SQL
+1732,120,PostgreSQL,SQL
+1733,126,PostgreSQL,SQL
+1734,133,PostgreSQL,SQL
+1735,135,PostgreSQL,SQL
+1736,150,PostgreSQL,SQL
+1737,155,PostgreSQL,SQL
+1738,171,PostgreSQL,SQL
+1739,207,PostgreSQL,SQL
+1740,210,PostgreSQL,SQL
+1741,230,PostgreSQL,SQL
+1742,233,PostgreSQL,SQL
+1743,236,PostgreSQL,SQL
+1744,238,PostgreSQL,SQL
+1745,265,PostgreSQL,SQL
+1746,280,PostgreSQL,SQL
+1747,287,PostgreSQL,SQL
+1748,287,PostgreSQL,SQL
+1749,290,PostgreSQL,SQL
+1750,320,PostgreSQL,SQL
+1751,327,Postgresql,SQL
+1752,329,PostgreSQL,SQL
+1753,339,PostgreSQL,SQL
+1754,341,PostgreSQL,SQL
+1755,352,PostgreSQL,SQL
+1756,433,PostgreSQL,SQL
+1757,436,PostgreSQL,SQL
+1758,443,PostgreSQL,SQL
+1759,444,PostgreSQL,SQL
+1760,458,PostgreSQL,SQL
+1761,467,PostgreSQL,SQL
+1762,470,PostgreSQL,SQL
+1763,478,PostgreSQL,SQL
+1764,480,PostgreSQL,SQL
+1765,557,continuous-integration,Continuous integration
+1766,624,continuous-integration,Continuous integration
+1767,642,continuous-integration,Continuous integration
+1768,662,continuous-integration,Continuous integration
+1769,736,continuous-integration,Continuous integration
+1770,760,continuous-integration,Continuous integration
+1771,785,continuous-integration,Continuous integration
+1772,113,Continuous Integration,Continuous integration
+1773,361,Continuous Integration,Continuous integration
+1774,401,Continuous integration,Continuous integration
+1775,474,Continuous Integration,Continuous integration
+1776,557,automated-tests,testing
+1777,604,testing,testing
+1778,619,testing,testing
+1779,621,testing,testing
+1780,625,testing,testing
+1781,625,automated-tests,testing
+1782,722,performance-testing,testing
+1783,733,testing,testing
+1784,815,mobile-testing,testing
+1785,820,automated-tests,testing
+1786,75,A/B testing,testing
+1787,137,cross OS testing,testing
+1788,167,A/B Testing,testing
+1789,283,A/B Testing,testing
+1790,298,A/B test,testing
+1791,324,A/B tests,testing
+1792,335,Unit Testing,testing
+1793,384,Py.Test,testing
+1794,405,UI Testing,testing
+1795,558,deep-learning,Machine Learning
+1796,10,scikit-learn,Machine Learning
+1797,49,scikit-learn,Machine Learning
+1798,50,Scikit-learn,Machine Learning
+1799,76,scikit-learn,Machine Learning
+1800,104,Scikit-learn,Machine Learning
+1801,130,Scikit-learn,Machine Learning
+1802,298,Deep Learning,Machine Learning
+1803,323,Scikit Learn,Machine Learning
+1804,559,ruby,Ruby
+1805,577,ruby,Ruby
+1806,579,ruby,Ruby
+1807,593,ruby,Ruby
+1808,598,ruby,Ruby
+1809,605,ruby,Ruby
+1810,608,ruby,Ruby
+1811,639,ruby,Ruby
+1812,664,ruby,Ruby
+1813,667,ruby,Ruby
+1814,704,ruby,Ruby
+1815,721,ruby,Ruby
+1816,724,ruby,Ruby
+1817,741,ruby,Ruby
+1818,781,ruby,Ruby
+1819,796,ruby,Ruby
+1820,801,ruby,Ruby
+1821,820,ruby,Ruby
+1822,29,Ruby,Ruby
+1823,40,Ruby,Ruby
+1824,42,Ruby,Ruby
+1825,53,Ruby,Ruby
+1826,56,Ruby,Ruby
+1827,86,Ruby,Ruby
+1828,96,Ruby,Ruby
+1829,100,Ruby,Ruby
+1830,114,Ruby w/o Rails,Ruby
+1831,126,Ruby,Ruby
+1832,132,Ruby,Ruby
+1833,147,Ruby,Ruby
+1834,171,Ruby,Ruby
+1835,186,Ruby,Ruby
+1836,196,Ruby,Ruby
+1837,198,Ruby,Ruby
+1838,209,Ruby,Ruby
+1839,227,Ruby,Ruby
+1840,231,Ruby,Ruby
+1841,239,Ruby,Ruby
+1842,248,Ruby/RoR,Ruby
+1843,250,Ruby,Ruby
+1844,255,Ruby,Ruby
+1845,273,Ruby,Ruby
+1846,276,Ruby,Ruby
+1847,280,Ruby,Ruby
+1848,291,Ruby,Ruby
+1849,293,Ruby,Ruby
+1850,314,Ruby,Ruby
+1851,318,Ruby,Ruby
+1852,330,Ruby,Ruby
+1853,331,Ruby,Ruby
+1854,341,Ruby,Ruby
+1855,344,Ruby,Ruby
+1856,353,Ruby,Ruby
+1857,362,Ruby,Ruby
+1858,375,Ruby,Ruby
+1859,384,Ruby,Ruby
+1860,387,Ruby,Ruby
+1861,391,Ruby,Ruby
+1862,406,Ruby,Ruby
+1863,447,Ruby,Ruby
+1864,448,Ruby,Ruby
+1865,453,Ruby,Ruby
+1866,454,Ruby,Ruby
+1867,464,Ruby,Ruby
+1868,561,mysql,SQL
+1869,563,mysql,SQL
+1870,566,mysql,SQL
+1871,570,mysql,SQL
+1872,601,mysql,SQL
+1873,612,mysql,SQL
+1874,620,mysql,SQL
+1875,629,mysql,SQL
+1876,633,mysql,SQL
+1877,637,mysql,SQL
+1878,638,mysql,SQL
+1879,642,mysql,SQL
+1880,651,mysql,SQL
+1881,652,mysql,SQL
+1882,658,mysql,SQL
+1883,660,mysql,SQL
+1884,665,mysql,SQL
+1885,670,mysql,SQL
+1886,686,mysql,SQL
+1887,689,mysql,SQL
+1888,697,mysql,SQL
+1889,700,mysql,SQL
+1890,715,mysql,SQL
+1891,723,mysql,SQL
+1892,774,mysql,SQL
+1893,23,MySQL,SQL
+1894,31,MySQL,SQL
+1895,41,MySQL,SQL
+1896,47,MySQL,SQL
+1897,57,Mysql,SQL
+1898,60,MySQL,SQL
+1899,72,Mysql,SQL
+1900,82,MySQL,SQL
+1901,86,MySQL,SQL
+1902,103,mySQL,SQL
+1903,106,Mysql,SQL
+1904,110,MySQL,SQL
+1905,113,MySQL,SQL
+1906,120,MySQL,SQL
+1907,121,MYSQL,SQL
+1908,126,MySQL,SQL
+1909,147,MySQL,SQL
+1910,171,MySQL,SQL
+1911,177,Mysql,SQL
+1912,190,MySQL,SQL
+1913,210,MySQL,SQL
+1914,219,MySql,SQL
+1915,229,MySQL,SQL
+1916,230,MySQL,SQL
+1917,258,MySQL,SQL
+1918,259,MySQL,SQL
+1919,265,MySQL,SQL
+1920,272,MySQL,SQL
+1921,290,MySQL,SQL
+1922,322,MySQL,SQL
+1923,329,MySQL,SQL
+1924,336,MySQL,SQL
+1925,338,MySQL,SQL
+1926,339,MySQL,SQL
+1927,341,MySQL,SQL
+1928,349,MySQL,SQL
+1929,352,MySQL,SQL
+1930,363,MySQL,SQL
+1931,394,MySQL,SQL
+1932,395,MySQL,SQL
+1933,402,MySQL,SQL
+1934,413,MySQL,SQL
+1935,417,MySQL,SQL
+1936,436,MySQL,SQL
+1937,448,MySQL,SQL
+1938,453,MySQL,SQL
+1939,457,MySQL,SQL
+1940,458,MySQL,SQL
+1941,459,MySQL,SQL
+1942,462,MySQL,SQL
+1943,470,Mysql,SQL
+1944,472,MySQL,SQL
+1945,487,MySQL,SQL
+1946,561,docker,Containerization Platforms
+1947,576,docker,Containerization Platforms
+1948,592,docker,Containerization Platforms
+1949,610,docker,Containerization Platforms
+1950,612,docker,Containerization Platforms
+1951,624,docker,Containerization Platforms
+1952,640,docker,Containerization Platforms
+1953,642,docker,Containerization Platforms
+1954,661,docker,Containerization Platforms
+1955,679,docker,Containerization Platforms
+1956,698,docker,Containerization Platforms
+1957,727,docker,Containerization Platforms
+1958,735,docker,Containerization Platforms
+1959,738,docker,Containerization Platforms
+1960,744,docker,Containerization Platforms
+1961,762,docker,Containerization Platforms
+1962,763,docker,Containerization Platforms
+1963,776,docker,Containerization Platforms
+1964,781,docker,Containerization Platforms
+1965,786,docker,Containerization Platforms
+1966,9,Docker,Containerization Platforms
+1967,23,Docker,Containerization Platforms
+1968,31,Docker,Containerization Platforms
+1969,40,Docker,Containerization Platforms
+1970,42,Docker,Containerization Platforms
+1971,53,Kafka and Docker,Containerization Platforms
+1972,56,Docker,Containerization Platforms
+1973,60,Docker,Containerization Platforms
+1974,109,Docker,Containerization Platforms
+1975,110,Docker,Containerization Platforms
+1976,133,Docker,Containerization Platforms
+1977,135,Docker,Containerization Platforms
+1978,144,Docker Vagrant,Containerization Platforms
+1979,147,Docker,Containerization Platforms
+1980,177,Docker,Containerization Platforms
+1981,178,Docker,Containerization Platforms
+1982,181,Docker,Containerization Platforms
+1983,196,Docker,Containerization Platforms
+1984,198,Docker,Containerization Platforms
+1985,199,Docker,Containerization Platforms
+1986,200,Docker,Containerization Platforms
+1987,201,Docker,Containerization Platforms
+1988,203,Docker,Containerization Platforms
+1989,204,Docker,Containerization Platforms
+1990,206,Docker,Containerization Platforms
+1991,210,Docker,Containerization Platforms
+1992,212,Docker,Containerization Platforms
+1993,220,Docker,Containerization Platforms
+1994,227,Docker,Containerization Platforms
+1995,229,Docker,Containerization Platforms
+1996,236,Docker,Containerization Platforms
+1997,238,Docker,Containerization Platforms
+1998,239,Docker,Containerization Platforms
+1999,246,Docker,Containerization Platforms
+2000,248,Docker,Containerization Platforms
+2001,253,Docker,Containerization Platforms
+2002,258,Docker,Containerization Platforms
+2003,261,Docker,Containerization Platforms
+2004,279,Docker,Containerization Platforms
+2005,280,Docker,Containerization Platforms
+2006,328,Docker-Compose,Containerization Platforms
+2007,375,Docker,Containerization Platforms
+2008,387,Docker,Containerization Platforms
+2009,390,Docker,Containerization Platforms
+2010,402,Docker,Containerization Platforms
+2011,410,Docker Hub,Containerization Platforms
+2012,413,Docker,Containerization Platforms
+2013,429,Docker,Containerization Platforms
+2014,433,Docker,Containerization Platforms
+2015,438,Docker,Containerization Platforms
+2016,443,Docker,Containerization Platforms
+2017,444,Docker,Containerization Platforms
+2018,458,Docker,Containerization Platforms
+2019,467,Docker,Containerization Platforms
+2020,472,Docker,Containerization Platforms
+2021,478,Docker,Containerization Platforms
+2022,483,Docker,Containerization Platforms
+2023,487,Docker,Containerization Platforms
+2024,561,git,Git
+2025,620,git,Git
+2026,665,git,Git
+2027,711,git,Git
+2028,719,git,Git
+2029,752,git,Git
+2030,767,git,Git
+2031,47,Git,Git
+2032,62,git,Git
+2033,64,Git,Git
+2034,87,GIT,Git
+2035,100,Git,Git
+2036,106,git,Git
+2037,112,Git,Git
+2038,116,Git,Git
+2039,117,Git,Git
+2040,120,Git,Git
+2041,123,Git,Git
+2042,127,Git,Git
+2043,128,Git,Git
+2044,129,git,Git
+2045,133,git,Git
+2046,135,git,Git
+2047,139,git,Git
+2048,142,Git,Git
+2049,147,git,Git
+2050,157,GIT,Git
+2051,161,git,Git
+2052,163,git,Git
+2053,169,git,Git
+2054,176,Git,Git
+2055,177,git,Git
+2056,180,git,Git
+2057,181,git,Git
+2058,187,Git,Git
+2059,193,GIT,Git
+2060,196,Git,Git
+2061,198,Git,Git
+2062,199,Git,Git
+2063,200,Git,Git
+2064,201,Git,Git
+2065,202,Git,Git
+2066,203,Git,Git
+2067,205,Git,Git
+2068,206,GIT,Git
+2069,209,Git,Git
+2070,210,git,Git
+2071,214,Git,Git
+2072,215,git,Git
+2073,220,Git,Git
+2074,226,Git,Git
+2075,229,Git,Git
+2076,233,git,Git
+2077,242,git,Git
+2078,279,git,Git
+2079,280,git,Git
+2080,282,Git,Git
+2081,285,Git,Git
+2082,287,Git,Git
+2083,318,GIT,Git
+2084,325,Git,Git
+2085,326,Git,Git
+2086,327,Git,Git
+2087,332,Git,Git
+2088,338,Git,Git
+2089,349,Git,Git
+2090,352,Git,Git
+2091,357,Git,Git
+2092,365,Git,Git
+2093,370,Git,Git
+2094,376,Git,Git
+2095,395,Git,Git
+2096,396,Git,Git
+2097,398,Git,Git
+2098,408,Git VCS,Git
+2099,415,Git,Git
+2100,416,Git,Git
+2101,417,Git,Git
+2102,435,Git,Git
+2103,464,Git,Git
+2104,465,Git,Git
+2105,480,Git,Git
+2106,562,reactjs,React.js
+2107,565,reactjs,React.js
+2108,601,reactjs,React.js
+2109,602,reactjs,React.js
+2110,609,reactjs,React.js
+2111,618,reactjs,React.js
+2112,630,reactjs,React.js
+2113,634,reactjs,React.js
+2114,639,reactjs,React.js
+2115,641,reactjs,React.js
+2116,644,reactjs,React.js
+2117,645,reactjs,React.js
+2118,650,reactjs,React.js
+2119,657,reactjs,React.js
+2120,666,reactjs,React.js
+2121,669,reactjs,React.js
+2122,671,reactjs,React.js
+2123,672,reactjs,React.js
+2124,674,reactjs,React.js
+2125,678,reactjs,React.js
+2126,680,reactjs,React.js
+2127,683,reactjs,React.js
+2128,698,reactjs,React.js
+2129,701,reactjs,React.js
+2130,708,reactjs,React.js
+2131,713,reactjs,React.js
+2132,737,reactjs,React.js
+2133,749,reactjs,React.js
+2134,752,reactjs,React.js
+2135,761,reactjs,React.js
+2136,45,ReactJS,React.js
+2137,92,ReactJS,React.js
+2138,282,ReactJS,React.js
+2139,379,ReactJS,React.js
+2140,383,ReactJS,React.js
+2141,563,java,Java
+2142,564,java,Java
+2143,574,java,Java
+2144,575,java,Java
+2145,578,java,Java
+2146,579,java,Java
+2147,580,java,Java
+2148,588,java,Java
+2149,591,java,Java
+2150,593,java,Java
+2151,597,java,Java
+2152,598,java,Java
+2153,606,java,Java
+2154,607,java,Java
+2155,621,java,Java
+2156,625,java,Java
+2157,632,java,Java
+2158,636,java,Java
+2159,648,java,Java
+2160,649,java,Java
+2161,651,java,Java
+2162,659,java,Java
+2163,673,java,Java
+2164,675,java,Java
+2165,681,java,Java
+2166,691,java,Java
+2167,693,java,Java
+2168,694,java,Java
+2169,695,java,Java
+2170,696,java,Java
+2171,697,java,Java
+2172,703,java,Java
+2173,705,java,Java
+2174,706,java,Java
+2175,709,java,Java
+2176,716,java,Java
+2177,719,java,Java
+2178,722,java,Java
+2179,724,java,Java
+2180,732,java,Java
+2181,734,java,Java
+2182,735,java,Java
+2183,736,java,Java
+2184,739,java,Java
+2185,740,java,Java
+2186,742,java,Java
+2187,743,java,Java
+2188,745,java,Java
+2189,746,java,Java
+2190,746,java-ee,Java
+2191,747,java,Java
+2192,748,java,Java
+2193,749,java,Java
+2194,753,java,Java
+2195,755,java,Java
+2196,757,java,Java
+2197,760,java,Java
+2198,765,java,Java
+2199,767,java,Java
+2200,767,java-ee,Java
+2201,768,java,Java
+2202,773,java,Java
+2203,775,java,Java
+2204,777,java,Java
+2205,780,java,Java
+2206,782,java,Java
+2207,783,java,Java
+2208,785,java,Java
+2209,787,java,Java
+2210,788,java,Java
+2211,790,java,Java
+2212,791,java,Java
+2213,792,java,Java
+2214,797,java,Java
+2215,798,java,Java
+2216,803,java,Java
+2217,804,java,Java
+2218,807,java,Java
+2219,808,java,Java
+2220,814,java,Java
+2221,817,java,Java
+2222,822,java,Java
+2223,822,java-ee,Java
+2224,824,java,Java
+2225,825,java,Java
+2226,2,Java,Java
+2227,7,Java,Java
+2228,8,Java,Java
+2229,11,Java,Java
+2230,16,Java,Java
+2231,21,Java,Java
+2232,23,Java,Java
+2233,37,Java,Java
+2234,40,Java,Java
+2235,42,Java,Java
+2236,53,Java,Java
+2237,56,Java,Java
+2238,65,Java,Java
+2239,71,Java,Java
+2240,78,Java,Java
+2241,109,Java,Java
+2242,116,Java,Java
+2243,121,Java,Java
+2244,122,Java,Java
+2245,126,Java,Java
+2246,127,Java,Java
+2247,138,Java,Java
+2248,170,Java,Java
+2249,173,Java,Java
+2250,174,Java,Java
+2251,188,JAVA,Java
+2252,189,Java,Java
+2253,193,Java,Java
+2254,196,Java,Java
+2255,198,Java,Java
+2256,206,Java,Java
+2257,221,Java,Java
+2258,223,Java,Java
+2259,224,Java,Java
+2260,236,Java,Java
+2261,238,Java,Java
+2262,240,Java,Java
+2263,243,Java,Java
+2264,247,Java,Java
+2265,271,Java,Java
+2266,273,Java,Java
+2267,276,Java,Java
+2268,290,Java,Java
+2269,296,Java,Java
+2270,301,Java,Java
+2271,302,Java,Java
+2272,303,Java,Java
+2273,321,Java,Java
+2274,325,Java,Java
+2275,327,Java,Java
+2276,328,Java,Java
+2277,349,Java,Java
+2278,363,Java,Java
+2279,368,Java,Java
+2280,376,Java,Java
+2281,378,Java,Java
+2282,390,Java,Java
+2283,391,Java,Java
+2284,404,Java,Java
+2285,407,Java,Java
+2286,417,Java,Java
+2287,425,Java,Java
+2288,428,Java,Java
+2289,440,Java,Java
+2290,441,Java,Java
+2291,445,Java,Java
+2292,446,Java,Java
+2293,453,Java,Java
+2294,458,Java,Java
+2295,467,Java,Java
+2296,470,Java,Java
+2297,476,Java,Java
+2298,480,Java,Java
+2299,481,Java,Java
+2300,481,Java,Java
+2301,487,Java,Java
+2302,564,scala,Scala
+2303,578,scala,Scala
+2304,606,scala,Scala
+2305,607,scala,Scala
+2306,628,scala,Scala
+2307,631,scala,Scala
+2308,632,scala,Scala
+2309,681,scala,Scala
+2310,706,scala,Scala
+2311,709,scala,Scala
+2312,712,scala,Scala
+2313,732,scala,Scala
+2314,734,scala,Scala
+2315,743,scala,Scala
+2316,745,scala,Scala
+2317,769,scala,Scala
+2318,780,scala,Scala
+2319,790,scala,Scala
+2320,791,scala,Scala
+2321,792,scala,Scala
+2322,804,scala,Scala
+2323,807,scala,Scala
+2324,817,scala,Scala
+2325,2,Scala,Scala
+2326,10,Scala,Scala
+2327,11,Scala,Scala
+2328,23,Scala,Scala
+2329,29,Scala,Scala
+2330,46,Scala,Scala
+2331,56,Scala,Scala
+2332,126,Scala,Scala
+2333,147,Scala,Scala
+2334,161,Scala,Scala
+2335,224,Scala,Scala
+2336,236,Scala,Scala
+2337,238,Scala,Scala
+2338,246,Scala,Scala
+2339,263,Scala,Scala
+2340,267,Scala,Scala
+2341,270,Scala,Scala
+2342,271,Scala,Scala
+2343,273,Scala,Scala
+2344,296,Scala,Scala
+2345,297,Scala,Scala
+2346,301,Scala,Scala
+2347,302,Scala,Scala
+2348,303,Scala,Scala
+2349,330,Scala,Scala
+2350,331,Scala,Scala
+2351,376,Scala,Scala
+2352,384,Scala,Scala
+2353,386,Scala,Scala
+2354,391,Scala,Scala
+2355,441,Scala,Scala
+2356,453,Scala,Scala
+2357,464,Scala,Scala
+2358,465,Scala,Scala
+2359,483,Scala,Scala
+2360,485,Scala,Scala
+2361,564,apache,Apache Frameworks
+2362,597,apache-spark,Apache Frameworks
+2363,597,apache-storm,Apache Frameworks
+2364,610,apache-kafka,Apache Frameworks
+2365,622,apache-kafka,Apache Frameworks
+2366,632,apache-kafka,Apache Frameworks
+2367,682,apache,Apache Frameworks
+2368,690,apache-spark,Apache Frameworks
+2369,723,apache,Apache Frameworks
+2370,734,apache-kafka,Apache Frameworks
+2371,751,apache,Apache Frameworks
+2372,18,Apache Storm,Apache Frameworks
+2373,25,Apache Cordova,Apache Frameworks
+2374,27,Apache Cordova,Apache Frameworks
+2375,55,Apache Spark,Apache Frameworks
+2376,55,Apache Spark,Apache Frameworks
+2377,56,Apache Spark,Apache Frameworks
+2378,72,Apache Tomcat,Apache Frameworks
+2379,129,Apache Airflow,Apache Frameworks
+2380,133,Nginx or Apache,Apache Frameworks
+2381,210,Apache,Apache Frameworks
+2382,219,apache,Apache Frameworks
+2383,229,Nginx/Apache,Apache Frameworks
+2384,250,Apache/Nginx,Apache Frameworks
+2385,255,Apache/Nginx,Apache Frameworks
+2386,270,Apache Spark,Apache Frameworks
+2387,311,Apache Cordova,Apache Frameworks
+2388,323,Apache Spark,Apache Frameworks
+2389,363,Apache Parquet,Apache Frameworks
+2390,406,Apache,Apache Frameworks
+2391,448,Apache,Apache Frameworks
+2392,459,Apache Tomcat,Apache Frameworks
+2393,462,Apache Tomcat,Apache Frameworks
+2394,565,javascript,JavaScript
+2395,581,javascript,JavaScript
+2396,584,javascript,JavaScript
+2397,589,javascript,JavaScript
+2398,594,javascript,JavaScript
+2399,595,javascript,JavaScript
+2400,601,javascript,JavaScript
+2401,603,javascript,JavaScript
+2402,609,javascript,JavaScript
+2403,611,javascript,JavaScript
+2404,613,javascript,JavaScript
+2405,615,javascript,JavaScript
+2406,617,javascript,JavaScript
+2407,618,javascript,JavaScript
+2408,626,javascript,JavaScript
+2409,627,javascript,JavaScript
+2410,628,javascript,JavaScript
+2411,633,javascript,JavaScript
+2412,634,javascript,JavaScript
+2413,638,javascript,JavaScript
+2414,639,javascript,JavaScript
+2415,641,javascript,JavaScript
+2416,643,javascript,JavaScript
+2417,644,javascript,JavaScript
+2418,645,javascript,JavaScript
+2419,646,javascript,JavaScript
+2420,647,javascript,JavaScript
+2421,650,javascript,JavaScript
+2422,652,javascript,JavaScript
+2423,653,javascript,JavaScript
+2424,654,javascript,JavaScript
+2425,655,javascript,JavaScript
+2426,657,javascript,JavaScript
+2427,661,javascript,JavaScript
+2428,662,javascript,JavaScript
+2429,664,javascript,JavaScript
+2430,668,javascript,JavaScript
+2431,669,javascript,JavaScript
+2432,672,javascript,JavaScript
+2433,674,javascript,JavaScript
+2434,678,javascript,JavaScript
+2435,680,javascript,JavaScript
+2436,683,javascript,JavaScript
+2437,684,javascript,JavaScript
+2438,685,javascript,JavaScript
+2439,687,javascript,JavaScript
+2440,688,javascript,JavaScript
+2441,689,javascript,JavaScript
+2442,692,javascript,JavaScript
+2443,695,javascript,JavaScript
+2444,696,javascript,JavaScript
+2445,699,javascript,JavaScript
+2446,701,javascript,JavaScript
+2447,702,javascript,JavaScript
+2448,708,javascript,JavaScript
+2449,713,javascript,JavaScript
+2450,717,javascript,JavaScript
+2451,718,javascript,JavaScript
+2452,737,javascript,JavaScript
+2453,746,javascript,JavaScript
+2454,752,javascript,JavaScript
+2455,754,javascript,JavaScript
+2456,761,javascript,JavaScript
+2457,766,javascript,JavaScript
+2458,779,javascript,JavaScript
+2459,804,javascript,JavaScript
+2460,807,javascript,JavaScript
+2461,808,javascript,JavaScript
+2462,814,javascript,JavaScript
+2463,818,javascript,JavaScript
+2464,824,javascript,JavaScript
+2465,3,JavaScript,JavaScript
+2466,4,Javascript,JavaScript
+2467,6,JavaScript,JavaScript
+2468,12,Javascript,JavaScript
+2469,17,Javascript,JavaScript
+2470,24,JavaScript,JavaScript
+2471,26,JavaScript,JavaScript
+2472,27,Javascript,JavaScript
+2473,31,JavaScript,JavaScript
+2474,32,JavaScript,JavaScript
+2475,33,Javascript,JavaScript
+2476,38,JavaScript,JavaScript
+2477,42,JavaScript,JavaScript
+2478,44,JavaScript,JavaScript
+2479,45,JavaScript,JavaScript
+2480,53,Javascript,JavaScript
+2481,59,JavaScript,JavaScript
+2482,61,JavaScript,JavaScript
+2483,63,JavaScript,JavaScript
+2484,67,Javascript,JavaScript
+2485,68,JavaScript,JavaScript
+2486,77,Javascript,JavaScript
+2487,78,JavaScript,JavaScript
+2488,80,Javascript,JavaScript
+2489,83,Javascript,JavaScript
+2490,89,Javascript,JavaScript
+2491,95,JavaScript,JavaScript
+2492,100,Javascript,JavaScript
+2493,108,JavaScript,JavaScript
+2494,117,JavaScript,JavaScript
+2495,123,Javascript,JavaScript
+2496,125,Javascript,JavaScript
+2497,129,Javascript,JavaScript
+2498,131,Javascript,JavaScript
+2499,139,javascript,JavaScript
+2500,153,Javascript ES2015,JavaScript
+2501,155,CSS and JavaScript,JavaScript
+2502,157,JavaScript,JavaScript
+2503,157,JavaScript,JavaScript
+2504,159,Javascript,JavaScript
+2505,160,Javascript,JavaScript
+2506,164,JavaScript,JavaScript
+2507,166,JavaScript,JavaScript
+2508,169,Javascript,JavaScript
+2509,171,Javascript,JavaScript
+2510,176,JavaScript,JavaScript
+2511,177,JavaScript,JavaScript
+2512,179,Javascript,JavaScript
+2513,185,Javascript,JavaScript
+2514,186,JavaScript,JavaScript
+2515,187,Javascript,JavaScript
+2516,188,JavaScript,JavaScript
+2517,189,JavaScript,JavaScript
+2518,190,JavaScript,JavaScript
+2519,191,Javascript,JavaScript
+2520,193,JavaScript,JavaScript
+2521,194,Javascript,JavaScript
+2522,195,Javascript,JavaScript
+2523,207,Javascript,JavaScript
+2524,214,Javascript,JavaScript
+2525,219,Javascript,JavaScript
+2526,220,JavaScript,JavaScript
+2527,222,JavaScript,JavaScript
+2528,226,JavaScript,JavaScript
+2529,229,Javascript,JavaScript
+2530,241,JavaScript,JavaScript
+2531,242,JavaScript,JavaScript
+2532,243,JavaScript,JavaScript
+2533,244,JavaScript,JavaScript
+2534,245,JavaScript,JavaScript
+2535,252,JavaScript,JavaScript
+2536,254,JavaScript (ES2015),JavaScript
+2537,276,Javascript,JavaScript
+2538,277,Javascript,JavaScript
+2539,282,JavaScript,JavaScript
+2540,282,JavaScript,JavaScript
+2541,283,JavaScript,JavaScript
+2542,290,Javascript,JavaScript
+2543,291,Javascript,JavaScript
+2544,293,JavaScript,JavaScript
+2545,294,JavaScript,JavaScript
+2546,294,Javascript,JavaScript
+2547,303,JavaScript,JavaScript
+2548,304,Javascript,JavaScript
+2549,306,JavaScript,JavaScript
+2550,308,Javascript,JavaScript
+2551,311,Javascript,JavaScript
+2552,312,Javascript,JavaScript
+2553,313,JavaScript,JavaScript
+2554,314,JavaScript,JavaScript
+2555,315,JavaScript,JavaScript
+2556,316,JavaScript,JavaScript
+2557,319,JavaScript,JavaScript
+2558,320,JavaScript,JavaScript
+2559,324,JavaScript,JavaScript
+2560,325,Javascript,JavaScript
+2561,327,JavaScript,JavaScript
+2562,332,JavaScript,JavaScript
+2563,333,JavaScript,JavaScript
+2564,334,Javascript,JavaScript
+2565,336,JavaScript,JavaScript
+2566,338,JavaScript,JavaScript
+2567,339,JavaScript,JavaScript
+2568,341,Javascript,JavaScript
+2569,342,JavaScript,JavaScript
+2570,344,JavaScript,JavaScript
+2571,346,JavaScript,JavaScript
+2572,365,JavaScript,JavaScript
+2573,368,JavaScript,JavaScript
+2574,369,JavaScript,JavaScript
+2575,370,JavaScript,JavaScript
+2576,372,Javascript,JavaScript
+2577,378,Javascript,JavaScript
+2578,380,JavaScript,JavaScript
+2579,385,JavaScript,JavaScript
+2580,387,JavaScript,JavaScript
+2581,389,JavaScript,JavaScript
+2582,393,JavaScript,JavaScript
+2583,395,JavaScript,JavaScript
+2584,396,JavaScript,JavaScript
+2585,398,JavaScript,JavaScript
+2586,399,JavaScript,JavaScript
+2587,402,JavaScript,JavaScript
+2588,411,JavaScript,JavaScript
+2589,413,JavaScript,JavaScript
+2590,415,Javascript,JavaScript
+2591,416,JavaScript,JavaScript
+2592,421,JavaScript,JavaScript
+2593,428,JavaScript,JavaScript
+2594,436,JavaScript,JavaScript
+2595,437,JavaScript,JavaScript
+2596,442,JavaScript,JavaScript
+2597,445,JavaScript,JavaScript
+2598,456,JavaScript,JavaScript
+2599,460,JavaScript,JavaScript
+2600,461,JavaScript,JavaScript
+2601,466,JavaScript,JavaScript
+2602,469,JavaScript,JavaScript
+2603,473,JavaScript,JavaScript
+2604,475,JavaScript,JavaScript
+2605,476,JavaScript,JavaScript
+2606,477,JavaScript,JavaScript
+2607,479,JavaScript,JavaScript
+2608,481,JavaScript,JavaScript
+2609,482,ES2015 JavaScript,JavaScript
+2610,489,JavaScript,JavaScript
+2611,565,angularjs,Angular.js
+2612,602,angularjs,Angular.js
+2613,609,angularjs,Angular.js
+2614,639,angularjs,Angular.js
+2615,653,angularjs,Angular.js
+2616,654,angularjs,Angular.js
+2617,668,angularjs,Angular.js
+2618,674,angularjs,Angular.js
+2619,685,angularjs,Angular.js
+2620,687,angularjs,Angular.js
+2621,688,angularjs,Angular.js
+2622,692,angularjs,Angular.js
+2623,696,angularjs,Angular.js
+2624,702,angularjs,Angular.js
+2625,713,angularjs,Angular.js
+2626,717,angularjs,Angular.js
+2627,728,angularjs,Angular.js
+2628,730,angularjs,Angular.js
+2629,737,angularjs,Angular.js
+2630,761,angularjs,Angular.js
+2631,44,AngularJS,Angular.js
+2632,47,AngularJS Angular,Angular.js
+2633,95,AngularJS,Angular.js
+2634,106,AngularJS,Angular.js
+2635,120,AngularJS Angular,Angular.js
+2636,123,AngularJS,Angular.js
+2637,125,AngularJS,Angular.js
+2638,153,AngularJS,Angular.js
+2639,195,AngularJS,Angular.js
+2640,211,AngularJS,Angular.js
+2641,212,AngularJS,Angular.js
+2642,214,AngularJS,Angular.js
+2643,237,AngularJS,Angular.js
+2644,252,AngularJS,Angular.js
+2645,277,AngularJS,Angular.js
+2646,287,AngularJS,Angular.js
+2647,297,AngularJS,Angular.js
+2648,304,AngularJS,Angular.js
+2649,322,AngularJS,Angular.js
+2650,332,AngularJS,Angular.js
+2651,352,AngularJS,Angular.js
+2652,396,AngularJS,Angular.js
+2653,408,AngularJS,Angular.js
+2654,410,AngularJS,Angular.js
+2655,417,AngularJS,Angular.js
+2656,461,AngularJS,Angular.js
+2657,463,AngularJS,Angular.js
+2658,473,AngularJS,Angular.js
+2659,566,mongodb,NoSQL
+2660,572,mongodb,NoSQL
+2661,637,mongodb,NoSQL
+2662,638,mongodb,NoSQL
+2663,681,mongodb,NoSQL
+2664,697,mongodb,NoSQL
+2665,698,mongodb,NoSQL
+2666,738,mongodb,NoSQL
+2667,6,MongoDB,NoSQL
+2668,39,MongoDB,NoSQL
+2669,47,MongoDB,NoSQL
+2670,55,MongoDB,NoSQL
+2671,60,MongoDB,NoSQL
+2672,63,MongoDB,NoSQL
+2673,106,MongoDB,NoSQL
+2674,120,MongoDB,NoSQL
+2675,121,MongoDB,NoSQL
+2676,126,MongoDB,NoSQL
+2677,129,MongoDB,NoSQL
+2678,133,MongoDB,NoSQL
+2679,135,MongoDB,NoSQL
+2680,210,MongoDB,NoSQL
+2681,254,MongoDB,NoSQL
+2682,280,MongoDB,NoSQL
+2683,327,MongoDB,NoSQL
+2684,339,MongoDB,NoSQL
+2685,352,MongoDB,NoSQL
+2686,356,MongoDB,NoSQL
+2687,362,MongoDB,NoSQL
+2688,402,MongoDB,NoSQL
+2689,410,MongoDB,NoSQL
+2690,470,MongoDB,NoSQL
+2691,472,MongoDB,NoSQL
+2692,487,MongoDB,NoSQL
+2693,567,devops,devops
+2694,587,devops,devops
+2695,593,devops,devops
+2696,608,devops,devops
+2697,616,devops,devops
+2698,624,devops,devops
+2699,642,devops,devops
+2700,667,devops,devops
+2701,729,devops,devops
+2702,770,devops,devops
+2703,567,bash,Bash
+2704,751,bash,Bash
+2705,9,BASH,Bash
+2706,86,Bash,Bash
+2707,96,Bash,Bash
+2708,105,bash,Bash
+2709,210,Bash,Bash
+2710,239,Bash,Bash
+2711,250,Bash,Bash
+2712,255,Bash,Bash
+2713,395,bash,Bash
+2714,404,Bash,Bash
+2715,406,bash,Bash
+2716,470,bash,Bash
+2717,568,amazon-redshift,aws
+2718,573,amazon-redshift,aws
+2719,50,Amazon Redshift,aws
+2720,86,Redshift,AWS
+2721,103,Redshift,AWS
+2722,104,Amazon Redshift,aws
+2723,220,Redshift,AWS
+2724,368,Redshift,AWS
+2725,397,Redshift,AWS
+2726,403,Redshift,AWS
+2727,569,sysadmin,sysadmin
+2728,576,sysadmin,sysadmin
+2729,579,sysadmin,sysadmin
+2730,582,sysadmin,sysadmin
+2731,583,sysadmin,sysadmin
+2732,584,sysadmin,sysadmin
+2733,587,sysadmin,sysadmin
+2734,593,sysadmin,sysadmin
+2735,604,sysadmin,sysadmin
+2736,608,sysadmin,sysadmin
+2737,612,sysadmin,sysadmin
+2738,616,sysadmin,sysadmin
+2739,624,sysadmin,sysadmin
+2740,693,sysadmin,sysadmin
+2741,707,sysadmin,sysadmin
+2742,726,sysadmin,sysadmin
+2743,744,sysadmin,sysadmin
+2744,759,sysadmin,sysadmin
+2745,795,sysadmin,sysadmin
+2746,800,sysadmin,sysadmin
+2747,806,sysadmin,sysadmin
+2748,809,sysadmin,sysadmin
+2749,571,rest,RESTful APIs
+2750,584,restful-web-services,RESTful APIs
+2751,600,rest,RESTful APIs
+2752,663,restful-architecture,RESTful APIs
+2753,696,rest,RESTful APIs
+2754,735,rest,RESTful APIs
+2755,792,rest,RESTful APIs
+2756,801,rest,RESTful APIs
+2757,812,rest,RESTful APIs
+2758,822,rest,RESTful APIs
+2759,824,rest,RESTful APIs
+2760,47,Rest,RESTful APIs
+2761,66,REST,RESTful APIs
+2762,70,REST,RESTful APIs
+2763,82,REST/SOAP,RESTful APIs
+2764,88,REST,RESTful APIs
+2765,109,Rest,RESTful APIs
+2766,111,REST,RESTful APIs
+2767,120,Rest,RESTful APIs
+2768,190,REST,RESTful APIs
+2769,195,REST,RESTful APIs
+2770,206,REST,RESTful APIs
+2771,224,RESTful,RESTful APIs
+2772,229,REST,RESTful APIs
+2773,243,REST,RESTful APIs
+2774,264,REST,RESTful APIs
+2775,276,RESTful,RESTful APIs
+2776,280,REST,RESTful APIs
+2777,293,REST,RESTful APIs
+2778,352,Rest,RESTful APIs
+2779,357,REST,RESTful APIs
+2780,431,REST,RESTful APIs
+2781,433,Rest,RESTful APIs
+2782,436,REST,RESTful APIs
+2783,453,REST,RESTful APIs
+2784,454,REST,RESTful APIs
+2785,456,REST,RESTful APIs
+2786,458,RESTFul,RESTful APIs
+2787,463,REST,RESTful APIs
+2788,484,REST,RESTful APIs
+2789,572,http,HTTP
+2790,584,http,HTTP
+2791,613,http,HTTP
+2792,792,http,HTTP
+2793,825,http,HTTP
+2794,66,HTTP,HTTP
+2795,91,HTTP Protocol,HTTP
+2796,92,HTTP Protocol,HTTP
+2797,96,HTTP,HTTP
+2798,262,Akka HTTP,HTTP
+2799,316,HTTP,HTTP
+2800,431,HTTP,HTTP
+2801,436,HTTP,HTTP
+2802,443,Akka HTTP,HTTP
+2803,453,HTTP,HTTP
+2804,484,HTTP,HTTP
+2805,572,nosql,NoSQL
+2806,592,nosql,NoSQL
+2807,605,nosql,NoSQL
+2808,606,nosql,NoSQL
+2809,620,nosql,NoSQL
+2810,690,nosql,NoSQL
+2811,724,nosql,NoSQL
+2812,780,nosql,NoSQL
+2813,791,nosql,NoSQL
+2814,11,NoSQL,NoSQL
+2815,39,nosql,NoSQL
+2816,41,NoSQL,NoSQL
+2817,44,NoSQL,NoSQL
+2818,55,NoSQL,NoSQL
+2819,77,NoSQL,NoSQL
+2820,78,NoSQL,NoSQL
+2821,87,NoSQL,NoSQL
+2822,90,NoSQL,NoSQL
+2823,109,NoSQL,NoSQL
+2824,129,NoSQL,NoSQL
+2825,130,NoSql,NoSQL
+2826,144,NoSQL,NoSQL
+2827,178,NoSQL,NoSQL
+2828,204,NoSQL,NoSQL
+2829,211,NoSql,NoSQL
+2830,212,NoSql,NoSQL
+2831,229,NoSQL,NoSQL
+2832,258,NoSQL,NoSQL
+2833,262,NoSQL,NoSQL
+2834,264,NoSQL,NoSQL
+2835,280,NOSQL,NoSQL
+2836,288,NOSQL,NoSQL
+2837,297,NoSQL,NoSQL
+2838,322,NoSQL,NoSQL
+2839,346,NoSQL,NoSQL
+2840,347,NoSQL,NoSQL
+2841,356,NoSQL,NoSQL
+2842,358,NoSQL,NoSQL
+2843,366,NoSQL,NoSQL
+2844,372,NoSQL,NoSQL
+2845,386,NoSQL,NoSQL
+2846,457,NoSQL,NoSQL
+2847,470,NoSQL,NoSQL
+2848,483,NoSQL,NoSQL
+2849,573,ruby-on-rails,Ruby
+2850,577,ruby-on-rails,Ruby
+2851,600,ruby-on-rails,Ruby
+2852,614,ruby-on-rails,Ruby
+2853,664,ruby-on-rails-4,Ruby
+2854,668,ruby-on-rails,Ruby
+2855,671,ruby-on-rails,Ruby
+2856,679,ruby-on-rails,Ruby
+2857,692,ruby-on-rails,Ruby
+2858,711,ruby-on-rails,Ruby
+2859,721,ruby-on-rails,Ruby
+2860,741,ruby-on-rails,Ruby
+2861,752,ruby-on-rails,Ruby
+2862,754,ruby-on-rails,Ruby
+2863,769,ruby-on-rails,Ruby
+2864,781,ruby-on-rails,Ruby
+2865,786,ruby-on-rails,Ruby
+2866,796,ruby-on-rails,Ruby
+2867,801,ruby-on-rails,Ruby
+2868,820,ruby-on-rails,Ruby
+2869,13,Ruby on Rails,Ruby
+2870,14,Ruby on Rails,Ruby
+2871,30,Ruby on Rails,Ruby
+2872,39,Ruby on Rails,Ruby
+2873,41,Ruby on Rails,Ruby
+2874,44,Ruby on Rails,Ruby
+2875,62,Ruby-on-Rails,Ruby
+2876,102,Ruby on Rails,Ruby
+2877,112,Ruby on Rails,Ruby
+2878,124,Ruby on Rails,Ruby
+2879,150,Ruby on Rails,Ruby
+2880,155,Ruby on Rails,Ruby
+2881,164,Ruby on Rails,Ruby
+2882,169,Ruby on Rails,Ruby
+2883,179,Ruby on Rails,Ruby
+2884,226,Ruby on Rails,Ruby
+2885,227,Ruby on Rails,Ruby
+2886,273,Ruby on Rails,Ruby
+2887,291,Ruby on Rails,Ruby
+2888,329,Ruby on Rails,Ruby
+2889,350,Ruby on Rails,Ruby
+2890,375,Ruby on Rails,Ruby
+2891,387,Ruby on Rails,Ruby
+2892,397,Ruby on Rails,Ruby
+2893,399,Ruby on Rails,Ruby
+2894,412,Ruby on Rails,Ruby
+2895,424,Ruby on Rails,Ruby
+2896,436,Ruby on Rails,Ruby
+2897,480,Ruby on Rails,Ruby
+2898,481,Ruby on Rails,Ruby
+2899,574,hadoop,Apache Frameworks
+2900,597,hadoop,Apache Frameworks
+2901,632,hadoop,Apache Frameworks
+2902,690,hadoop,Apache Frameworks
+2903,743,hadoop,Apache Frameworks
+2904,769,hadoop,Apache Frameworks
+2905,778,hadoop,Apache Frameworks
+2906,780,hadoop,Apache Frameworks
+2907,11,Hadoop,Apache Frameworks
+2908,20,Hadoop,Apache Frameworks
+2909,55,Hadoop,Apache Frameworks
+2910,107,Hadoop,Apache Frameworks
+2911,108,Hadoop,Apache Frameworks
+2912,109,Hadoop,Apache Frameworks
+2913,129,Hadoop,Apache Frameworks
+2914,130,Hadoop,Apache Frameworks
+2915,138,Hadoop,Apache Frameworks
+2916,145,Hadoop,Apache Frameworks
+2917,263,Hadoop,Apache Frameworks
+2918,271,Hadoop,Apache Frameworks
+2919,301,Hadoop,Apache Frameworks
+2920,323,Hadoop,Apache Frameworks
+2921,330,Hadoop,Apache Frameworks
+2922,358,Hadoop,Apache Frameworks
+2923,363,Hadoop,Apache Frameworks
+2924,368,Hadoop,Apache Frameworks
+2925,397,hadoop,Apache Frameworks
+2926,414,Hadoop,Apache Frameworks
+2927,574,hive,Apache Frameworks
+2928,597,hive,Apache Frameworks
+2929,10,Hive,Apache Frameworks
+2930,99,Hive,Apache Frameworks
+2931,109,Hive,Apache Frameworks
+2932,138,Hive,Apache Frameworks
+2933,145,Hive,Apache Frameworks
+2934,265,Hive,Apache Frameworks
+2935,271,Hive,Apache Frameworks
+2936,301,Hive,Apache Frameworks
+2937,331,Hive,Apache Frameworks
+2938,414,Hive,Apache Frameworks
+2939,576,cloud,Cloud
+2940,593,cloud,Cloud
+2941,598,cloud,Cloud
+2942,616,cloud,Cloud
+2943,704,cloud,Cloud
+2944,753,cloud,Cloud
+2945,759,cloud,Cloud
+2946,763,cloud,Cloud
+2947,765,cloud,Cloud
+2948,770,cloud,Cloud
+2949,84,Hybrid Cloud Technologies,Cloud
+2950,93,Cloud Technology,Cloud
+2951,94,Hybrid Cloud,Cloud
+2952,94,Private Cloud,Cloud
+2953,142,Adobe Creative Cloud,Cloud
+2954,353,Cloud Foundry,Cloud
+2955,353,Solr Cloud,Cloud
+2956,391,Cloud Foundry,Cloud
+2957,391,Solr Cloud,Cloud
+2958,576,jenkins,Continuous integration
+2959,733,jenkins,Continuous integration
+2960,759,jenkins,Continuous integration
+2961,763,jenkins,Continuous integration
+2962,776,jenkins,Continuous integration
+2963,53,Jenkins,Continuous integration
+2964,56,Jenkins,Continuous integration
+2965,108,Jenkins,Continuous integration
+2966,109,Jenkins,Continuous integration
+2967,114,Jenkins,Continuous integration
+2968,122,Jenkins,Continuous integration
+2969,127,Jenkins,Continuous integration
+2970,133,Jenkins,Continuous integration
+2971,135,Jenkins,Continuous integration
+2972,157,Jenkins,Continuous integration
+2973,165,Jenkins,Continuous integration
+2974,173,Jenkins,Continuous integration
+2975,176,Jenkins,Continuous integration
+2976,190,Jenkins,Continuous integration
+2977,191,Jenkins,Continuous integration
+2978,207,Jenkins,Continuous integration
+2979,210,Jenkins,Continuous integration
+2980,212,Jenkins,Continuous integration
+2981,214,Jenkins,Continuous integration
+2982,217,Jenkins,Continuous integration
+2983,219,Jenkins,Continuous integration
+2984,229,Jenkins,Continuous integration
+2985,231,Jenkins,Continuous integration
+2986,233,Jenkins,Continuous integration
+2987,258,Jenkins,Continuous integration
+2988,279,Jenkins,Continuous integration
+2989,280,Jenkins,Continuous integration
+2990,285,Jenkins,Continuous integration
+2991,314,Jenkins,Continuous integration
+2992,325,Jenkins,Continuous integration
+2993,327,Jenkins,Continuous integration
+2994,349,Jenkins,Continuous integration
+2995,396,Jenkins,Continuous integration
+2996,429,Jenkins,Continuous integration
+2997,443,Jenkins,Continuous integration
+2998,444,Jenkins,Continuous integration
+2999,447,Jenkins,Continuous integration
+3000,465,Jenkins,Continuous integration
+3001,470,Jenkins,Continuous integration
+3002,578,go,Go
+3003,582,go,Go
+3004,586,go,Go
+3005,592,go,Go
+3006,608,go,Go
+3007,627,go,Go
+3008,679,go,Go
+3009,719,go,Go
+3010,727,go,Go
+3011,769,go,Go
+3012,781,go,Go
+3013,12,Go,Go
+3014,23,Go,Go
+3015,29,Go,Go
+3016,63,Go,Go
+3017,100,Go,Go
+3018,102,Go,Go
+3019,147,Go,Go
+3020,178,Go,Go
+3021,198,Go,Go
+3022,199,Go,Go
+3023,200,Go,Go
+3024,224,Go,Go
+3025,231,Go,Go
+3026,236,Go,Go
+3027,238,Go,Go
+3028,245,Go,Go
+3029,258,Go,Go
+3030,323,Go,Go
+3031,331,Go,Go
+3032,375,Go,Go
+3033,453,Go,Go
+3034,481,Go,Go
+3035,579,css,CSS
+3036,581,css,CSS
+3037,589,css,CSS
+3038,602,css,CSS
+3039,611,css,CSS
+3040,615,css,CSS
+3041,617,css,CSS
+3042,628,css,CSS
+3043,634,css,CSS
+3044,635,css,CSS
+3045,644,css,CSS
+3046,650,css,CSS
+3047,654,css,CSS
+3048,666,css,CSS
+3049,672,css,CSS
+3050,674,css,CSS
+3051,680,css,CSS
+3052,683,css,CSS
+3053,685,css,CSS
+3054,687,css,CSS
+3055,689,css,CSS
+3056,693,css,CSS
+3057,695,css,CSS
+3058,699,css,CSS
+3059,825,css,CSS
+3060,3,CSS,CSS
+3061,4,CSS,CSS
+3062,24,CSS,CSS
+3063,26,CSS,CSS
+3064,31,CSS,CSS
+3065,33,CSS,CSS
+3066,44,Post.css,CSS
+3067,45,CSS,CSS
+3068,70,CSS,CSS
+3069,88,CSS,CSS
+3070,89,CSS,CSS
+3071,100,CSS,CSS
+3072,123,CSS,CSS
+3073,131,modular CSS (SCSS,CSS
+3074,142,CSS,CSS
+3075,159,CSS,CSS
+3076,160,(S)CSS,CSS
+3077,164,CSS,CSS
+3078,166,CSS,CSS
+3079,169,(S)CSS,CSS
+3080,171,CSS,CSS
+3081,172,CSS,CSS
+3082,177,CSS,CSS
+3083,179,CSS,CSS
+3084,187,CSS,CSS
+3085,193,CSS,CSS
+3086,194,CSS,CSS
+3087,195,CSS,CSS
+3088,216,CSS,CSS
+3089,241,CSS,CSS
+3090,252,CSS,CSS
+3091,277,CSS,CSS
+3092,282,CSS,CSS
+3093,283,CSS,CSS
+3094,291,(S)CSS,CSS
+3095,304,CSS,CSS
+3096,315,CSS,CSS
+3097,319,CSS,CSS
+3098,322,CSS,CSS
+3099,324,CSS,CSS
+3100,324,CSS,CSS
+3101,325,CSS,CSS
+3102,332,CSS/SCSS,CSS
+3103,336,CSS,CSS
+3104,341,CSS,CSS
+3105,342,CSS,CSS
+3106,346,CSS,CSS
+3107,348,CSS,CSS
+3108,365,CSS,CSS
+3109,370,CSS,CSS
+3110,393,CSS,CSS
+3111,395,CSS,CSS
+3112,396,CSS,CSS
+3113,398,CSS,CSS
+3114,411,CSS,CSS
+3115,461,CSS,CSS
+3116,466,CSS,CSS
+3117,475,CSS,CSS
+3118,476,CSS,CSS
+3119,477,CSS,CSS
+3120,480,SASS/CSS,CSS
+3121,481,SASS/CSS,CSS
+3122,580,php,PHP
+3123,592,php,PHP
+3124,599,php,PHP
+3125,615,php,PHP
+3126,617,php,PHP
+3127,620,php,PHP
+3128,626,php,PHP
+3129,627,php,PHP
+3130,633,php,PHP
+3131,637,php,PHP
+3132,638,php,PHP
+3133,640,php,PHP
+3134,652,php,PHP
+3135,658,php,PHP
+3136,660,php,PHP
+3137,663,php,PHP
+3138,663,composer-php,PHP
+3139,665,php,PHP
+3140,670,php,PHP
+3141,686,php,PHP
+3142,700,php,PHP
+3143,710,php,PHP
+3144,727,php,PHP
+3145,757,php,PHP
+3146,763,php,PHP
+3147,3,PHP,PHP
+3148,31,PHP,PHP
+3149,47,PHP,PHP
+3150,83,PHP,PHP
+3151,86,php-fpm,PHP
+3152,86,PHP,PHP
+3153,94,PHP,PHP
+3154,100,PHP,PHP
+3155,106,PHP,PHP
+3156,120,PHP,PHP
+3157,121,PHP,PHP
+3158,144,PHP,PHP
+3159,166,PHP,PHP
+3160,173,PHP,PHP
+3161,177,PHP,PHP
+3162,187,PHP,PHP
+3163,190,OOP PHP,PHP
+3164,204,PHP,PHP
+3165,219,PHP,PHP
+3166,242,PHP,PHP
+3167,245,PHP,PHP
+3168,250,PHP,PHP
+3169,252,Behat (PHP),PHP
+3170,255,PHP,PHP
+3171,258,PHP,PHP
+3172,259,PHP,PHP
+3173,290,PHP,PHP
+3174,306,PHP,PHP
+3175,317,PHP,PHP
+3176,321,PHP,PHP
+3177,322,PHP,PHP
+3178,323,PHP,PHP
+3179,332,PHP,PHP
+3180,333,PHP,PHP
+3181,336,PHP,PHP
+3182,338,PHP,PHP
+3183,352,PHP,PHP
+3184,354,PHP,PHP
+3185,365,PHP,PHP
+3186,370,PHP,PHP
+3187,380,PHP,PHP
+3188,385,PHP,PHP
+3189,393,PHP,PHP
+3190,394,PHP,PHP
+3191,395,PHP,PHP
+3192,396,PHP,PHP
+3193,413,PHP,PHP
+3194,415,PHP Codeception,PHP
+3195,416,PHP,PHP
+3196,421,PHP,PHP
+3197,473,PHP,PHP
+3198,473,Phalcon PHP,PHP
+3199,481,PHP,PHP
+3200,487,PHP,PHP
+3201,581,html,HTML
+3202,611,html,HTML
+3203,615,html,HTML
+3204,617,html,HTML
+3205,628,html,HTML
+3206,635,html,HTML
+3207,644,html,HTML
+3208,654,html,HTML
+3209,674,html,HTML
+3210,680,html,HTML
+3211,683,html,HTML
+3212,694,html,HTML
+3213,711,html,HTML
+3214,3,HTML,HTML
+3215,4,HTML,HTML
+3216,15,HTML 5,HTML
+3217,24,HTML,HTML
+3218,26,HTML,HTML
+3219,31,HTML,HTML
+3220,45,HTML,HTML
+3221,67,HTML,HTML
+3222,89,HTML,HTML
+3223,123,HTML,HTML
+3224,131,HTML,HTML
+3225,155,HTML,HTML
+3226,159,HTML,HTML
+3227,160,HTML,HTML
+3228,164,HTML,HTML
+3229,166,HTML,HTML
+3230,169,HTML,HTML
+3231,171,HTML,HTML
+3232,172,HTML,HTML
+3233,177,HTML,HTML
+3234,179,HTML,HTML
+3235,216,HTML,HTML
+3236,241,HTML,HTML
+3237,252,HTML,HTML
+3238,276,HTML,HTML
+3239,282,HTML,HTML
+3240,283,HTML,HTML
+3241,291,HTML,HTML
+3242,304,HTML,HTML
+3243,315,HTML,HTML
+3244,316,HTML,HTML
+3245,319,HTML,HTML
+3246,322,HTML 5,HTML
+3247,324,HTML,HTML
+3248,325,HTML,HTML
+3249,332,HTML,HTML
+3250,336,HTML,HTML
+3251,341,HTML,HTML
+3252,365,HTML,HTML
+3253,370,HTML,HTML
+3254,392,HTML,HTML
+3255,393,HTML,HTML
+3256,395,HTML,HTML
+3257,398,HTML,HTML
+3258,411,HTML,HTML
+3259,442,HTML,HTML
+3260,461,HTML,HTML
+3261,475,HTML,HTML
+3262,476,HTML,HTML
+3263,477,HTML,HTML
+3264,582,cassandra,Apache Frameworks
+3265,587,cassandra,Apache Frameworks
+3266,632,cassandra,Apache Frameworks
+3267,681,cassandra,Apache Frameworks
+3268,743,cassandra,Apache Frameworks
+3269,23,Cassandra,Apache Frameworks
+3270,41,Cassandra,Apache Frameworks
+3271,56,Cassandra,Apache Frameworks
+3272,126,Cassandra,Apache Frameworks
+3273,262,Cassandra,Apache Frameworks
+3274,264,Cassandra,Apache Frameworks
+3275,356,Cassandra,Apache Frameworks
+3276,443,Cassandra,Apache Frameworks
+3277,444,Cassandra,Apache Frameworks
+3278,453,Cassandra,Apache Frameworks
+3279,585,machine-learning,Machine Learning
+3280,591,machine-learning,Machine Learning
+3281,596,machine-learning,Machine Learning
+3282,750,machine-learning,Machine Learning
+3283,812,machine-learning,Machine Learning
+3284,2,Machine Learning,Machine Learning
+3285,5,Machine Learning,Machine Learning
+3286,11,Machine Learning,Machine Learning
+3287,49,Machine Learning,Machine Learning
+3288,55,Machine Learning,Machine Learning
+3289,101,Machine learning,Machine Learning
+3290,251,Machine Learning,Machine Learning
+3291,267,Machine Learning,Machine Learning
+3292,270,Machine Learning,Machine Learning
+3293,285,Machine Learning,Machine Learning
+3294,298,Machine Learning,Machine Learning
+3295,340,Machine Learning,Machine Learning
+3296,388,Machine Learning,Machine Learning
+3297,588,azure,Azure
+3298,6,Azure,Azure
+3299,42,Azure,Azure
+3300,47,Azure,Azure
+3301,108,Azure,Azure
+3302,120,Azure,Azure
+3303,236,Azure,Azure
+3304,238,Azure,Azure
+3305,250,Azure/GCP,Azure
+3306,255,Azure,Azure
+3307,285,Azure,Azure
+3308,287,azure,Azure
+3309,352,Azure,Azure
+3310,429,Azure,Azure
+3311,487,Azure,Azure
+3312,589,less,Sass/LESS
+3313,666,less,Sass/LESS
+3314,123,LESS,Sass/LESS
+3315,154,LESS,Sass/LESS
+3316,282,Less,Sass/LESS
+3317,287,Less,Sass/LESS
+3318,322,LESS,Sass/LESS
+3319,383,LESS,Sass/LESS
+3320,395,LESS,Sass/LESS
+3321,447,LeSS,Sass/LESS
+3322,460,LESS,Sass/LESS
+3323,466,LESS,Sass/LESS
+3324,482,LESS/PostCSS,Sass/LESS
+3325,589,sass,Sass/LESS
+3326,641,sass,Sass/LESS
+3327,666,sass,Sass/LESS
+3328,730,sass,Sass/LESS
+3329,33,Sass,Sass/LESS
+3330,123,Sass,Sass/LESS
+3331,124,Sass,Sass/LESS
+3332,151,SASS Design,Sass/LESS
+3333,154,SASS,Sass/LESS
+3334,159,Sass,Sass/LESS
+3335,164,Sass,Sass/LESS
+3336,190,SASS,Sass/LESS
+3337,282,Sass and Bootstrap,Sass/LESS
+3338,297,SASS,Sass/LESS
+3339,322,SASS,Sass/LESS
+3340,412,Sass,Sass/LESS
+3341,416,SASS,Sass/LESS
+3342,466,SASS,Sass/LESS
+3343,477,Sass,Sass/LESS
+3344,482,SASS,Sass/LESS
+3345,485,SASS,Sass/LESS
+3346,591,agile,Agile
+3347,607,agile,Agile
+3348,659,agile,Agile
+3349,671,agile,Agile
+3350,721,agile,Agile
+3351,733,agile,Agile
+3352,770,agile,Agile
+3353,790,agile,Agile
+3354,804,agile,Agile
+3355,16,agile,Agile
+3356,37,Agile,Agile
+3357,39,agile,Agile
+3358,41,Agile,Agile
+3359,51,agile,Agile
+3360,69,agile,Agile
+3361,72,agile,Agile
+3362,295,Agile,Agile
+3363,335,Agile,Agile
+3364,345,Agile,Agile
+3365,371,Agile,Agile
+3366,401,Agile,Agile
+3367,415,Agile,Agile
+3368,425,Agile,Agile
+3369,596,redis,Redis
+3370,670,redis,Redis
+3371,820,redis,Redis
+3372,6,Redis,Redis
+3373,39,Redis,Redis
+3374,40,Redis,Redis
+3375,41,Redis,Redis
+3376,53,Redis,Redis
+3377,55,Redis,Redis
+3378,60,Redis,Redis
+3379,84,Redis,Redis
+3380,86,redis,Redis
+3381,106,Redis,Redis
+3382,124,Redis,Redis
+3383,144,Redis,Redis
+3384,147,Redis,Redis
+3385,150,Redis,Redis
+3386,155,Redis,Redis
+3387,176,Redis,Redis
+3388,204,Redis,Redis
+3389,219,redis,Redis
+3390,227,Redis,Redis
+3391,229,Redis,Redis
+3392,233,Redis,Redis
+3393,258,Redis,Redis
+3394,387,Redis,Redis
+3395,402,Redis,Redis
+3396,412,Redis,Redis
+3397,413,Redis,Redis
+3398,416,Redis,Redis
+3399,453,Redis,Redis
+3400,480,Redis,Redis
+3401,599,html5,HTML
+3402,602,html5,HTML
+3403,609,html5,HTML
+3404,611,html5,HTML
+3405,643,html5,HTML
+3406,645,html5,HTML
+3407,652,html5,HTML
+3408,653,html5,HTML
+3409,669,html5,HTML
+3410,684,html5,HTML
+3411,685,html5,HTML
+3412,686,html5,HTML
+3413,688,html5,HTML
+3414,689,html5,HTML
+3415,718,html5,HTML
+3416,730,html5,HTML
+3417,766,html5,HTML
+3418,779,html5,HTML
+3419,818,html5,HTML
+3420,17,HTML5,HTML
+3421,38,HTML5,HTML
+3422,39,HTML5,HTML
+3423,44,HTML5,HTML
+3424,59,HTML5,HTML
+3425,70,HTML5,HTML
+3426,88,HTML5,HTML
+3427,95,HTML5,HTML
+3428,106,HTML5,HTML
+3429,134,HTML5,HTML
+3430,173,HTML5,HTML
+3431,187,HTML5,HTML
+3432,190,HTML5,HTML
+3433,191,HTML5,HTML
+3434,194,HTML5,HTML
+3435,195,HTML5,HTML
+3436,214,HTML5,HTML
+3437,215,HTML5,HTML
+3438,222,HTML5,HTML
+3439,225,HTML5,HTML
+3440,243,HTML5,HTML
+3441,280,HTML5,HTML
+3442,294,HTML5,HTML
+3443,303,HTML5,HTML
+3444,332,HTML5,HTML
+3445,333,HTML5,HTML
+3446,334,HTML5,HTML
+3447,338,HTML5,HTML
+3448,342,HTML5,HTML
+3449,346,HTML5,HTML
+3450,348,HTML5,HTML
+3451,379,HTML5,HTML
+3452,383,HTML5,HTML
+3453,385,HTML5,HTML
+3454,394,HTML5,HTML
+3455,396,HTML5,HTML
+3456,408,HTML5,HTML
+3457,416,HTML5,HTML
+3458,421,HTML5,HTML
+3459,456,HTML5,HTML
+3460,463,HTML5,HTML
+3461,473,HTML5,HTML
+3462,479,HTML5,HTML
+3463,482,HTML5,HTML
+3464,600,api,api(s)
+3465,605,api,api(s)
+3466,659,api,api(s)
+3467,783,apis,api(s)
+3468,1,backend API’s,api(s)
+3469,91,Ready API,api(s)
+3470,128,Unity Multiplayer API (UNET),api(s)
+3471,163,Metal API,api(s)
+3472,229,API,api(s)
+3473,326,Cocoa APIs,api(s)
+3474,601,node.js,Node.js
+3475,631,node.js,Node.js
+3476,647,node.js,Node.js
+3477,653,node.js,Node.js
+3478,657,node.js,Node.js
+3479,661,node.js,Node.js
+3480,662,node.js,Node.js
+3481,664,node.js,Node.js
+3482,671,node.js,Node.js
+3483,679,node.js,Node.js
+3484,692,node.js,Node.js
+3485,696,node.js,Node.js
+3486,698,node.js,Node.js
+3487,708,node.js,Node.js
+3488,709,node.js,Node.js
+3489,713,node.js,Node.js
+3490,737,node.js,Node.js
+3491,738,node.js,Node.js
+3492,807,node.js,Node.js
+3493,31,node.js,Node.js
+3494,45,Node.js,Node.js
+3495,61,Node.js,Node.js
+3496,68,Node.js,Node.js
+3497,78,Node.js,Node.js
+3498,86,node.js,Node.js
+3499,89,Node.js,Node.js
+3500,90,Node.js,Node.js
+3501,102,node.js,Node.js
+3502,148,Node.js,Node.js
+3503,177,node.js,Node.js
+3504,207,Node.js,Node.js
+3505,210,Node.js,Node.js
+3506,214,Node.js,Node.js
+3507,215,Node.js,Node.js
+3508,220,Node.js,Node.js
+3509,226,Node.js,Node.js
+3510,313,Node.js CLI,Node.js
+3511,321,Node.js,Node.js
+3512,338,Node.js,Node.js
+3513,362,node.js,Node.js
+3514,378,Node.js,Node.js
+3515,385,Node.js,Node.js
+3516,394,Node.js,Node.js
+3517,407,Node.js,Node.js
+3518,409,Node.js,Node.js
+3519,410,Node.js,Node.js
+3520,421,Node.js,Node.js
+3521,442,Node.js,Node.js
+3522,445,Node.js,Node.js
+3523,480,Node.js,Node.js
+3524,482,Node.js,Node.js
+3525,602,vue.js,JavaScript Tools
+3526,159,vue.js,JavaScript Tools
+3527,164,Vue.js,JavaScript Tools
+3528,241,Vue.js,JavaScript Tools
+3529,277,Vue.js,JavaScript Tools
+3530,304,Vue.js,JavaScript Tools
+3531,336,Vue.js,JavaScript Tools
+3532,338,Vue.js,JavaScript Tools
+3533,392,Vue.js,JavaScript Tools
+3534,394,Vue.js,JavaScript Tools
+3535,603,google-analytics,Google Packages
+3536,762,google-container-engine,Google Packages
+3537,35,Google Analytics,Google Packages
+3538,67,Google Analytics,Google Packages
+3539,67,Google Tag Manager,Google Packages
+3540,67,Google Apps script,Google Packages
+3541,262,Google Protobuf,Google Packages
+3542,265,Google Analytics,Google Packages
+3543,270,Google AdWords,Google Packages
+3544,330,Google Adwords,Google Packages
+3545,331,Google AdWords,Google Packages
+3546,373,Google Sheets,Google Packages
+3547,429,Google Compute Engine,Google Packages
+3548,449,Google GSuite,Google Packages
+3549,609,css3,CSS
+3550,645,css3,CSS
+3551,669,css3,CSS
+3552,684,css3,CSS
+3553,730,css3,CSS
+3554,766,css3,CSS
+3555,818,css3,CSS
+3556,17,CSS3,CSS
+3557,38,CSS3,CSS
+3558,39,CSS3,CSS
+3559,44,CSS3,CSS
+3560,59,CSS3,CSS
+3561,95,CSS3,CSS
+3562,154,CSS3,CSS
+3563,173,CSS3,CSS
+3564,190,CSS3,CSS
+3565,191,CSS3,CSS
+3566,215,CSS3,CSS
+3567,222,CSS3,CSS
+3568,225,CSS3,CSS
+3569,243,CSS3,CSS
+3570,280,CSS3,CSS
+3571,294,CSS3,CSS
+3572,303,CSS3,CSS
+3573,333,CSS3,CSS
+3574,334,CSS3,CSS
+3575,338,CSS3,CSS
+3576,379,CSS3,CSS
+3577,383,CSS3,CSS
+3578,385,CSS3,CSS
+3579,394,CSS3,CSS
+3580,408,CSS3,CSS
+3581,416,CSS3,CSS
+3582,421,CSS3,CSS
+3583,442,CSS3,CSS
+3584,456,CSS3,CSS
+3585,463,CSS3,CSS
+3586,479,CSS3,CSS
+3587,482,CSS3,CSS
+3588,610,kubernetes,Containerization Platforms
+3589,649,kubernetes,Containerization Platforms
+3590,762,kubernetes,Containerization Platforms
+3591,817,kubernetes,Containerization Platforms
+3592,9,Kubernetes,Containerization Platforms
+3593,23,Kubernetes,Containerization Platforms
+3594,42,Kubernetes,Containerization Platforms
+3595,109,Kubernetes,Containerization Platforms
+3596,178,Kubernetes,Containerization Platforms
+3597,181,Kubernetes,Containerization Platforms
+3598,221,Kubernetes,Containerization Platforms
+3599,231,Kubernetes,Containerization Platforms
+3600,236,Kubernetes,Containerization Platforms
+3601,238,Kubernetes,Containerization Platforms
+3602,239,Kubernetes,Containerization Platforms
+3603,253,Kubernetes,Containerization Platforms
+3604,261,Kubernetes,Containerization Platforms
+3605,279,Kubernetes,Containerization Platforms
+3606,280,Kubernetes,Containerization Platforms
+3607,387,Kubernetes,Containerization Platforms
+3608,390,Kubernetes,Containerization Platforms
+3609,429,Kubernetes,Containerization Platforms
+3610,438,Kubernetes,Containerization Platforms
+3611,478,Kubernetes,Containerization Platforms
+3612,487,Kubernetes,Containerization Platforms
+3613,611,jquery,JQuery
+3614,617,jquery,JQuery
+3615,630,jquery,JQuery
+3616,650,jquery,JQuery
+3617,653,jquery,JQuery
+3618,684,jquery,JQuery
+3619,693,jquery,JQuery
+3620,699,jquery,JQuery
+3621,701,jquery,JQuery
+3622,17,JQuery,JQuery
+3623,59,jQuery,JQuery
+3624,95,jQuery,JQuery
+3625,155,JQuery,JQuery
+3626,159,jquery,JQuery
+3627,166,JQuery,JQuery
+3628,173,JQuery,JQuery
+3629,237,JQuery,JQuery
+3630,252,jQuery,JQuery
+3631,297,jQuery,JQuery
+3632,370,JQuery,JQuery
+3633,385,jQuery,JQuery
+3634,395,jQuery,JQuery
+3635,473,JQuery,JQuery
+3636,475,jQuery,JQuery
+3637,476,jQuery,JQuery
+3638,612,ansible,IT Automation
+3639,667,ansible,IT Automation
+3640,676,ansible,IT Automation
+3641,708,ansible,IT Automation
+3642,744,ansible,IT Automation
+3643,809,ansible,IT Automation
+3644,816,ansible,IT Automation
+3645,9,Ansible,IT Automation
+3646,23,Ansible,IT Automation
+3647,56,Ansible,IT Automation
+3648,86,Ansible,IT Automation
+3649,105,Ansible,IT Automation
+3650,157,Ansible,IT Automation
+3651,210,Ansible,IT Automation
+3652,236,Ansible,IT Automation
+3653,238,Ansible,IT Automation
+3654,239,Ansible,IT Automation
+3655,258,Ansible,IT Automation
+3656,320,Ansible,IT Automation
+3657,353,Ansible,IT Automation
+3658,391,Ansible,IT Automation
+3659,429,Ansible,IT Automation
+3660,436,Ansible,IT Automation
+3661,438,Ansible,IT Automation
+3662,464,Ansible,IT Automation
+3663,470,Ansible,IT Automation
+3664,614,asp.net-mvc,MVC
+3665,635,asp.net-mvc,MVC
+3666,66,MVC,MVC
+3667,188,MVC,MVC
+3668,190,MVC pattern,MVC
+3669,193,MVC frameworks,MVC
+3670,329,MVC,MVC
+3671,348,ASP MVC,MVC
+3672,410,MVC,MVC
+3673,411,MVC,MVC
+3674,431,MVC/MVVM,MVC
+3675,484,MVC/MVVM,MVC
+3676,614,symfony,PHP Frameworks
+3677,638,symfony-2.1,PHP Frameworks
+3678,652,symfony,PHP Frameworks
+3679,686,symfony,PHP Frameworks
+3680,47,Symfony,PHP Frameworks
+3681,94,Symfony,PHP Frameworks
+3682,106,Symfony 2,PHP Frameworks
+3683,120,Symfony,PHP Frameworks
+3684,322,Symfony,PHP Frameworks
+3685,352,Symfony,PHP Frameworks
+3686,385,Symfony,PHP Frameworks
+3687,396,Symfony,PHP Frameworks
+3688,416,Symfony,PHP Frameworks
+3689,457,Symfony 2,PHP Frameworks
+3690,618,webpack,JS Compiler
+3691,641,webpack,JS Compiler
+3692,728,webpack,JS Compiler
+3693,13,Webpack,JS Compiler
+3694,31,Webpack,JS Compiler
+3695,44,Webpack,JS Compiler
+3696,59,Webpack,JS Compiler
+3697,85,Webpack,JS Compiler
+3698,95,Webpack,JS Compiler
+3699,124,Webpack,JS Compiler
+3700,131,webpack,JS Compiler
+3701,142,Webpack,JS Compiler
+3702,151,Webpack,JS Compiler
+3703,170,Webpack,JS Compiler
+3704,177,Webpack,JS Compiler
+3705,187,Webpack,JS Compiler
+3706,190,Webpack,JS Compiler
+3707,191,Webpack,JS Compiler
+3708,214,Webpack,JS Compiler
+3709,216,Webpack,JS Compiler
+3710,225,Webpack,JS Compiler
+3711,304,Webpack,JS Compiler
+3712,379,WebPack,JS Compiler
+3713,383,Webpack,JS Compiler
+3714,392,Webpack,JS Compiler
+3715,408,webpack,JS Compiler
+3716,409,Webpack,JS Compiler
+3717,412,Webpack,JS Compiler
+3718,421,Webpack,JS Compiler
+3719,436,Webpack,JS Compiler
+3720,442,Webpack,JS Compiler
+3721,463,Webpack,JS Compiler
+3722,621,shell,Shell
+3723,249,Shell,Shell
+3724,328,Shell-Scripting,Shell
+3725,395,Shell Script,Shell
+3726,404,Shell,Shell
+3727,406,shell,Shell
+3728,445,Shell,Shell
+3729,455,Shell-scripting,Shell
+3730,464,Shell,Shell
+3731,471,Shell,Shell
+3732,622,symfony2,PHP Frameworks
+3733,633,symfony2,PHP Frameworks
+3734,640,symfony2,PHP Frameworks
+3735,660,symfony2,PHP Frameworks
+3736,757,symfony2,PHP Frameworks
+3737,190,Symfony2/3,PHP Frameworks
+3738,233,Symfony2,PHP Frameworks
+3739,252,Symfony2,PHP Frameworks
+3740,259,Symfony2,PHP Frameworks
+3741,333,symfony2/3,PHP Frameworks
+3742,622,tdd,BDD/TDD
+3743,663,tdd,BDD/TDD
+3744,678,tdd,BDD/TDD
+3745,740,tdd,BDD/TDD
+3746,801,tdd,BDD/TDD
+3747,33,TDD/testing,BDD/TDD
+3748,106,TDD (PHPUnit),BDD/TDD
+3749,126,TDD,BDD/TDD
+3750,179,TDD,BDD/TDD
+3751,187,TDD,BDD/TDD
+3752,211,TDD,BDD/TDD
+3753,212,TDD,BDD/TDD
+3754,229,TDD/BDD,BDD/TDD
+3755,242,TDD,BDD/TDD
+3756,248,TDD,BDD/TDD
+3757,258,TDD,BDD/TDD
+3758,385,TDD,BDD/TDD
+3759,401,TDD,BDD/TDD
+3760,416,TDD,BDD/TDD
+3761,627,design-patterns,design
+3762,660,design-patterns,design
+3763,787,design,design
+3764,789,software-design,design
+3765,805,domain-driven-design,design
+3766,812,domain-driven-design,design
+3767,28,interaction design,design
+3768,151,responsive web design,design
+3769,339,GUI design,design
+3770,361,Design Thinking,design
+3771,628,angular,Angular.js
+3772,650,angular,Angular.js
+3773,680,angular,Angular.js
+3774,684,angular-ui-bootstrap,Angular.js
+3775,755,angular,Angular.js
+3776,791,angular-fullstack,Angular.js
+3777,6,Angular,Angular.js
+3778,30,Angular,Angular.js
+3779,31,Angular,Angular.js
+3780,33,Angular,Angular.js
+3781,41,Angular,Angular.js
+3782,44,Angular 4,Angular.js
+3783,59,Angular,Angular.js
+3784,67,Angular,Angular.js
+3785,77,Angular,Angular.js
+3786,80,Angular,Angular.js
+3787,85,Angular,Angular.js
+3788,114,Angular,Angular.js
+3789,125,Angular,Angular.js
+3790,134,Angular,Angular.js
+3791,144,Angular 1.4 / 2.0,Angular.js
+3792,149,Angular,Angular.js
+3793,151,Angular,Angular.js
+3794,159,Angular,Angular.js
+3795,160,Angular,Angular.js
+3796,177,Angular,Angular.js
+3797,204,Angular 1.4 / 2.0,Angular.js
+3798,216,Angular,Angular.js
+3799,241,Angular,Angular.js
+3800,287,Angular Material,Angular.js
+3801,288,Angular,Angular.js
+3802,289,Angular,Angular.js
+3803,294,Angular,Angular.js
+3804,303,Angular,Angular.js
+3805,319,Angular,Angular.js
+3806,369,Angular,Angular.js
+3807,379,Angular,Angular.js
+3808,385,Angular,Angular.js
+3809,402,Angular,Angular.js
+3810,421,Angular,Angular.js
+3811,436,Angular,Angular.js
+3812,466,Angular,Angular.js
+3813,629,rabbitmq,RabbitMQ
+3814,807,rabbitmq,RabbitMQ
+3815,6,RabbitMQ,RabbitMQ
+3816,18,RabbitMQ,RabbitMQ
+3817,53,RabbitMQ,RabbitMQ
+3818,60,RabbitMQ,RabbitMQ
+3819,229,RabbitMQ,RabbitMQ
+3820,233,RabbitMQ,RabbitMQ
+3821,248,RabbitMQ,RabbitMQ
+3822,258,RabbitMQ,RabbitMQ
+3823,280,RabbitMQ,RabbitMQ
+3824,287,RabbitMQ,RabbitMQ
+3825,386,RabbitMQ,RabbitMQ
+3826,470,RabbitMQ,RabbitMQ
+3827,472,RabbitMQ,RabbitMQ
+3828,630,react-native,React.js
+3829,678,react-native,React.js
+3830,728,react-native,React.js
+3831,771,react-native,React.js
+3832,1,React Native,React.js
+3833,30,React Native,React.js
+3834,153,React Native,React.js
+3835,218,React native,React.js
+3836,308,React Native,React.js
+3837,380,React Native,React.js
+3838,439,React Native,React.js
+3839,442,React native,React.js
+3840,486,React Native,React.js
+3841,630,react-redux,React.js
+3842,655,react,React.js
+3843,701,react-redux,React.js
+3844,13,React,React.js
+3845,25,React,React.js
+3846,27,React,React.js
+3847,33,React,React.js
+3848,41,React,React.js
+3849,47,React,React.js
+3850,53,React,React.js
+3851,59,React,React.js
+3852,63,React,React.js
+3853,67,React,React.js
+3854,77,React,React.js
+3855,85,react,React.js
+3856,95,React,React.js
+3857,114,React,React.js
+3858,120,React,React.js
+3859,123,React,React.js
+3860,124,React,React.js
+3861,124,React-router,React.js
+3862,131,React,React.js
+3863,134,React,React.js
+3864,139,React,React.js
+3865,142,React,React.js
+3866,144,React,React.js
+3867,149,React,React.js
+3868,151,React,React.js
+3869,160,React,React.js
+3870,169,React,React.js
+3871,170,React,React.js
+3872,170,React,React.js
+3873,172,React,React.js
+3874,190,React,React.js
+3875,193,React,React.js
+3876,194,React,React.js
+3877,204,React,React.js
+3878,211,React,React.js
+3879,212,React,React.js
+3880,216,React,React.js
+3881,225,React,React.js
+3882,226,React,React.js
+3883,241,React,React.js
+3884,277,React,React.js
+3885,294,React,React.js
+3886,303,React,React.js
+3887,311,React,React.js
+3888,319,React,React.js
+3889,324,React,React.js
+3890,327,React,React.js
+3891,352,React,React.js
+3892,362,React,React.js
+3893,369,React,React.js
+3894,385,React,React.js
+3895,402,React,React.js
+3896,408,React,React.js
+3897,409,React,React.js
+3898,412,React,React.js
+3899,412,React-router,React.js
+3900,421,React,React.js
+3901,433,React,React.js
+3902,436,React,React.js
+3903,442,React,React.js
+3904,460,React,React.js
+3905,466,React,React.js
+3906,475,React,React.js
+3907,480,React,React.js
+3908,481,React,React.js
+3909,485,React,React.js
+3910,640,laravel,PHP Frameworks
+3911,665,laravel,PHP Frameworks
+3912,670,laravel,PHP Frameworks
+3913,3,Laravel,PHP Frameworks
+3914,47,Laravel,PHP Frameworks
+3915,106,Laravel,PHP Frameworks
+3916,120,Laravel,PHP Frameworks
+3917,123,Laravel,PHP Frameworks
+3918,144,Laravel,PHP Frameworks
+3919,229,Laravel,PHP Frameworks
+3920,233,Laravel,PHP Frameworks
+3921,322,Laravel,PHP Frameworks
+3922,336,Laravel,PHP Frameworks
+3923,352,Laravel,PHP Frameworks
+3924,370,Laravel,PHP Frameworks
+3925,416,Laravel,PHP Frameworks
+3926,473,Laravel,PHP Frameworks
+3927,641,redux,Redux
+3928,645,redux,Redux
+3929,728,redux,Redux
+3930,13,Redux,Redux
+3931,13,Redux Thunk,Redux
+3932,77,Redux,Redux
+3933,85,Redux,Redux
+3934,95,Redux,Redux
+3935,124,Redux,Redux
+3936,151,Redux,Redux
+3937,153,Redux,Redux
+3938,155,Redux,Redux
+3939,164,Redux,Redux
+3940,190,Redux,Redux
+3941,225,Redux,Redux
+3942,304,Redux,Redux
+3943,362,Redux,Redux
+3944,398,Redux,Redux
+3945,412,Redux,Redux
+3946,466,Redux,Redux
+3947,482,Redux,Redux
+3948,646,gulp,Gulp
+3949,45,Gulp,Gulp
+3950,59,Gulp,Gulp
+3951,61,gulp,Gulp
+3952,80,Gulp,Gulp
+3953,142,Gulp,Gulp
+3954,170,Gulp,Gulp
+3955,187,Gulp,Gulp
+3956,212,Gulp,Gulp
+3957,290,gulp,Gulp
+3958,304,Gulp,Gulp
+3959,322,Gulp,Gulp
+3960,408,gulp,Gulp
+3961,442,Gulp,Gulp
+3962,463,Gulp,Gulp
+3963,648,spring,Spring
+3964,691,spring,Spring
+3965,715,spring,Spring
+3966,715,spring-mvc,Spring
+3967,719,spring,Spring
+3968,732,spring,Spring
+3969,735,spring,Spring
+3970,739,spring,Spring
+3971,746,spring,Spring
+3972,747,spring,Spring
+3973,748,spring,Spring
+3974,757,spring,Spring
+3975,760,spring,Spring
+3976,767,spring,Spring
+3977,785,spring,Spring
+3978,792,spring,Spring
+3979,798,spring,Spring
+3980,822,spring,Spring
+3981,64,Spring,Spring
+3982,72,Spring,Spring
+3983,84,Spring (DI,Spring
+3984,84,Spring REST,Spring
+3985,84,Spring WS),Spring
+3986,84,Spring Cloud Netflix (Eureka,Spring
+3987,170,Spring,Spring
+3988,366,Spring,Spring
+3989,386,Spring Cloud,Spring
+3990,417,Spring,Spring
+3991,459,Spring,Spring
+3992,462,Spring,Spring
+3993,467,Spring,Spring
+3994,487,Spring,Spring
+3995,655,bootstrap,BootStrap
+3996,17,Bootstrap,BootStrap
+3997,95,Bootstrap,BootStrap
+3998,123,Bootstrap,BootStrap
+3999,154,Bootstrap,BootStrap
+4000,287,Bootstrap,BootStrap
+4001,393,Bootstrap,BootStrap
+4002,395,BootStrap,BootStrap
+4003,460,Bootstrap,BootStrap
+4004,475,Bootstrap,BootStrap
+4005,655,backbone,JavaScript Tools
+4006,85,Backbone,JavaScript Tools
+4007,385,Backbone,JavaScript Tools
+4008,402,Backbone,JavaScript Tools
+4009,460,Backbone,JavaScript Tools
+4010,466,Backbone,JavaScript Tools
+4011,469,Backbone,JavaScript Tools
+4012,665,typescript,TypeScript
+4013,688,typescript,TypeScript
+4014,738,typescript,TypeScript
+4015,766,typescript,TypeScript
+4016,814,typescript,TypeScript
+4017,27,TypeScript,TypeScript
+4018,31,TypeScript,TypeScript
+4019,90,TypeScript,TypeScript
+4020,125,Typescript,TypeScript
+4021,153,TypeScript,TypeScript
+4022,177,Typescript,TypeScript
+4023,244,TypeScript,TypeScript
+4024,248,TypeScript,TypeScript
+4025,282,TypeScript,TypeScript
+4026,311,TypeScript,TypeScript
+4027,315,Typescript,TypeScript
+4028,378,TypeScript,TypeScript
+4029,413,TypeScript,TypeScript
+4030,670,elasticsearch,Elastic Stack
+4031,712,elasticsearch,Elastic Stack
+4032,774,elasticsearch,Elastic Stack
+4033,820,elasticsearch,Elastic Stack
+4034,20,ElasticSearch,Elastic Stack
+4035,53,Elasticsearch,Elastic Stack
+4036,60,Elasticsearch,Elastic Stack
+4037,72,ElasticSearch,Elastic Stack
+4038,82,Elasticsearch,Elastic Stack
+4039,86,Elasticsearch,Elastic Stack
+4040,150,Elasticsearch,Elastic Stack
+4041,155,Elasticsearch,Elastic Stack
+4042,211,Elasticsearch,Elastic Stack
+4043,212,Elasticsearch,Elastic Stack
+4044,225,Elasticsearch,Elastic Stack
+4045,227,ElasticSearch,Elastic Stack
+4046,229,ElasticSearch,Elastic Stack
+4047,230,Aerospike/Redis/Elasticsearch,Elastic Stack
+4048,234,Cassandra/ElasticSearch,Elastic Stack
+4049,258,ElasticSearch,Elastic Stack
+4050,258,ElasticSearch,Elastic Stack
+4051,301,Elasticsearch,Elastic Stack
+4052,336,ElasticSearch,Elastic Stack
+4053,339,Elasticsearch,Elastic Stack
+4054,349,ElasticSearch,Elastic Stack
+4055,413,ElasticSearch,Elastic Stack
+4056,417,Elasticsearch,Elastic Stack
+4057,443,Elasticsearch,Elastic Stack
+4058,444,Elasticsearch,Elastic Stack
+4059,458,Elasticsearch,Elastic Stack
+4060,459,ElasticSearch,Elastic Stack
+4061,462,ElasticSearch,Elastic Stack
+4062,472,ElasticSearch,Elastic Stack
+4063,480,ElasticSearch,Elastic Stack
+4064,483,ElasticSearch,Elastic Stack
+4065,487,ElasticSearch,Elastic Stack
+4066,673,android,Android
+4067,677,android,Android
+4068,716,android,Android
+4069,768,android,Android
+4070,771,android,Android
+4071,783,android,Android
+4072,793,android,Android
+4073,803,android,Android
+4074,808,android,Android
+4075,814,android,Android
+4076,825,android,Android
+4077,51,android,Android
+4078,53,Android,Android
+4079,66,Android,Android
+4080,71,Android,Android
+4081,161,Android,Android
+4082,167,Android SDK,Android
+4083,209,Android SDK,Android
+4084,209,Android Studio,Android
+4085,318,Calabash Android,Android
+4086,359,Android,Android
+4087,405,Android,Android
+4088,418,Android,Android
+4089,419,Android,Android
+4090,439,Android,Android
+4091,446,Android,Android
+4092,468,Android,Android
+4093,471,Android,Android
+4094,486,Android,Android
+4095,676,puppet,IT Automation
+4096,682,puppet,IT Automation
+4097,744,puppet,IT Automation
+4098,774,puppet,IT Automation
+4099,786,puppet,IT Automation
+4100,9,Puppet,IT Automation
+4101,96,Puppet,IT Automation
+4102,157,Puppet,IT Automation
+4103,210,Puppet,IT Automation
+4104,219,Puppet,IT Automation
+4105,231,Puppet,IT Automation
+4106,250,Puppet,IT Automation
+4107,253,Puppet,IT Automation
+4108,255,Puppet,IT Automation
+4109,261,Puppet,IT Automation
+4110,406,Puppet,IT Automation
+4111,429,Puppet,IT Automation
+4112,436,Puppet,IT Automation
+4113,438,Puppet,IT Automation
+4114,464,Puppet,IT Automation
+4115,470,Puppet,IT Automation
+4116,487,Puppet,IT Automation
+4117,682,chef,Chef
+4118,744,chef,Chef
+4119,816,chef,Chef
+4120,9,Chef,Chef
+4121,96,Chef,Chef
+4122,144,Chef,Chef
+4123,157,Chef,Chef
+4124,204,Chef,Chef
+4125,210,Chef,Chef
+4126,219,Chef,Chef
+4127,231,Chef,Chef
+4128,250,Chef,Chef
+4129,255,Chef,Chef
+4130,353,Chef,Chef
+4131,391,Chef,Chef
+4132,406,Chef,Chef
+4133,436,Chef,Chef
+4134,438,Chef,Chef
+4135,464,Chef,Chef
+4136,470,Chef,Chef
+4137,487,Chef,Chef
+4138,688,video.js,JavaScript Tools
+4139,717,backbone.js,JavaScript Tools
+4140,718,backbone.js,JavaScript Tools
+4141,737,backbone.js,JavaScript Tools
+4142,17,JS,JavaScript Tools
+4143,17,D3.js,JavaScript Tools
+4144,25,Backbone.js,JavaScript Tools
+4145,27,Backbone.js,JavaScript Tools
+4146,30,JS Web Components,JavaScript Tools
+4147,39,JS,JavaScript Tools
+4148,39,Webpack/Require.js,JavaScript Tools
+4149,39,Grunt.js,JavaScript Tools
+4150,39,Gulp.js,JavaScript Tools
+4151,44,Require.js,JavaScript Tools
+4152,44,Grunt.js,JavaScript Tools
+4153,44,Gulp.js,JavaScript Tools
+4154,63,Express.js,JavaScript Tools
+4155,94,JS,JavaScript Tools
+4156,131,nightwatch.js,JavaScript Tools
+4157,131,next.js,JavaScript Tools
+4158,163,JS,JavaScript Tools
+4159,172,D3.js,JavaScript Tools
+4160,216,Browser JS APIs,JavaScript Tools
+4161,237,Ember.js,JavaScript Tools
+4162,237,D3.js,JavaScript Tools
+4163,302,d3.js,JavaScript Tools
+4164,304,D3.js,JavaScript Tools
+4165,304,Chart.js,JavaScript Tools
+4166,311,Backbone.js,JavaScript Tools
+4167,332,Backbone.js,JavaScript Tools
+4168,338,Vanilla.js,JavaScript Tools
+4169,342,Pixi.js,JavaScript Tools
+4170,385,JS,JavaScript Tools
+4171,394,Vanilla.js,JavaScript Tools
+4172,463,Require.js,JavaScript Tools
+4173,466,D3.js,JavaScript Tools
+4174,466,Chart.js,JavaScript Tools
+4175,691,maven,Apache Frameworks
+4176,760,maven,Apache Frameworks
+4177,767,maven,Apache Frameworks
+4178,785,maven,Apache Frameworks
+4179,798,maven,Apache Frameworks
+4180,64,Maven,Apache Frameworks
+4181,84,Maven,Apache Frameworks
+4182,127,Maven,Apache Frameworks
+4183,157,Maven,Apache Frameworks
+4184,206,Gradle/Maven,Apache Frameworks
+4185,703,xml,XML
+4186,822,xml,XML
+4187,111,XML,XML
+4188,224,XML,XML
+4189,276,XML,XML
+4190,357,XML,XML
+4191,436,XML,XML
+4192,458,XML,XML
+4193,476,XML,XML
+4194,489,XML,XML
+4195,710,selenium,Apache Frameworks
+4196,733,selenium,Apache Frameworks
+4197,736,selenium,Apache Frameworks
+4198,740,selenium,Apache Frameworks
+4199,749,selenium,Apache Frameworks
+4200,802,selenium-webdriver,Apache Frameworks
+4201,815,selenium,Apache Frameworks
+4202,827,selenium,Apache Frameworks
+4203,17,Selenium,Apache Frameworks
+4204,68,Selenium,Apache Frameworks
+4205,91,Selenium,Apache Frameworks
+4206,108,Selenium,Apache Frameworks
+4207,122,Selenium,Apache Frameworks
+4208,122,Selenium Grid,Apache Frameworks
+4209,127,Selenium,Apache Frameworks
+4210,143,Selenium,Apache Frameworks
+4211,173,Selenium,Apache Frameworks
+4212,189,Selenium,Apache Frameworks
+4213,192,Selenium,Apache Frameworks
+4214,206,Selenium,Apache Frameworks
+4215,242,Selenium,Apache Frameworks
+4216,252,Selenium,Apache Frameworks
+4217,306,Selenium,Apache Frameworks
+4218,318,Selenium,Apache Frameworks
+4219,384,Selenium,Apache Frameworks
+4220,415,Selenium Web Driver,Apache Frameworks
+4221,433,Selenium,Apache Frameworks
+4222,447,Selenium,Apache Frameworks
+4223,752,unix,Unix/Linux
+4224,37,Unix,Unix/Linux
+4225,127,Unix,Unix/Linux
+4226,186,UNIX,Unix/Linux
+4227,222,UNIX,Unix/Linux
+4228,223,Unix,Unix/Linux
+4229,226,Unix,Unix/Linux
+4230,275,Unix,Unix/Linux
+4231,383,UNIX OS,Unix/Linux
+4232,450,UNIX,Unix/Linux
+4233,761,node,Node.js
+4234,53,Node,Node.js
+4235,85,Node,Node.js
+4236,106,Node,Node.js
+4237,139,Node,Node.js
+4238,160,Node,Node.js
+4239,170,Node,Node.js
+4240,185,Node,Node.js
+4241,258,Node,Node.js
+4242,448,Node,Node.js
+4243,762,google-cloud-platform,Google Cloud Platform
+4244,19,Google Cloud Platform,Google Cloud Platform
+4245,20,Google Cloud Platform,Google Cloud Platform
+4246,107,Google Cloud Platform,Google Cloud Platform
+4247,434,Google Cloud Platform,Google Cloud Platform
+4248,765,spring-boot,Spring
+4249,816,spring-boot,Spring
+4250,72,Spring-Boot,Spring
+4251,90,Spring Boot,Spring
+4252,193,Spring Boot,Spring
+4253,262,Spring Boot,Spring
+4254,290,Spring-Boot,Spring
+4255,353,Spring Boot,Spring
+4256,391,Spring Boot,Spring
+4257,459,Spring-Boot,Spring
+4258,462,Spring-Boot,Spring
+4259,768,ios,iOS
+4260,771,ios,iOS
+4261,793,ios,iOS
+4262,793,ios-frameworks,iOS
+4263,799,ios,iOS
+4264,811,ios,iOS
+4265,821,ios,iOS
+4266,828,ios,iOS
+4267,53,iOS,iOS
+4268,158,iOS SDK,iOS
+4269,168,iOS SDK,iOS
+4270,213,iOS SDK,iOS
+4271,318,Calabash iOS,iOS
+4272,342,Phaser.io,iOS
+4273,431,Cocoa Touch & iOS,iOS
+4274,446,iOS,iOS
+4275,468,iOS,iOS
+4276,471,iOS,iOS
+4277,484,iOS,iOS
+4278,486,iOS,iOS
+4279,768,objective-c,Objective-C
+4280,779,objective-c,Objective-C
+4281,793,objective-c,Objective-C
+4282,794,objective-c,Objective-C
+4283,799,objective-c,Objective-C
+4284,814,objective-c,Objective-C
+4285,821,objective-c,Objective-C
+4286,823,objective-c,Objective-C
+4287,828,objective-c,Objective-C
+4288,38,Objective C,Objective-C
+4289,42,Objective C,Objective-C
+4290,53,Objective-C,Objective-C
+4291,111,Objective-C,Objective-C
+4292,158,Objective-C,Objective-C
+4293,168,Objective-C,Objective-C
+4294,180,Objective-C,Objective-C
+4295,188,Objective-C,Objective-C
+4296,281,Objective-C,Objective-C
+4297,299,objective-C,Objective-C
+4298,326,Objective-C,Objective-C
+4299,335,Objective-C,Objective-C
+4300,360,Objective-C,Objective-C
+4301,380,Objective C,Objective-C
+4302,420,Objective-C,Objective-C
+4303,422,Objective-C,Objective-C
+4304,431,Objective-C,Objective-C
+4305,484,Objective-C,Objective-C
+4306,768,swift,Swift
+4307,779,swift,Swift
+4308,794,swift,Swift
+4309,799,swift,Swift
+4310,821,swift,Swift
+4311,823,swift,Swift
+4312,828,swift,Swift
+4313,38,Swift,Swift
+4314,53,Swift,Swift
+4315,71,Swift,Swift
+4316,158,Swift,Swift
+4317,168,Swift,Swift
+4318,188,Swift,Swift
+4319,213,Swift,Swift
+4320,240,Swift,Swift
+4321,281,Swift,Swift
+4322,299,swift,Swift
+4323,326,Swift,Swift
+4324,335,Swift,Swift
+4325,360,Swift,Swift
+4326,380,Swift,Swift
+4327,389,Swift,Swift
+4328,420,Swift,Swift
+4329,422,Swift,Swift
+4330,431,Swift,Swift
+4331,484,Swift,Swift
+4332,771,json,JSON
+4333,779,json,JSON
+4334,1,JSON,JSON
+4335,66,JSON,JSON
+4336,111,JSON,JSON
+4337,111,JSON,JSON
+4338,195,JSON,JSON
+4339,224,JSON,JSON
+4340,276,JSON,JSON
+4341,316,JSON,JSON
+4342,348,JSON,JSON
+4343,357,JSON,JSON
+4344,429,JSON,JSON
+4345,431,JSON,JSON
+4346,436,Json,JSON
+4347,458,JSON,JSON
+4348,476,JSON,JSON
+4349,484,JSON,JSON
+4350,772,kanban,Agile
+4351,69,Kanban,Agile
+4352,72,Kanban,Agile
+4353,74,Kanban,Agile
+4354,97,Kanban,Agile
+4355,128,Kanban,Agile
+4356,140,Kanban,Agile
+4357,143,KANBAN,Agile
+4358,151,kanban,Agile
+4359,172,KANBAN,Agile
+4360,232,Kanban,Agile
+4361,233,Kanban,Agile
+4362,257,Kanban,Agile
+4363,260,Kanban,Agile
+4364,274,Kanban,Agile
+4365,318,Kanban,Agile
+4366,322,Kanban,Agile
+4367,362,Kanban,Agile
+4368,367,Kanban,Agile
+4369,397,Kanban,Agile
+4370,413,Kanban,Agile
+4371,437,Kanban,Agile
+4372,447,Kanban,Agile
+4373,458,Kanban,Agile
+4374,459,Kanban,Agile
+4375,462,Kanban,Agile
+4376,471,Kanban,Agile
+4377,802,jira,Jira
+4378,810,jira,Jira
+4379,15,JIRA,Jira
+4380,39,Jira,Jira
+4381,87,Jira,Jira
+4382,108,Jira,Jira
+4383,118,Jira,Jira
+4384,127,Jira,Jira
+4385,136,Jira,Jira
+4386,143,Jira,Jira
+4387,175,JIRA,Jira
+4388,190,Jira,Jira
+4389,191,Jira,Jira
+4390,220,JIRA,Jira
+4391,232,Jira,Jira
+4392,276,JIRA,Jira
+4393,285,Jira,Jira
+4394,287,Jira,Jira
+4395,289,Jira,Jira
+4396,306,Jira,Jira
+4397,307,JIRA,Jira
+4398,314,Jira,Jira
+4399,328,Jira,Jira
+4400,413,Jira,Jira
+4401,480,JIRA,Jira
+4402,483,Jira,Jira
+4403,6,Nginx,NGinx
+4404,86,nginx,NGinx
+4405,105,nginx,NGinx
+4406,147,Nginx,NGinx
+4407,210,Nginx,NGinx
+4408,219,nginx,NGinx
+4409,402,Nginx,NGinx
+4410,406,nginx,NGinx
+4411,408,NGINX,NGinx
+4412,413,Nginx,NGinx
+4413,448,NGINX,NGinx
+4414,7,Restful APIs,RESTful APIs
+4415,16,Rest APIs,RESTful APIs
+4416,30,RESTful API,RESTful APIs
+4417,31,REST API,RESTful APIs
+4418,37,REST API,RESTful APIs
+4419,38,RESTful API,RESTful APIs
+4420,61,restful APIs,RESTful APIs
+4421,65,REST APIs,RESTful APIs
+4422,90,REST APIs,RESTful APIs
+4423,102,REST APIs,RESTful APIs
+4424,111,REST APIs,RESTful APIs
+4425,131,Restful API,RESTful APIs
+4426,177,REST API design,RESTful APIs
+4427,181,RESTful API,RESTful APIs
+4428,209,RESTful API,RESTful APIs
+4429,212,Restful APIs,RESTful APIs
+4430,214,REST API,RESTful APIs
+4431,218,REST APIs,RESTful APIs
+4432,222,RESTful API’s,RESTful APIs
+4433,223,REST API’s,RESTful APIs
+4434,226,REST-APIs,RESTful APIs
+4435,281,REST API,RESTful APIs
+4436,290,REST API,RESTful APIs
+4437,299,REST APIs,RESTful APIs
+4438,312,REST API,RESTful APIs
+4439,316,RESTful API,RESTful APIs
+4440,322,RESTful API,RESTful APIs
+4441,324,RESTful APIs,RESTful APIs
+4442,326,RESTful APIs,RESTful APIs
+4443,336,REST APIs,RESTful APIs
+4444,338,RESTful APIs,RESTful APIs
+4445,345,RESTful APIs,RESTful APIs
+4446,348,REST APIs,RESTful APIs
+4447,387,REST APIs,RESTful APIs
+4448,394,RESTful-APIs,RESTful APIs
+4449,402,RESTful API,RESTful APIs
+4450,410,RESTful APIs,RESTful APIs
+4451,416,REST API,RESTful APIs
+4452,417,Restful APIs,RESTful APIs
+4453,441,REST APIs,RESTful APIs
+4454,443,REST APIs,RESTful APIs
+4455,472,RESTful APIs,RESTful APIs
+4456,475,RESTful APIs,RESTful APIs
+4457,479,Restful APIs,RESTful APIs
+4458,480,REST APIs,RESTful APIs
+4459,481,REST APIs,RESTful APIs
+4460,483,REST API,RESTful APIs
+4461,487,RESTful APIs,RESTful APIs
+4462,10,Spark,Apache Frameworks
+4463,11,Spark,Apache Frameworks
+4464,20,Spark,Apache Frameworks
+4465,109,Spark,Apache Frameworks
+4466,129,spark,Apache Frameworks
+4467,130,Spark,Apache Frameworks
+4468,138,Spark,Apache Frameworks
+4469,145,Spark,Apache Frameworks
+4470,230,Spark,Apache Frameworks
+4471,251,Spark,Apache Frameworks
+4472,262,Spark,Apache Frameworks
+4473,263,Spark,Apache Frameworks
+4474,263,Spark,Apache Frameworks
+4475,265,Spark,Apache Frameworks
+4476,267,Spark,Apache Frameworks
+4477,271,Spark,Apache Frameworks
+4478,301,Spark,Apache Frameworks
+4479,302,Spark,Apache Frameworks
+4480,330,Spark,Apache Frameworks
+4481,331,Spark,Apache Frameworks
+4482,363,spark,Apache Frameworks
+4483,397,Spark,Apache Frameworks
+4484,414,Spark,Apache Frameworks
+4485,426,Spark,Apache Frameworks
+4486,443,Spark,Apache Frameworks
+4487,483,Spark,Apache Frameworks
+4488,11,Golang,Go
+4489,21,Golang,Go
+4490,40,Golang,Go
+4491,344,Golang,Go
+4492,363,Golang,Go
+4493,376,GoLang,Go
+4494,413,Golang,Go
+4495,435,Golang,Go
+4496,448,GoLang,Go
+4497,450,Golang,Go
+4498,478,Golang,Go
+4499,11,Kafka,Apache Frameworks
+4500,18,Kafka,Apache Frameworks
+4501,23,Kafka,Apache Frameworks
+4502,56,KAFKA,Apache Frameworks
+4503,99,Kafka,Apache Frameworks
+4504,147,Kafka,Apache Frameworks
+4505,229,Kafka,Apache Frameworks
+4506,258,Kafka,Apache Frameworks
+4507,262,Kafka,Apache Frameworks
+4508,263,Kafka,Apache Frameworks
+4509,302,Kafka,Apache Frameworks
+4510,363,Kafka,Apache Frameworks
+4511,368,Kafka,Apache Frameworks
+4512,386,Kafka,Apache Frameworks
+4513,397,Kafka,Apache Frameworks
+4514,414,Kafka,Apache Frameworks
+4515,443,Kafka,Apache Frameworks
+4516,444,Kafka,Apache Frameworks
+4517,470,Kafka,Apache Frameworks
+4518,478,Kafka,Apache Frameworks
+4519,483,Kafka,Apache Frameworks
+4520,13,Bower,Bower
+4521,39,Bower,Bower
+4522,44,Bower,Bower
+4523,190,Bower,Bower
+4524,287,Bower,Bower
+4525,290,bower,Bower
+4526,322,Bower,Bower
+4527,408,bower,Bower
+4528,442,Bower,Bower
+4529,463,Bower,Bower
+4530,17,Jasmine,JavaScript Tools
+4531,33,Jasmine,JavaScript Tools
+4532,39,Jasmine,JavaScript Tools
+4533,44,Jasmine,JavaScript Tools
+4534,169,Jasmine,JavaScript Tools
+4535,226,Jasmine,JavaScript Tools
+4536,252,Jasmine,JavaScript Tools
+4537,304,Jasmine,JavaScript Tools
+4538,348,Jasmine,JavaScript Tools
+4539,408,Jasmine,JavaScript Tools
+4540,21,TCP/IP stack,TCP/IP
+4541,96,TCP/IP,TCP/IP
+4542,216,TCP/IP,TCP/IP
+4543,316,IP,TCP/IP
+4544,427,TCP/IP,TCP/IP
+4545,432,TCP/IP,TCP/IP
+4546,438,TCP/IP,TCP/IP
+4547,450,TCP/IP,TCP/IP
+4548,453,TCP/IP,TCP/IP
+4549,470,Big IP,TCP/IP
+4550,22,,
+4551,52,,
+4552,54,,
+4553,146,,
+4554,152,,
+4555,228,,
+4556,235,,
+4557,268,,
+4558,278,,
+4559,305,,
+4560,364,,
+4561,423,,
+4562,451,,
+4563,488,,
+4564,25,Angular.js,Angular.js
+4565,27,Angular.js,Angular.js
+4566,311,Angular.js,Angular.js
+4567,442,Angular.js,Angular.js
+4568,30,React.js,React.js
+4569,78,React.js,React.js
+4570,80,React.js,React.js
+4571,155,React.js,React.js
+4572,214,React.js,React.js
+4573,248,React.js,React.js
+4574,304,React.js,React.js
+4575,482,React.js,React.js
+4576,486,React JS,React.js
+4577,31,npm,npm
+4578,39,Npm,npm
+4579,44,Npm,npm
+4580,117,npm,npm
+4581,177,npm,npm
+4582,216,NPM,npm
+4583,297,npm,npm
+4584,322,NPM,npm
+4585,408,npm,npm
+4586,442,npm,npm
+4587,463,Npm,npm
+4588,31,EC2,JavaScript Tools
+4589,86,EC2,JavaScript Tools
+4590,105,EC2,JavaScript Tools
+4591,144,EC2,JavaScript Tools
+4592,177,EC2,JavaScript Tools
+4593,204,EC2,JavaScript Tools
+4594,290,EC2,JavaScript Tools
+4595,375,EC2,JavaScript Tools
+4596,448,EC2,JavaScript Tools
+4597,31,S3,S3
+4598,105,S3,S3
+4599,121,S3,S3
+4600,177,S3,S3
+4601,263,S3,S3
+4602,282,S3,S3
+4603,290,S3,S3
+4604,375,S3,S3
+4605,403,S3,S3
+4606,408,S3,S3
+4607,417,S3,S3
+4608,448,S3,S3
+4609,33,ES6,JavaScript Tools
+4610,45,ES6,JavaScript Tools
+4611,78,ES6,JavaScript Tools
+4612,131,ES6+,JavaScript Tools
+4613,159,ES6,JavaScript Tools
+4614,190,ES6,JavaScript Tools
+4615,236,ES6,JavaScript Tools
+4616,237,ES6,JavaScript Tools
+4617,238,ES6,JavaScript Tools
+4618,280,ES6,JavaScript Tools
+4619,304,ES6,JavaScript Tools
+4620,313,ES6,JavaScript Tools
+4621,338,Es6,JavaScript Tools
+4622,466,ES6,JavaScript Tools
+4623,40,CI server,Continuous integration
+4624,109,CI,Continuous integration
+4625,206,CI-System,Continuous integration
+4626,248,CI,Continuous integration
+4627,279,GitLab CI,Continuous integration
+4628,280,GitLab CI,Continuous integration
+4629,385,CI,Continuous integration
+4630,405,CI,Continuous integration
+4631,45,Grunt,Grunt
+4632,59,Grunt,Grunt
+4633,61,grunt,Grunt
+4634,142,Grunt,Grunt
+4635,159,Grunt,Grunt
+4636,187,Grunt,Grunt
+4637,212,Grunt,Grunt
+4638,304,Grunt,Grunt
+4639,322,Grunt,Grunt
+4640,442,Grunt,Grunt
+4641,463,Grunt,Grunt
+4642,53,Postgres,SQL
+4643,124,Postgres,SQL
+4644,225,Postgres,SQL
+4645,264,Postgres,SQL
+4646,357,PostGres,SQL
+4647,363,Postgres,SQL
+4648,387,Postgres,SQL
+4649,412,Postgres,SQL
+4650,413,Postgres,SQL
+4651,417,Postgres,SQL
+4652,453,Postgres,SQL
+4653,65,UNIX/Linux,Unix/Linux
+4654,76,Linux/Unix,Unix/Linux
+4655,86,Linux/UNIX,Unix/Linux
+4656,94,Unix/Linux,Unix/Linux
+4657,234,Unix/Linux,Unix/Linux
+4658,279,Unix/Linux,Unix/Linux
+4659,435,Linux / Unix,Unix/Linux
+4660,476,Linux/UNIX,Unix/Linux
+4661,70,UI/UX,UX/UI
+4662,77,UX/UI,UX/UI
+4663,88,UI/UX,UX/UI
+4664,111,UI/UX,UX/UI
+4665,142,UI/UX,UX/UI
+4666,195,UI/UX,UX/UI
+4667,334,UX/UI,UX/UI
+4668,418,Mobile UI/UX,UX/UI
+4669,419,Mobile UI/UX,UX/UI
+4670,420,Mobile UI/UX,UX/UI
+4671,422,Mobile UI/UX,UX/UI
+4672,474,UI/UX,UX/UI
+4673,80,SASS/LESS,Sass/LESS
+4674,100,SASS/LESS,Sass/LESS
+4675,106,SASS / LESS,Sass/LESS
+4676,142,Sass/Less,Sass/LESS
+4677,166,LESS/SASS,Sass/LESS
+4678,214,LESS/SASS,Sass/LESS
+4679,338,Sass/LESS,Sass/LESS
+4680,379,SASS/LESS,Sass/LESS
+4681,94,NodeJS,Node.js
+4682,176,NodeJS,Node.js
+4683,212,NodeJS,Node.js
+4684,252,NodeJS,Node.js
+4685,277,Nodejs,Node.js
+4686,282,NodeJs,Node.js
+4687,290,NodeJS,Node.js
+4688,297,NodeJS,Node.js
+4689,375,NodeJS,Node.js
+4690,376,Nodejs,Node.js
+4691,379,NodeJS,Node.js
+4692,383,NodeJS,Node.js
+4693,402,NodeJS,Node.js
+4694,436,NodeJS,Node.js
+4695,466,NodeJS,Node.js
+4696,481,NodeJS,Node.js
+4697,111,UI Kit,UX/UI
+4698,157,UI,UX/UI
+4699,191,UI,UX/UI
+4700,240,UI,UX/UI
+4701,379,UI,UX/UI
+4702,389,XCode UI Automation,UX/UI
+4703,112,RSpec,RSpec
+4704,124,Rspec,RSpec
+4705,279,RSpec,RSpec
+4706,280,RSpec,RSpec
+4707,314,Rspec,RSpec
+4708,329,RSpec,RSpec
+4709,362,Rspec,RSpec
+4710,399,RSpec,RSpec
+4711,412,Rspec,RSpec
+4712,436,Rspec,RSpec
+4713,126,CI/CD,CI/CD
+4714,179,CD / CI,CI/CD
+4715,262,CI/CD,CI/CD
+4716,264,CI/CD,CI/CD
+4717,418,CI/CD,CI/CD
+4718,419,CI/CD,CI/CD
+4719,420,CI/CD,CI/CD
+4720,422,CI/CD,CI/CD
+4721,142,JavaScript ES6,JavaScript Tools
+4722,151,Javascript ES6,JavaScript Tools
+4723,154,Javascript ES6/ES2015,JavaScript Tools
+4724,172,Javascript ES6,JavaScript Tools
+4725,379,JavaScript (ES6),JavaScript Tools
+4726,383,JavaScript (ES6),JavaScript Tools
+4727,392,JavaScript (ES6+),JavaScript Tools
+4728,394,JavaScript (Es6),JavaScript Tools
